@@ -1,7 +1,12 @@
 # `code`
 
-It's important to keep the code that is executed separated from that which is called. The distinct difference here is that executed code should change from day-to-day or analysis to analysis. You're not necessarily making all measurements at the same time, or at the exact same concentration, or even on the same materials. As your experiments change, your code should also change to make sure you a transforming or interpreting the data correctly. 
+In this directory, you find all the code from the project. It is subdivided in four subfolders:
 
-However, any code that is critical for an analysis, such as a function that computes some quantity from your data, should be written such that it is *modular* and is used the same way from day-to-day. This type of code should be referenced by your analysis or processing scripts such that if you change the way you perform something, it can be applied to all of your experiments simply by rerunning the processing scripts. You *don't* want to go back through each experiment and make that change by hand.
+## **`code`** 
+This folder includes all the source code used for processing the data, doing the modelling, and generating all figures. It is divided in the following subdirectories:
 
-This directory is broken into several subdirectories, each of which has a `README.md` file describing what should be there with some examples. 
+ * **`processing`**: Includes all the code used to correct and transform the data. 
+ * **`analysis`**: Includes the scripts used to make Michaelis-Menten fits, linear regressions, and other analysis of the data. 
+ * **`modelling`**: Contains the scripts used to model the changes in the isotopic composition of DMSP in vitro (under a scenario of enzyme degradation) and in the environment (with multiple degradation pathways).
+ * **`figures`**: Contains all the scripts used to generate the figures in the main text and the supplementary material. 
+  * **`notebooks`**: Contains all the jupyter notebooks that describe the data treatment, modelling, and figure plotting. 
