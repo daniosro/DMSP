@@ -12,6 +12,7 @@ This folder includes all the source code used for processing the data, doing the
  * **`analysis`**: Includes the scripts used to make Michaelis-Menten fits, linear regressions, and other analysis of the data. 
  * **`modelling`**: Contains the scripts used to model the changes in the isotopic composition of DMSP in vitro (under a scenario of enzyme degradation) and in the environment (with multiple degradation pathways).
  * **`figures`**: Contains all the scripts used to generate the figures in the main text and the supplementary material. 
+  * **`notebooks`**: Contains all the jupyter notebooks that describe the data treatment, modelling, and figure plotting. 
 
  ### **`templates`** 
 This folder contains templates for all the analysis performed in this project.
