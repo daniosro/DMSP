@@ -1,9 +1,6 @@
 # `code`
 
-In this directory, you find all the code from the project. It is subdivided in four subfolders:
-
-## **`code`** 
-This folder includes all the source code used for processing the data, doing the modelling, and generating all figures. It is divided in the following subdirectories:
+In this directory, you find all the source code from the project, including that used for processing the data, doing the modelling, and generating all figures. It is divided in the following subdirectories:
 
  * **`processing`**: Includes all the code used to correct and transform the data. 
  * **`analysis`**: Includes the scripts used to make Michaelis-Menten fits, linear regressions, and other analysis of the data. 
