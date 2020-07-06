@@ -6,7 +6,7 @@ Welcome to the GitHub repository that includes the code and data for this projec
 
 The repository is split into three main directories. Please see each directory for information about each file.
 
-### **`src`** 
+### **`code`** 
 This folder includes all the source code used for processing the data, doing the modelling, and generating all figures. It is divided in the following subdirectories:
  * **`processing`**: Includes all the code used to correct and transform the data. 
  * **`analysis`**: Includes the scripts used to make Michaelis-Menten fits, linear regressions, and other analysis of the data. 
