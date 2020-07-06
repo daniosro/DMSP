@@ -1,0 +1,4 @@
+# This file exists to stop the addition of forbidden files into 
+# the github repository.
+
+*.DS_store
