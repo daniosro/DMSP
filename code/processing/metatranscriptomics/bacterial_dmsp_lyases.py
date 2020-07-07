@@ -17,7 +17,8 @@ sns.set_palette("colorblind", color_codes=True)
 sns.set_context("paper")
 
 # load data
-df_stab8_cursonetal_2018 = pd.read_csv('/Users/daniosro/git/DMSP/data/stab8_cursonetal_2018.csv')
+df_stab8_cursonetal_2018 = pd.read_csv('/Users/daniosro/git/DMSP/data'
+'/stab8_cursonetal_2018.csv')
 df_stab8_cursonetal_2018.head()
 
 # %%
