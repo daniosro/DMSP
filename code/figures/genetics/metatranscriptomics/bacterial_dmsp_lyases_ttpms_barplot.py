@@ -17,8 +17,26 @@ sns.set_palette("colorblind", color_codes=True)
 sns.set_context("paper")
 
 # load data
-df_stab8_cursonetal_2018 = pd.read_csv('/Users/daniosro/git/DMSP/data'
-'/stab8_cursonetal_2018.csv')
-df_stab8_cursonetal_2018.head()
+df_enzymes = pd.read_csv(f'{homedir}/data/processed/genetics/stab8_cursonetal_2018_tidy.csv')
+df_enzymes.head()
+
+# %%
+# Create dataframe for the mean transcripts per million sequences (TTPMS) for each enzyme
+
+#Calculate the mean and standard deviation of TTPMS for each enzyme
+df_averages_ttpms = df_enzymes.groupby('Enzyme').Total_transcripts_per_million_sequences.agg(['mean','std']).reset_index()
+df_averages_ttpms.head()
+# %%
+#Make figure
+fig = plt.figure(figsize=(2.95, 1.95), dpi=192)
+#Add barplot
+ax = sns.barplot(y='mean', x='Enzyme', data=df_averages_ttpms)
+#Set labels
+ax.set(xlabel='Gene', ylabel='Total transcripts per million sequences')
+#Rotate x tick marks
+plt.xticks(rotation=30)
+
+#Save figure
+fig.savefig(f'{homedir}/figures/genetics/metatranscriptomics/stab8_curson2018_bact.pdf', bbox_inches='tight')
 
 # %%
