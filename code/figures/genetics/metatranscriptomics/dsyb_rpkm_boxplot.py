@@ -1,11 +1,7 @@
 # %%
-import os
 import numpy as np
-import scipy
-import scipy.optimize
 import pandas as pd
 import git
-from collections import OrderedDict
 
 # Find home directory for repo
 repo = git.Repo("./", search_parent_directories=True)
