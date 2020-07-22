@@ -1,0 +1,2623 @@
+,Station,Depth,Filter,MGT,Transcripts,Gene,Ocean_and_sea_regions,Reads_per_Kb_per_million_mapped_reads
+0,9,SRF,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+1,9,SRF,0.8 to 5,44,0.0,alma1,Mediterranean Sea,0.0
+2,9,SRF,0.8 to 5,36,1.01e-06,alma1,Mediterranean Sea,1010.0000000000001
+3,137,SRF,20 to 180,46,4.1200000000000004e-07,alma1,North Pacific Ocean,412.00000000000006
+4,137,SRF,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+5,111,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+6,111,SRF,180 to 2000,2493,4.91e-08,alma1,South Pacific Ocean,49.1
+7,137,DCM,5 to 20,332,0.0,alma1,North Pacific Ocean,0.0
+8,137,DCM,5 to 20,58,2.3900000000000002e-08,alma1,North Pacific Ocean,23.900000000000002
+9,137,DCM,5 to 20,46,1.71e-07,alma1,North Pacific Ocean,171.0
+10,137,DCM,5 to 20,12,4.16e-08,alma1,North Pacific Ocean,41.6
+11,137,DCM,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+12,102,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+13,102,SRF,20 to 180,332,0.0,alma1,South Pacific Ocean,0.0
+14,67,SRF,0.8 to 5,747,0.0,alma1,South Atlantic Ocean,0.0
+15,67,SRF,0.8 to 5,58,0.0,alma1,South Atlantic Ocean,0.0
+16,67,SRF,0.8 to 5,36,2.59e-07,alma1,South Atlantic Ocean,259.0
+17,109,DCM,20 to 180,58,0.0,alma1,North Pacific Ocean,0.0
+18,109,DCM,20 to 180,38,0.0,alma1,North Pacific Ocean,0.0
+19,109,DCM,20 to 180,166,0.0,alma1,North Pacific Ocean,0.0
+20,109,DCM,20 to 180,1580,3.1299999999999996e-08,alma1,North Pacific Ocean,31.299999999999997
+21,109,DCM,20 to 180,179,0.0,alma1,North Pacific Ocean,0.0
+22,109,DCM,20 to 180,332,0.0,alma1,North Pacific Ocean,0.0
+23,109,DCM,20 to 180,2493,3.4500000000000005e-08,alma1,North Pacific Ocean,34.50000000000001
+24,109,DCM,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+25,68,DCM,180 to 2000,332,0.0,alma1,South Atlantic Ocean,0.0
+26,68,DCM,180 to 2000,2493,4.23e-08,alma1,South Atlantic Ocean,42.300000000000004
+27,68,DCM,180 to 2000,44,0.0,alma1,South Atlantic Ocean,0.0
+28,82,SRF,20 to 180,4,3.01e-07,alma1,Southern Ocean (S of 40S),301.0
+29,82,SRF,20 to 180,67,9.86e-07,alma1,Southern Ocean (S of 40S),986.0
+30,82,SRF,20 to 180,30,0.0,alma1,Southern Ocean (S of 40S),0.0
+31,82,SRF,20 to 180,112,2.35e-07,alma1,Southern Ocean (S of 40S),235.0
+32,82,SRF,20 to 180,74,0.0,alma1,Southern Ocean (S of 40S),0.0
+33,82,SRF,20 to 180,13,1.02e-06,alma1,Southern Ocean (S of 40S),1020.0
+34,100,SRF,20 to 180,332,0.0,alma1,South Pacific Ocean,0.0
+35,100,SRF,20 to 180,46,1.05e-07,alma1,South Pacific Ocean,105.0
+36,100,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+37,81,SRF,0.8 to 5,2743,0.0,alma1,Southern Ocean (S of 40S),0.0
+38,81,SRF,0.8 to 5,179,0.0,alma1,Southern Ocean (S of 40S),0.0
+39,81,SRF,0.8 to 5,1580,5.01e-08,alma1,Southern Ocean (S of 40S),50.1
+40,81,SRF,0.8 to 5,66,0.0,alma1,Southern Ocean (S of 40S),0.0
+41,81,SRF,0.8 to 5,24,0.0,alma1,Southern Ocean (S of 40S),0.0
+42,81,SRF,0.8 to 5,13,1.8100000000000002e-07,alma1,Southern Ocean (S of 40S),181.00000000000003
+43,81,SRF,0.8 to 5,44,0.0,alma1,Southern Ocean (S of 40S),0.0
+44,81,SRF,0.8 to 5,67,8.939999999999999e-08,alma1,Southern Ocean (S of 40S),89.39999999999999
+45,81,SRF,0.8 to 5,58,6.46e-08,alma1,Southern Ocean (S of 40S),64.6
+46,81,SRF,0.8 to 5,4,1.42e-07,alma1,Southern Ocean (S of 40S),142.0
+47,81,SRF,0.8 to 5,85,1.3800000000000002e-07,alma1,Southern Ocean (S of 40S),138.00000000000003
+48,81,SRF,0.8 to 5,166,0.0,alma1,Southern Ocean (S of 40S),0.0
+49,81,SRF,0.8 to 5,36,1.06e-07,alma1,Southern Ocean (S of 40S),106.0
+50,81,SRF,0.8 to 5,74,0.0,alma1,Southern Ocean (S of 40S),0.0
+51,81,SRF,0.8 to 5,225,0.0,alma1,Southern Ocean (S of 40S),0.0
+52,41,DCM,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+53,41,DCM,0.8 to 5,178,4.93e-07,alma1,Indian Ocean,493.0
+54,41,DCM,0.8 to 5,13,7.61e-08,alma1,Indian Ocean,76.1
+55,41,DCM,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+56,41,DCM,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+57,41,DCM,0.8 to 5,188,0.0,alma1,Indian Ocean,0.0
+58,41,DCM,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+59,41,DCM,0.8 to 5,67,7.61e-08,alma1,Indian Ocean,76.1
+60,41,DCM,0.8 to 5,58,1.2199999999999998e-07,alma1,Indian Ocean,121.99999999999999
+61,137,SRF,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+62,137,SRF,5 to 20,46,2.6e-07,alma1,North Pacific Ocean,260.0
+63,137,SRF,5 to 20,58,2.9500000000000003e-08,alma1,North Pacific Ocean,29.500000000000004
+64,125,SRF,180 to 2000,58,4.1100000000000004e-08,alma1,South Pacific Ocean,41.1
+65,125,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+66,138,SRF,180 to 2000,2493,6.36e-08,alma1,North Pacific Ocean,63.6
+67,138,SRF,180 to 2000,58,0.0,alma1,North Pacific Ocean,0.0
+68,9,SRF,180 to 2000,46,1.08e-07,alma1,Mediterranean Sea,108.0
+69,81,DCM,5 to 20,67,2.1e-08,alma1,Southern Ocean (S of 40S),21.0
+70,81,DCM,5 to 20,1580,3.01e-07,alma1,Southern Ocean (S of 40S),301.0
+71,81,DCM,5 to 20,13,2.1e-08,alma1,Southern Ocean (S of 40S),21.0
+72,150,SRF,20 to 180,46,7.47e-08,alma1,North Atlantic Ocean,74.7
+73,150,SRF,20 to 180,12,1.04e-07,alma1,North Atlantic Ocean,104.0
+74,150,SRF,20 to 180,2493,5.0499999999999996e-08,alma1,North Atlantic Ocean,50.49999999999999
+75,93,SRF,0.8 to 5,188,0.0,alma1,South Pacific Ocean,0.0
+76,93,SRF,0.8 to 5,166,0.0,alma1,South Pacific Ocean,0.0
+77,93,SRF,0.8 to 5,36,2.4899999999999997e-07,alma1,South Pacific Ocean,248.99999999999997
+78,93,SRF,0.8 to 5,58,2.91e-07,alma1,South Pacific Ocean,291.0
+79,93,SRF,0.8 to 5,24,0.0,alma1,South Pacific Ocean,0.0
+80,93,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+81,93,SRF,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+82,93,SRF,0.8 to 5,179,0.0,alma1,South Pacific Ocean,0.0
+83,93,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+84,67,SRF,5 to 20,58,0.0,alma1,South Atlantic Ocean,0.0
+85,67,SRF,5 to 20,36,5.7e-08,alma1,South Atlantic Ocean,57.0
+86,67,SRF,5 to 20,44,0.0,alma1,South Atlantic Ocean,0.0
+87,4,SRF,180 to 2000,46,1.72e-07,alma1,Mediterranean Sea,172.0
+88,131,SRF,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+89,20,SRF,5 to 20,12,8.91e-08,alma1,Mediterranean Sea,89.1
+90,20,SRF,5 to 20,1580,9.34e-08,alma1,Mediterranean Sea,93.4
+91,76,DCM,20 to 180,46,7.299999999999999e-08,alma1,South Atlantic Ocean,72.99999999999999
+92,76,DCM,20 to 180,12,2.7e-08,alma1,South Atlantic Ocean,27.0
+93,100,DCM,5 to 20,12,1.34e-06,alma1,South Pacific Ocean,1340.0
+94,100,DCM,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+95,80,SRF,20 to 180,29,0.0,alma1,Southern Ocean (S of 40S),0.0
+96,80,SRF,20 to 180,59,0.0,alma1,Southern Ocean (S of 40S),0.0
+97,143,SRF,20 to 180,2493,6.02e-08,alma1,North Atlantic Ocean,60.199999999999996
+98,143,SRF,20 to 180,12,7.31e-08,alma1,North Atlantic Ocean,73.1
+99,143,SRF,20 to 180,46,1.4e-07,alma1,North Atlantic Ocean,140.0
+100,143,SRF,20 to 180,38,0.0,alma1,North Atlantic Ocean,0.0
+101,132,SRF,0.8 to 5,29,0.0,alma1,North Pacific Ocean,0.0
+102,132,SRF,0.8 to 5,36,2.94e-08,alma1,North Pacific Ocean,29.4
+103,132,SRF,0.8 to 5,46,6.62e-08,alma1,North Pacific Ocean,66.2
+104,132,SRF,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+105,52,SRF,5 to 20,332,0.0,alma1,Indian Ocean,0.0
+106,52,SRF,5 to 20,44,0.0,alma1,Indian Ocean,0.0
+107,72,DCM,20 to 180,46,6.559999999999999e-08,alma1,South Atlantic Ocean,65.6
+108,72,DCM,20 to 180,38,0.0,alma1,South Atlantic Ocean,0.0
+109,98,DCM,0.8 to 5,36,1.12e-07,alma1,South Pacific Ocean,112.0
+110,98,DCM,0.8 to 5,178,8.39e-08,alma1,South Pacific Ocean,83.9
+111,98,DCM,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+112,98,DCM,0.8 to 5,179,0.0,alma1,South Pacific Ocean,0.0
+113,98,DCM,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+114,98,DCM,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+115,98,DCM,0.8 to 5,58,1.6100000000000003e-07,alma1,South Pacific Ocean,161.00000000000003
+116,51,DCM,180 to 2000,38,0.0,alma1,Indian Ocean,0.0
+117,22,DCM,5 to 20,12,8.369999999999999e-08,alma1,Mediterranean Sea,83.69999999999999
+118,22,DCM,5 to 20,35,3.25e-07,alma1,Mediterranean Sea,325.0
+119,148,SRF,5 to 20,1580,2.1e-07,alma1,North Atlantic Ocean,210.0
+120,148,SRF,5 to 20,2493,9.92e-07,alma1,North Atlantic Ocean,992.0
+121,148,SRF,5 to 20,12,6.900000000000001e-08,alma1,North Atlantic Ocean,69.00000000000001
+122,22,SRF,0.8 to 5,12,2.5e-08,alma1,Mediterranean Sea,25.0
+123,22,SRF,0.8 to 5,36,1.8e-07,alma1,Mediterranean Sea,180.0
+124,22,SRF,0.8 to 5,58,2.64e-08,alma1,Mediterranean Sea,26.400000000000002
+125,22,SRF,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+126,22,SRF,0.8 to 5,4,0.0,alma1,Mediterranean Sea,0.0
+127,22,SRF,0.8 to 5,2743,0.0,alma1,Mediterranean Sea,0.0
+128,144,SRF,5 to 20,12,5.26e-08,alma1,North Atlantic Ocean,52.6
+129,144,SRF,5 to 20,2493,5.5800000000000003e-08,alma1,North Atlantic Ocean,55.800000000000004
+130,46,SRF,20 to 180,166,0.0,alma1,Indian Ocean,0.0
+131,46,SRF,20 to 180,44,0.0,alma1,Indian Ocean,0.0
+132,152,SRF,180 to 2000,2493,3.16e-08,alma1,North Atlantic Ocean,31.599999999999998
+133,144,SRF,0.8 to 5,36,3.39e-07,alma1,North Atlantic Ocean,339.0
+134,144,SRF,0.8 to 5,44,0.0,alma1,North Atlantic Ocean,0.0
+135,144,SRF,0.8 to 5,178,1.69e-07,alma1,North Atlantic Ocean,169.0
+136,144,SRF,0.8 to 5,225,0.0,alma1,North Atlantic Ocean,0.0
+137,46,SRF,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+138,46,SRF,0.8 to 5,178,3.71e-08,alma1,Indian Ocean,37.1
+139,46,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+140,46,SRF,0.8 to 5,76,0.0,alma1,Indian Ocean,0.0
+141,46,SRF,0.8 to 5,2743,0.0,alma1,Indian Ocean,0.0
+142,46,SRF,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+143,46,SRF,0.8 to 5,225,0.0,alma1,Indian Ocean,0.0
+144,46,SRF,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+145,46,SRF,0.8 to 5,36,2.7e-08,alma1,Indian Ocean,27.0
+146,46,SRF,0.8 to 5,58,8.58e-08,alma1,Indian Ocean,85.8
+147,46,SRF,0.8 to 5,4,0.0,alma1,Indian Ocean,0.0
+148,84,SRF,20 to 180,112,1.23e-07,alma1,Southern Ocean (S of 40S),123.0
+149,84,SRF,20 to 180,67,3.03e-07,alma1,Southern Ocean (S of 40S),303.0
+150,84,SRF,20 to 180,30,6.72e-07,alma1,Southern Ocean (S of 40S),672.0
+151,84,SRF,20 to 180,4,1.9e-07,alma1,Southern Ocean (S of 40S),190.0
+152,84,SRF,20 to 180,85,4.5999999999999995e-08,alma1,Southern Ocean (S of 40S),45.99999999999999
+153,84,SRF,20 to 180,13,1.5199999999999998e-07,alma1,Southern Ocean (S of 40S),151.99999999999997
+154,84,SRF,20 to 180,74,5.65e-08,alma1,Southern Ocean (S of 40S),56.5
+155,135,SRF,0.8 to 5,188,0.0,alma1,North Pacific Ocean,0.0
+156,135,SRF,0.8 to 5,36,2.81e-07,alma1,North Pacific Ocean,281.0
+157,135,SRF,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+158,135,SRF,0.8 to 5,67,2.45e-08,alma1,North Pacific Ocean,24.5
+159,135,SRF,0.8 to 5,58,4.02e-07,alma1,North Pacific Ocean,402.0
+160,135,SRF,0.8 to 5,38,0.0,alma1,North Pacific Ocean,0.0
+161,135,SRF,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+162,135,SRF,0.8 to 5,178,3.35e-08,alma1,North Pacific Ocean,33.5
+163,135,SRF,0.8 to 5,24,0.0,alma1,North Pacific Ocean,0.0
+164,135,SRF,0.8 to 5,13,2.45e-08,alma1,North Pacific Ocean,24.5
+165,135,SRF,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+166,135,SRF,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+167,135,SRF,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+168,22,SRF,5 to 20,35,3.41e-07,alma1,Mediterranean Sea,341.0
+169,22,SRF,5 to 20,12,1.56e-07,alma1,Mediterranean Sea,156.0
+170,18,SRF,20 to 180,12,1.15e-07,alma1,Mediterranean Sea,115.0
+171,149,SRF,5 to 20,1255,0.0,alma1,North Atlantic Ocean,0.0
+172,149,SRF,5 to 20,58,0.0,alma1,North Atlantic Ocean,0.0
+173,149,SRF,5 to 20,1580,1.41e-07,alma1,North Atlantic Ocean,141.0
+174,149,SRF,5 to 20,2493,4.37e-08,alma1,North Atlantic Ocean,43.7
+175,36,SRF,180 to 2000,179,0.0,alma1,Indian Ocean,0.0
+176,36,SRF,180 to 2000,44,0.0,alma1,Indian Ocean,0.0
+177,36,SRF,180 to 2000,166,0.0,alma1,Indian Ocean,0.0
+178,135,SRF,5 to 20,188,0.0,alma1,North Pacific Ocean,0.0
+179,135,SRF,5 to 20,166,0.0,alma1,North Pacific Ocean,0.0
+180,135,SRF,5 to 20,36,2.15e-08,alma1,North Pacific Ocean,21.5
+181,135,SRF,5 to 20,58,6.19e-08,alma1,North Pacific Ocean,61.900000000000006
+182,135,SRF,5 to 20,1255,0.0,alma1,North Pacific Ocean,0.0
+183,135,SRF,5 to 20,38,0.0,alma1,North Pacific Ocean,0.0
+184,135,SRF,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+185,135,SRF,5 to 20,59,0.0,alma1,North Pacific Ocean,0.0
+186,135,SRF,5 to 20,1580,4.0099999999999995e-08,alma1,North Pacific Ocean,40.099999999999994
+187,135,SRF,5 to 20,66,0.0,alma1,North Pacific Ocean,0.0
+188,135,SRF,5 to 20,179,0.0,alma1,North Pacific Ocean,0.0
+189,150,DCM,180 to 2000,2493,2.97e-08,alma1,North Atlantic Ocean,29.700000000000003
+190,142,SRF,180 to 2000,2493,4.35e-08,alma1,North Atlantic Ocean,43.5
+191,111,DCM,180 to 2000,2493,4.12e-08,alma1,South Pacific Ocean,41.199999999999996
+192,111,DCM,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+193,92,SRF,20 to 180,58,0.0,alma1,South Pacific Ocean,0.0
+194,92,SRF,180 to 2000,58,0.0,alma1,South Pacific Ocean,0.0
+195,92,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+196,131,DCM,0.8 to 5,58,3.68e-08,alma1,North Pacific Ocean,36.8
+197,131,DCM,0.8 to 5,4,0.0,alma1,North Pacific Ocean,0.0
+198,131,DCM,0.8 to 5,225,0.0,alma1,North Pacific Ocean,0.0
+199,131,DCM,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+200,131,DCM,0.8 to 5,36,7.46e-08,alma1,North Pacific Ocean,74.60000000000001
+201,131,DCM,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+202,131,DCM,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+203,131,DCM,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+204,131,DCM,0.8 to 5,178,3.14e-08,alma1,North Pacific Ocean,31.400000000000002
+205,135,SRF,180 to 2000,38,0.0,alma1,North Pacific Ocean,0.0
+206,65,SRF,20 to 180,46,1.24e-07,alma1,Indian Ocean,124.0
+207,65,SRF,20 to 180,12,1.9e-07,alma1,Indian Ocean,190.0
+208,80,SRF,180 to 2000,29,0.0,alma1,Southern Ocean (S of 40S),0.0
+209,80,SRF,180 to 2000,38,0.0,alma1,Southern Ocean (S of 40S),0.0
+210,64,SRF,0.8 to 5,225,0.0,alma1,Indian Ocean,0.0
+211,64,SRF,0.8 to 5,4,4.43e-08,alma1,Indian Ocean,44.3
+212,64,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+213,64,SRF,0.8 to 5,58,5.62e-08,alma1,Indian Ocean,56.2
+214,137,DCM,180 to 2000,332,0.0,alma1,North Pacific Ocean,0.0
+215,137,DCM,180 to 2000,44,0.0,alma1,North Pacific Ocean,0.0
+216,110,DCM,0.8 to 5,166,0.0,alma1,South Pacific Ocean,0.0
+217,110,DCM,0.8 to 5,188,0.0,alma1,South Pacific Ocean,0.0
+218,110,DCM,0.8 to 5,58,0.0,alma1,South Pacific Ocean,0.0
+219,110,DCM,0.8 to 5,46,3.0399999999999997e-07,alma1,South Pacific Ocean,303.99999999999994
+220,110,DCM,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+221,110,DCM,0.8 to 5,179,0.0,alma1,South Pacific Ocean,0.0
+222,110,DCM,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+223,110,DCM,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+224,64,DCM,5 to 20,44,0.0,alma1,Indian Ocean,0.0
+225,64,DCM,5 to 20,36,1.1900000000000001e-07,alma1,Indian Ocean,119.0
+226,64,DCM,5 to 20,58,0.0,alma1,Indian Ocean,0.0
+227,18,DCM,0.8 to 5,36,1.69e-07,alma1,Mediterranean Sea,169.0
+228,18,DCM,0.8 to 5,178,5.54e-08,alma1,Mediterranean Sea,55.4
+229,18,DCM,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+230,150,DCM,5 to 20,2493,2.3800000000000001e-07,alma1,North Atlantic Ocean,238.0
+231,150,DCM,5 to 20,1580,9.039999999999999e-08,alma1,North Atlantic Ocean,90.39999999999999
+232,150,DCM,5 to 20,1255,0.0,alma1,North Atlantic Ocean,0.0
+233,81,DCM,20 to 180,58,2.2200000000000004e-08,alma1,Southern Ocean (S of 40S),22.200000000000003
+234,81,DCM,20 to 180,67,0.0,alma1,Southern Ocean (S of 40S),0.0
+235,81,DCM,20 to 180,4,0.0,alma1,Southern Ocean (S of 40S),0.0
+236,81,DCM,20 to 180,13,0.0,alma1,Southern Ocean (S of 40S),0.0
+237,147,SRF,0.8 to 5,178,7.27e-08,alma1,North Atlantic Ocean,72.7
+238,147,SRF,0.8 to 5,225,0.0,alma1,North Atlantic Ocean,0.0
+239,147,SRF,0.8 to 5,36,4.28e-08,alma1,North Atlantic Ocean,42.8
+240,147,SRF,0.8 to 5,76,0.0,alma1,North Atlantic Ocean,0.0
+241,147,SRF,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+242,147,SRF,0.8 to 5,58,1.14e-07,alma1,North Atlantic Ocean,114.0
+243,147,SRF,0.8 to 5,2743,0.0,alma1,North Atlantic Ocean,0.0
+244,142,SRF,0.8 to 5,36,1.14e-07,alma1,North Atlantic Ocean,114.0
+245,142,SRF,0.8 to 5,178,5.42e-08,alma1,North Atlantic Ocean,54.2
+246,142,SRF,0.8 to 5,225,0.0,alma1,North Atlantic Ocean,0.0
+247,142,SRF,0.8 to 5,2743,0.0,alma1,North Atlantic Ocean,0.0
+248,142,SRF,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+249,142,SRF,0.8 to 5,58,1.2099999999999998e-07,alma1,North Atlantic Ocean,120.99999999999999
+250,151,SRF,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+251,151,SRF,0.8 to 5,2743,0.0,alma1,North Atlantic Ocean,0.0
+252,151,SRF,0.8 to 5,178,3.12e-08,alma1,North Atlantic Ocean,31.200000000000003
+253,151,SRF,0.8 to 5,2493,6.37e-08,alma1,North Atlantic Ocean,63.699999999999996
+254,151,SRF,0.8 to 5,12,3.09e-08,alma1,North Atlantic Ocean,30.9
+255,151,SRF,0.8 to 5,58,1.4e-07,alma1,North Atlantic Ocean,140.0
+256,151,SRF,0.8 to 5,29,0.0,alma1,North Atlantic Ocean,0.0
+257,151,SRF,0.8 to 5,225,0.0,alma1,North Atlantic Ocean,0.0
+258,151,SRF,0.8 to 5,36,5.16e-07,alma1,North Atlantic Ocean,516.0
+259,150,SRF,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+260,150,SRF,0.8 to 5,2743,0.0,alma1,North Atlantic Ocean,0.0
+261,150,SRF,0.8 to 5,179,0.0,alma1,North Atlantic Ocean,0.0
+262,150,SRF,0.8 to 5,44,0.0,alma1,North Atlantic Ocean,0.0
+263,150,SRF,0.8 to 5,67,0.0,alma1,North Atlantic Ocean,0.0
+264,150,SRF,0.8 to 5,58,1.59e-07,alma1,North Atlantic Ocean,159.0
+265,150,SRF,0.8 to 5,225,0.0,alma1,North Atlantic Ocean,0.0
+266,150,SRF,0.8 to 5,166,0.0,alma1,North Atlantic Ocean,0.0
+267,150,SRF,0.8 to 5,36,1.31e-07,alma1,North Atlantic Ocean,131.0
+268,51,DCM,0.8 to 5,225,0.0,alma1,Indian Ocean,0.0
+269,51,DCM,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+270,51,DCM,0.8 to 5,36,3.24e-07,alma1,Indian Ocean,324.0
+271,51,DCM,0.8 to 5,188,0.0,alma1,Indian Ocean,0.0
+272,51,DCM,0.8 to 5,67,7.44e-08,alma1,Indian Ocean,74.4
+273,51,DCM,0.8 to 5,58,2.12e-07,alma1,Indian Ocean,212.0
+274,51,DCM,0.8 to 5,178,1.14e-06,alma1,Indian Ocean,1140.0
+275,51,DCM,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+276,51,DCM,0.8 to 5,13,7.44e-08,alma1,Indian Ocean,74.4
+277,51,DCM,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+278,51,DCM,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+279,51,DCM,0.8 to 5,332,0.0,alma1,Indian Ocean,0.0
+280,135,DCM,0.8 to 5,188,0.0,alma1,North Pacific Ocean,0.0
+281,135,DCM,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+282,135,DCM,0.8 to 5,36,2.64e-07,alma1,North Pacific Ocean,264.0
+283,135,DCM,0.8 to 5,58,3.3100000000000004e-07,alma1,North Pacific Ocean,331.00000000000006
+284,135,DCM,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+285,135,DCM,0.8 to 5,24,0.0,alma1,North Pacific Ocean,0.0
+286,135,DCM,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+287,135,DCM,0.8 to 5,332,0.0,alma1,North Pacific Ocean,0.0
+288,135,DCM,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+289,70,SRF,20 to 180,46,4.4900000000000005e-08,alma1,South Atlantic Ocean,44.900000000000006
+290,70,SRF,20 to 180,58,0.0,alma1,South Atlantic Ocean,0.0
+291,70,SRF,20 to 180,2493,2.7900000000000002e-08,alma1,South Atlantic Ocean,27.900000000000002
+292,70,SRF,20 to 180,44,0.0,alma1,South Atlantic Ocean,0.0
+293,70,SRF,20 to 180,12,1.05e-07,alma1,South Atlantic Ocean,105.0
+294,52,SRF,180 to 2000,2493,7.95e-08,alma1,Indian Ocean,79.5
+295,52,SRF,180 to 2000,44,0.0,alma1,Indian Ocean,0.0
+296,52,SRF,180 to 2000,13,3.6e-08,alma1,Indian Ocean,36.0
+297,52,SRF,180 to 2000,4,0.0,alma1,Indian Ocean,0.0
+298,52,SRF,180 to 2000,38,0.0,alma1,Indian Ocean,0.0
+299,52,SRF,180 to 2000,112,2.5e-08,alma1,Indian Ocean,25.0
+300,102,SRF,180 to 2000,332,0.0,alma1,South Pacific Ocean,0.0
+301,102,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+302,100,DCM,180 to 2000,2493,4.3e-08,alma1,South Pacific Ocean,43.0
+303,100,DCM,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+304,100,DCM,180 to 2000,332,0.0,alma1,South Pacific Ocean,0.0
+305,100,DCM,20 to 180,332,0.0,alma1,South Pacific Ocean,0.0
+306,100,DCM,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+307,100,DCM,20 to 180,12,1.2199999999999998e-07,alma1,South Pacific Ocean,121.99999999999999
+308,146,SRF,5 to 20,1255,0.0,alma1,North Atlantic Ocean,0.0
+309,146,SRF,5 to 20,1580,1.13e-07,alma1,North Atlantic Ocean,113.0
+310,146,SRF,5 to 20,2493,1.36e-07,alma1,North Atlantic Ocean,136.0
+311,72,SRF,20 to 180,46,1.3e-07,alma1,South Atlantic Ocean,130.0
+312,123,SRF,0.8 to 5,13,2.36e-08,alma1,South Pacific Ocean,23.599999999999998
+313,123,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+314,123,SRF,0.8 to 5,2743,0.0,alma1,South Pacific Ocean,0.0
+315,123,SRF,0.8 to 5,76,0.0,alma1,South Pacific Ocean,0.0
+316,123,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+317,123,SRF,0.8 to 5,36,0.0,alma1,South Pacific Ocean,0.0
+318,123,SRF,0.8 to 5,225,0.0,alma1,South Pacific Ocean,0.0
+319,123,SRF,0.8 to 5,58,1.71e-07,alma1,South Pacific Ocean,171.0
+320,23,SRF,20 to 180,12,3.67e-08,alma1,Mediterranean Sea,36.699999999999996
+321,23,SRF,20 to 180,13,2.4199999999999998e-08,alma1,Mediterranean Sea,24.2
+322,23,SRF,20 to 180,35,3.98e-08,alma1,Mediterranean Sea,39.8
+323,23,SRF,20 to 180,38,0.0,alma1,Mediterranean Sea,0.0
+324,128,DCM,20 to 180,46,2.12e-07,alma1,North Pacific Ocean,212.0
+325,128,DCM,20 to 180,332,0.0,alma1,North Pacific Ocean,0.0
+326,128,DCM,20 to 180,179,0.0,alma1,North Pacific Ocean,0.0
+327,128,DCM,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+328,128,DCM,20 to 180,166,0.0,alma1,North Pacific Ocean,0.0
+329,102,DCM,20 to 180,332,0.0,alma1,South Pacific Ocean,0.0
+330,102,DCM,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+331,76,DCM,5 to 20,44,0.0,alma1,South Atlantic Ocean,0.0
+332,102,DCM,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+333,102,DCM,180 to 2000,332,0.0,alma1,South Pacific Ocean,0.0
+334,102,DCM,180 to 2000,58,5.1799999999999994e-08,alma1,South Pacific Ocean,51.8
+335,41,DCM,20 to 180,188,0.0,alma1,Indian Ocean,0.0
+336,41,DCM,20 to 180,166,0.0,alma1,Indian Ocean,0.0
+337,41,DCM,20 to 180,46,1.74e-07,alma1,Indian Ocean,174.0
+338,82,SRF,180 to 2000,74,5.2e-08,alma1,Southern Ocean (S of 40S),52.0
+339,82,SRF,180 to 2000,85,1.2e-07,alma1,Southern Ocean (S of 40S),119.99999999999999
+340,82,SRF,180 to 2000,13,1.43e-06,alma1,Southern Ocean (S of 40S),1430.0
+341,82,SRF,180 to 2000,67,1.38e-06,alma1,Southern Ocean (S of 40S),1380.0
+342,82,SRF,180 to 2000,30,0.0,alma1,Southern Ocean (S of 40S),0.0
+343,82,SRF,180 to 2000,4,3.7e-07,alma1,Southern Ocean (S of 40S),370.0
+344,82,SRF,180 to 2000,112,2.75e-07,alma1,Southern Ocean (S of 40S),275.0
+345,46,SRF,180 to 2000,166,0.0,alma1,Indian Ocean,0.0
+346,125,SRF,0.8 to 5,36,6.32e-08,alma1,South Pacific Ocean,63.199999999999996
+347,125,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+348,125,SRF,0.8 to 5,2743,0.0,alma1,South Pacific Ocean,0.0
+349,125,SRF,0.8 to 5,58,4.9e-07,alma1,South Pacific Ocean,489.99999999999994
+350,125,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+351,137,SRF,0.8 to 5,58,1.6300000000000002e-07,alma1,North Pacific Ocean,163.00000000000003
+352,137,SRF,0.8 to 5,4,0.0,alma1,North Pacific Ocean,0.0
+353,137,SRF,0.8 to 5,225,0.0,alma1,North Pacific Ocean,0.0
+354,137,SRF,0.8 to 5,36,2.27e-08,alma1,North Pacific Ocean,22.700000000000003
+355,137,SRF,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+356,137,SRF,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+357,137,SRF,0.8 to 5,332,0.0,alma1,North Pacific Ocean,0.0
+358,137,SRF,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+359,137,SRF,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+360,137,SRF,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+361,122,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+362,122,SRF,0.8 to 5,58,9.9e-08,alma1,South Pacific Ocean,99.0
+363,122,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+364,122,SRF,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+365,124,SRF,5 to 20,332,0.0,alma1,South Pacific Ocean,0.0
+366,124,SRF,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+367,139,SRF,180 to 2000,44,0.0,alma1,North Pacific Ocean,0.0
+368,41,DCM,5 to 20,178,2.74e-07,alma1,Indian Ocean,274.0
+369,41,DCM,5 to 20,44,0.0,alma1,Indian Ocean,0.0
+370,41,DCM,5 to 20,166,0.0,alma1,Indian Ocean,0.0
+371,41,DCM,5 to 20,66,0.0,alma1,Indian Ocean,0.0
+372,41,DCM,5 to 20,179,0.0,alma1,Indian Ocean,0.0
+373,36,DCM,0.8 to 5,58,1.62e-07,alma1,Indian Ocean,162.0
+374,36,DCM,0.8 to 5,188,0.0,alma1,Indian Ocean,0.0
+375,36,DCM,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+376,36,DCM,0.8 to 5,36,8.5e-08,alma1,Indian Ocean,85.0
+377,36,DCM,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+378,36,DCM,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+379,36,DCM,0.8 to 5,76,0.0,alma1,Indian Ocean,0.0
+380,36,DCM,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+381,36,DCM,0.8 to 5,178,1.1599999999999999e-07,alma1,Indian Ocean,116.0
+382,81,DCM,180 to 2000,112,4.5700000000000006e-08,alma1,Southern Ocean (S of 40S),45.7
+383,81,DCM,180 to 2000,4,4.5700000000000006e-08,alma1,Southern Ocean (S of 40S),45.7
+384,81,DCM,180 to 2000,67,2.4e-08,alma1,Southern Ocean (S of 40S),24.0
+385,81,DCM,180 to 2000,58,0.0,alma1,Southern Ocean (S of 40S),0.0
+386,81,DCM,180 to 2000,13,0.0,alma1,Southern Ocean (S of 40S),0.0
+387,146,SRF,20 to 180,2493,1.62e-07,alma1,North Atlantic Ocean,162.0
+388,146,SRF,20 to 180,12,3.1299999999999996e-08,alma1,North Atlantic Ocean,31.299999999999997
+389,146,SRF,20 to 180,38,0.0,alma1,North Atlantic Ocean,0.0
+390,41,SRF,20 to 180,46,9.050000000000001e-08,alma1,Indian Ocean,90.50000000000001
+391,124,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+392,124,SRF,20 to 180,332,0.0,alma1,South Pacific Ocean,0.0
+393,152,SRF,5 to 20,1255,0.0,alma1,North Atlantic Ocean,0.0
+394,131,DCM,5 to 20,12,4.4800000000000004e-08,alma1,North Pacific Ocean,44.800000000000004
+395,85,SRF,0.8 to 5,112,3.6799999999999996e-07,alma1,Southern Ocean (S of 40S),367.99999999999994
+396,85,SRF,0.8 to 5,67,2.86e-06,alma1,Southern Ocean (S of 40S),2860.0
+397,85,SRF,0.8 to 5,58,1.08e-07,alma1,Southern Ocean (S of 40S),108.0
+398,85,SRF,0.8 to 5,4,6.92e-06,alma1,Southern Ocean (S of 40S),6920.0
+399,85,SRF,0.8 to 5,85,2.75e-08,alma1,Southern Ocean (S of 40S),27.5
+400,85,SRF,0.8 to 5,74,1.33e-07,alma1,Southern Ocean (S of 40S),133.0
+401,85,SRF,0.8 to 5,30,9.5e-07,alma1,Southern Ocean (S of 40S),950.0
+402,85,SRF,0.8 to 5,13,2.34e-06,alma1,Southern Ocean (S of 40S),2340.0
+403,110,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+404,110,SRF,20 to 180,46,8.939999999999999e-08,alma1,South Pacific Ocean,89.39999999999999
+405,110,SRF,20 to 180,58,3.27e-08,alma1,South Pacific Ocean,32.7
+406,142,DCM,5 to 20,44,0.0,alma1,North Atlantic Ocean,0.0
+407,65,SRF,5 to 20,46,1.99e-07,alma1,Indian Ocean,199.0
+408,65,SRF,5 to 20,178,3.41e-08,alma1,Indian Ocean,34.1
+409,68,SRF,0.8 to 5,2743,0.0,alma1,South Atlantic Ocean,0.0
+410,68,SRF,0.8 to 5,66,0.0,alma1,South Atlantic Ocean,0.0
+411,68,SRF,0.8 to 5,24,0.0,alma1,South Atlantic Ocean,0.0
+412,68,SRF,0.8 to 5,13,0.0,alma1,South Atlantic Ocean,0.0
+413,68,SRF,0.8 to 5,178,3.49e-08,alma1,South Atlantic Ocean,34.9
+414,68,SRF,0.8 to 5,44,0.0,alma1,South Atlantic Ocean,0.0
+415,68,SRF,0.8 to 5,747,0.0,alma1,South Atlantic Ocean,0.0
+416,68,SRF,0.8 to 5,58,1.6399999999999999e-07,alma1,South Atlantic Ocean,164.0
+417,68,SRF,0.8 to 5,36,1.0900000000000001e-07,alma1,South Atlantic Ocean,109.00000000000001
+418,68,SRF,0.8 to 5,166,0.0,alma1,South Atlantic Ocean,0.0
+419,68,SRF,0.8 to 5,225,0.0,alma1,South Atlantic Ocean,0.0
+420,137,DCM,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+421,137,DCM,20 to 180,13,0.0,alma1,North Pacific Ocean,0.0
+422,137,DCM,20 to 180,58,2.16e-08,alma1,North Pacific Ocean,21.6
+423,137,DCM,20 to 180,35,2.7799999999999997e-08,alma1,North Pacific Ocean,27.799999999999997
+424,137,DCM,20 to 180,46,1.83e-07,alma1,North Pacific Ocean,183.0
+425,137,DCM,20 to 180,332,0.0,alma1,North Pacific Ocean,0.0
+426,152,SRF,0.8 to 5,36,1.04e-07,alma1,North Atlantic Ocean,104.0
+427,152,SRF,0.8 to 5,166,0.0,alma1,North Atlantic Ocean,0.0
+428,152,SRF,0.8 to 5,29,0.0,alma1,North Atlantic Ocean,0.0
+429,152,SRF,0.8 to 5,225,0.0,alma1,North Atlantic Ocean,0.0
+430,152,SRF,0.8 to 5,58,1.24e-07,alma1,North Atlantic Ocean,124.0
+431,152,SRF,0.8 to 5,44,0.0,alma1,North Atlantic Ocean,0.0
+432,152,SRF,0.8 to 5,59,0.0,alma1,North Atlantic Ocean,0.0
+433,152,SRF,0.8 to 5,2743,0.0,alma1,North Atlantic Ocean,0.0
+434,152,SRF,0.8 to 5,179,0.0,alma1,North Atlantic Ocean,0.0
+435,152,SRF,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+436,76,SRF,180 to 2000,38,0.0,alma1,South Atlantic Ocean,0.0
+437,76,SRF,180 to 2000,179,0.0,alma1,South Atlantic Ocean,0.0
+438,76,SRF,180 to 2000,2493,3.2e-08,alma1,South Atlantic Ocean,32.0
+439,76,SRF,180 to 2000,166,0.0,alma1,South Atlantic Ocean,0.0
+440,146,SRF,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+441,146,SRF,0.8 to 5,44,0.0,alma1,North Atlantic Ocean,0.0
+442,146,SRF,0.8 to 5,178,1.05e-07,alma1,North Atlantic Ocean,105.0
+443,146,SRF,0.8 to 5,12,4.3899999999999996e-08,alma1,North Atlantic Ocean,43.9
+444,146,SRF,0.8 to 5,58,1.1800000000000001e-07,alma1,North Atlantic Ocean,118.00000000000001
+445,146,SRF,0.8 to 5,4,6.48e-08,alma1,North Atlantic Ocean,64.8
+446,146,SRF,0.8 to 5,112,6.48e-08,alma1,North Atlantic Ocean,64.8
+447,146,SRF,0.8 to 5,225,0.0,alma1,North Atlantic Ocean,0.0
+448,146,SRF,0.8 to 5,166,0.0,alma1,North Atlantic Ocean,0.0
+449,146,SRF,0.8 to 5,36,8.380000000000001e-08,alma1,North Atlantic Ocean,83.80000000000001
+450,144,SRF,180 to 2000,2493,8.57e-08,alma1,North Atlantic Ocean,85.7
+451,144,SRF,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+452,144,SRF,180 to 2000,46,3.59e-08,alma1,North Atlantic Ocean,35.9
+453,52,DCM,180 to 2000,38,0.0,alma1,Indian Ocean,0.0
+454,52,DCM,180 to 2000,2493,4.75e-08,alma1,Indian Ocean,47.5
+455,52,DCM,180 to 2000,44,0.0,alma1,Indian Ocean,0.0
+456,132,SRF,5 to 20,46,6.070000000000001e-08,alma1,North Pacific Ocean,60.70000000000001
+457,72,SRF,5 to 20,13,2.8999999999999998e-08,alma1,South Atlantic Ocean,29.0
+458,72,SRF,5 to 20,38,0.0,alma1,South Atlantic Ocean,0.0
+459,72,SRF,5 to 20,4,0.0,alma1,South Atlantic Ocean,0.0
+460,72,SRF,5 to 20,1580,5.76e-08,alma1,South Atlantic Ocean,57.6
+461,72,SRF,5 to 20,67,8.33e-08,alma1,South Atlantic Ocean,83.3
+462,100,SRF,5 to 20,2743,0.0,alma1,South Pacific Ocean,0.0
+463,100,SRF,5 to 20,58,0.0,alma1,South Pacific Ocean,0.0
+464,100,SRF,5 to 20,12,2.65e-08,alma1,South Pacific Ocean,26.5
+465,100,SRF,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+466,36,DCM,20 to 180,188,0.0,alma1,Indian Ocean,0.0
+467,36,DCM,20 to 180,166,0.0,alma1,Indian Ocean,0.0
+468,36,DCM,20 to 180,58,0.0,alma1,Indian Ocean,0.0
+469,36,DCM,20 to 180,46,2.74e-07,alma1,Indian Ocean,274.0
+470,36,DCM,20 to 180,179,0.0,alma1,Indian Ocean,0.0
+471,76,DCM,180 to 2000,38,0.0,alma1,South Atlantic Ocean,0.0
+472,138,DCM,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+473,138,DCM,5 to 20,166,0.0,alma1,North Pacific Ocean,0.0
+474,138,DCM,5 to 20,12,2.63e-08,alma1,North Pacific Ocean,26.3
+475,138,DCM,5 to 20,35,6.440000000000001e-08,alma1,North Pacific Ocean,64.4
+476,138,DCM,5 to 20,46,8.44e-08,alma1,North Pacific Ocean,84.4
+477,138,DCM,5 to 20,332,0.0,alma1,North Pacific Ocean,0.0
+478,22,DCM,20 to 180,12,8.540000000000001e-07,alma1,Mediterranean Sea,854.0000000000001
+479,22,DCM,20 to 180,35,1.73e-07,alma1,Mediterranean Sea,173.0
+480,38,SRF,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+481,38,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+482,38,SRF,0.8 to 5,36,9.810000000000001e-08,alma1,Indian Ocean,98.10000000000001
+483,38,SRF,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+484,38,SRF,0.8 to 5,188,0.0,alma1,Indian Ocean,0.0
+485,38,SRF,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+486,132,SRF,180 to 2000,38,0.0,alma1,North Pacific Ocean,0.0
+487,23,SRF,0.8 to 5,36,1.7600000000000001e-07,alma1,Mediterranean Sea,176.00000000000003
+488,23,SRF,0.8 to 5,2743,0.0,alma1,Mediterranean Sea,0.0
+489,23,SRF,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+490,67,SRF,180 to 2000,44,0.0,alma1,South Atlantic Ocean,0.0
+491,132,DCM,5 to 20,12,1.34e-07,alma1,North Pacific Ocean,134.0
+492,128,SRF,180 to 2000,44,0.0,alma1,North Pacific Ocean,0.0
+493,128,SRF,180 to 2000,166,0.0,alma1,North Pacific Ocean,0.0
+494,128,SRF,180 to 2000,332,0.0,alma1,North Pacific Ocean,0.0
+495,83,SRF,5 to 20,112,4.9900000000000003e-08,alma1,Southern Ocean (S of 40S),49.900000000000006
+496,83,SRF,5 to 20,67,9.66e-08,alma1,Southern Ocean (S of 40S),96.60000000000001
+497,83,SRF,5 to 20,4,9.8e-08,alma1,Southern Ocean (S of 40S),98.0
+498,83,SRF,5 to 20,13,2.55e-07,alma1,Southern Ocean (S of 40S),255.0
+499,39,SRF,180 to 2000,166,0.0,alma1,Indian Ocean,0.0
+500,68,DCM,0.8 to 5,58,1.9e-07,alma1,South Atlantic Ocean,190.0
+501,68,DCM,0.8 to 5,166,0.0,alma1,South Atlantic Ocean,0.0
+502,68,DCM,0.8 to 5,36,1.68e-07,alma1,South Atlantic Ocean,168.0
+503,68,DCM,0.8 to 5,188,0.0,alma1,South Atlantic Ocean,0.0
+504,68,DCM,0.8 to 5,66,0.0,alma1,South Atlantic Ocean,0.0
+505,68,DCM,0.8 to 5,179,0.0,alma1,South Atlantic Ocean,0.0
+506,68,DCM,0.8 to 5,332,0.0,alma1,South Atlantic Ocean,0.0
+507,68,DCM,0.8 to 5,2743,0.0,alma1,South Atlantic Ocean,0.0
+508,68,DCM,0.8 to 5,178,7.31e-08,alma1,South Atlantic Ocean,73.1
+509,68,DCM,0.8 to 5,59,0.0,alma1,South Atlantic Ocean,0.0
+510,68,DCM,0.8 to 5,44,0.0,alma1,South Atlantic Ocean,0.0
+511,68,DCM,0.8 to 5,24,0.0,alma1,South Atlantic Ocean,0.0
+512,68,DCM,0.8 to 5,12,2.3500000000000002e-08,alma1,South Atlantic Ocean,23.500000000000004
+513,144,SRF,20 to 180,12,1.55e-07,alma1,North Atlantic Ocean,155.0
+514,144,SRF,20 to 180,178,5.26e-08,alma1,North Atlantic Ocean,52.6
+515,144,SRF,20 to 180,44,0.0,alma1,North Atlantic Ocean,0.0
+516,132,DCM,180 to 2000,38,0.0,alma1,North Pacific Ocean,0.0
+517,36,DCM,5 to 20,166,0.0,alma1,Indian Ocean,0.0
+518,36,DCM,5 to 20,179,0.0,alma1,Indian Ocean,0.0
+519,36,DCM,5 to 20,46,2.63e-07,alma1,Indian Ocean,263.0
+520,111,DCM,5 to 20,178,5.8200000000000005e-08,alma1,South Pacific Ocean,58.2
+521,111,DCM,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+522,111,DCM,5 to 20,24,0.0,alma1,South Pacific Ocean,0.0
+523,111,DCM,5 to 20,66,0.0,alma1,South Pacific Ocean,0.0
+524,111,DCM,5 to 20,1580,1.3900000000000001e-07,alma1,South Pacific Ocean,139.0
+525,111,DCM,5 to 20,179,0.0,alma1,South Pacific Ocean,0.0
+526,111,DCM,5 to 20,166,0.0,alma1,South Pacific Ocean,0.0
+527,111,DCM,5 to 20,36,1.55e-07,alma1,South Pacific Ocean,155.0
+528,111,DCM,5 to 20,188,0.0,alma1,South Pacific Ocean,0.0
+529,111,DCM,5 to 20,58,6.79e-08,alma1,South Pacific Ocean,67.9
+530,111,DCM,5 to 20,38,0.0,alma1,South Pacific Ocean,0.0
+531,92,SRF,5 to 20,13,0.0,alma1,South Pacific Ocean,0.0
+532,92,SRF,5 to 20,4,4.1900000000000005e-08,alma1,South Pacific Ocean,41.900000000000006
+533,92,SRF,5 to 20,67,0.0,alma1,South Pacific Ocean,0.0
+534,92,SRF,5 to 20,58,0.0,alma1,South Pacific Ocean,0.0
+535,147,SRF,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+536,147,SRF,180 to 2000,2493,6.99e-06,alma1,North Atlantic Ocean,6990.0
+537,150,DCM,20 to 180,12,1.7e-07,alma1,North Atlantic Ocean,170.0
+538,150,DCM,20 to 180,2493,5.75e-08,alma1,North Atlantic Ocean,57.5
+539,150,DCM,20 to 180,46,6.03e-08,alma1,North Atlantic Ocean,60.300000000000004
+540,78,SRF,5 to 20,44,0.0,alma1,South Atlantic Ocean,0.0
+541,110,DCM,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+542,84,SRF,0.8 to 5,112,1.26e-07,alma1,Southern Ocean (S of 40S),125.99999999999999
+543,84,SRF,0.8 to 5,30,2.47e-07,alma1,Southern Ocean (S of 40S),246.99999999999997
+544,84,SRF,0.8 to 5,67,1.2e-06,alma1,Southern Ocean (S of 40S),1200.0
+545,84,SRF,0.8 to 5,4,1.16e-06,alma1,Southern Ocean (S of 40S),1160.0
+546,84,SRF,0.8 to 5,85,2.33e-07,alma1,Southern Ocean (S of 40S),233.0
+547,84,SRF,0.8 to 5,13,1.41e-06,alma1,Southern Ocean (S of 40S),1410.0
+548,84,SRF,0.8 to 5,74,1.33e-07,alma1,Southern Ocean (S of 40S),133.0
+549,135,DCM,180 to 2000,188,0.0,alma1,North Pacific Ocean,0.0
+550,135,DCM,180 to 2000,166,0.0,alma1,North Pacific Ocean,0.0
+551,135,DCM,180 to 2000,2493,2.0699999999999997e-08,alma1,North Pacific Ocean,20.699999999999996
+552,135,DCM,180 to 2000,179,0.0,alma1,North Pacific Ocean,0.0
+553,135,DCM,180 to 2000,38,0.0,alma1,North Pacific Ocean,0.0
+554,135,DCM,180 to 2000,58,0.0,alma1,North Pacific Ocean,0.0
+555,128,DCM,5 to 20,58,0.0,alma1,North Pacific Ocean,0.0
+556,128,DCM,5 to 20,1255,0.0,alma1,North Pacific Ocean,0.0
+557,128,DCM,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+558,128,DCM,5 to 20,166,0.0,alma1,North Pacific Ocean,0.0
+559,72,DCM,5 to 20,12,3.72e-08,alma1,South Atlantic Ocean,37.2
+560,72,DCM,5 to 20,13,1.25e-07,alma1,South Atlantic Ocean,125.0
+561,72,DCM,5 to 20,1580,1.08e-07,alma1,South Atlantic Ocean,108.0
+562,23,DCM,0.8 to 5,2743,0.0,alma1,Mediterranean Sea,0.0
+563,23,DCM,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+564,23,DCM,0.8 to 5,58,3.3e-08,alma1,Mediterranean Sea,33.0
+565,23,DCM,0.8 to 5,36,3.32e-07,alma1,Mediterranean Sea,332.0
+566,23,DCM,0.8 to 5,178,3.52e-08,alma1,Mediterranean Sea,35.199999999999996
+567,23,DCM,0.8 to 5,225,0.0,alma1,Mediterranean Sea,0.0
+568,123,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+569,123,SRF,180 to 2000,332,0.0,alma1,South Pacific Ocean,0.0
+570,132,DCM,0.8 to 5,188,0.0,alma1,North Pacific Ocean,0.0
+571,132,DCM,0.8 to 5,12,4.4900000000000005e-08,alma1,North Pacific Ocean,44.900000000000006
+572,132,DCM,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+573,132,DCM,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+574,132,DCM,0.8 to 5,332,0.0,alma1,North Pacific Ocean,0.0
+575,132,DCM,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+576,132,DCM,0.8 to 5,58,1.57e-07,alma1,North Pacific Ocean,157.0
+577,36,DCM,180 to 2000,166,0.0,alma1,Indian Ocean,0.0
+578,36,DCM,180 to 2000,179,0.0,alma1,Indian Ocean,0.0
+579,85,DCM,180 to 2000,74,1.5199999999999998e-07,alma1,Southern Ocean (S of 40S),151.99999999999997
+580,85,DCM,180 to 2000,85,3.9e-08,alma1,Southern Ocean (S of 40S),39.0
+581,85,DCM,180 to 2000,13,3.5200000000000003e-07,alma1,Southern Ocean (S of 40S),352.00000000000006
+582,85,DCM,180 to 2000,67,5e-07,alma1,Southern Ocean (S of 40S),500.0
+583,85,DCM,180 to 2000,30,2.65e-07,alma1,Southern Ocean (S of 40S),265.0
+584,85,DCM,180 to 2000,4,1.08e-06,alma1,Southern Ocean (S of 40S),1080.0
+585,85,DCM,180 to 2000,112,8.77e-07,alma1,Southern Ocean (S of 40S),877.0
+586,151,DCM,20 to 180,46,2.05e-07,alma1,North Atlantic Ocean,205.0
+587,151,DCM,20 to 180,35,3.2900000000000003e-08,alma1,North Atlantic Ocean,32.900000000000006
+588,151,DCM,20 to 180,12,1.59e-07,alma1,North Atlantic Ocean,159.0
+589,151,DCM,20 to 180,2493,2.2000000000000002e-08,alma1,North Atlantic Ocean,22.000000000000004
+590,98,SRF,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+591,98,SRF,5 to 20,46,1.26e-07,alma1,South Pacific Ocean,125.99999999999999
+592,36,SRF,20 to 180,46,4.3100000000000003e-07,alma1,Indian Ocean,431.00000000000006
+593,36,SRF,20 to 180,179,0.0,alma1,Indian Ocean,0.0
+594,36,SRF,20 to 180,188,0.0,alma1,Indian Ocean,0.0
+595,36,SRF,20 to 180,166,0.0,alma1,Indian Ocean,0.0
+596,124,SRF,0.8 to 5,2743,0.0,alma1,South Pacific Ocean,0.0
+597,124,SRF,0.8 to 5,58,3.5799999999999995e-07,alma1,South Pacific Ocean,357.99999999999994
+598,124,SRF,0.8 to 5,76,0.0,alma1,South Pacific Ocean,0.0
+599,124,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+600,124,SRF,0.8 to 5,36,0.0,alma1,South Pacific Ocean,0.0
+601,124,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+602,124,SRF,0.8 to 5,225,0.0,alma1,South Pacific Ocean,0.0
+603,151,SRF,20 to 180,46,1.8600000000000002e-07,alma1,North Atlantic Ocean,186.00000000000003
+604,151,SRF,20 to 180,2493,3.91e-08,alma1,North Atlantic Ocean,39.1
+605,151,SRF,20 to 180,12,3.88e-08,alma1,North Atlantic Ocean,38.8
+606,109,SRF,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+607,109,SRF,20 to 180,166,0.0,alma1,North Pacific Ocean,0.0
+608,109,SRF,20 to 180,46,2.12e-08,alma1,North Pacific Ocean,21.200000000000003
+609,39,DCM,0.8 to 5,188,0.0,alma1,Indian Ocean,0.0
+610,39,DCM,0.8 to 5,36,4.8e-08,alma1,Indian Ocean,48.0
+611,39,DCM,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+612,39,DCM,0.8 to 5,4,1.1599999999999999e-07,alma1,Indian Ocean,116.0
+613,39,DCM,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+614,39,DCM,0.8 to 5,178,1.53e-07,alma1,Indian Ocean,153.0
+615,39,DCM,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+616,39,DCM,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+617,128,SRF,20 to 180,332,0.0,alma1,North Pacific Ocean,0.0
+618,128,SRF,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+619,124,SRF,180 to 2000,2493,4.3300000000000004e-08,alma1,South Pacific Ocean,43.300000000000004
+620,124,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+621,124,SRF,180 to 2000,58,0.0,alma1,South Pacific Ocean,0.0
+622,85,DCM,5 to 20,13,2.41e-07,alma1,Southern Ocean (S of 40S),241.0
+623,85,DCM,5 to 20,74,5.28e-07,alma1,Southern Ocean (S of 40S),528.0
+624,85,DCM,5 to 20,112,1.19e-06,alma1,Southern Ocean (S of 40S),1190.0
+625,85,DCM,5 to 20,30,6.32e-07,alma1,Southern Ocean (S of 40S),632.0
+626,85,DCM,5 to 20,67,4.79e-07,alma1,Southern Ocean (S of 40S),479.0
+627,85,DCM,5 to 20,4,1.32e-06,alma1,Southern Ocean (S of 40S),1320.0
+628,110,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+629,110,SRF,180 to 2000,38,0.0,alma1,South Pacific Ocean,0.0
+630,110,SRF,180 to 2000,332,0.0,alma1,South Pacific Ocean,0.0
+631,135,DCM,5 to 20,179,0.0,alma1,North Pacific Ocean,0.0
+632,135,DCM,5 to 20,38,0.0,alma1,North Pacific Ocean,0.0
+633,135,DCM,5 to 20,1255,0.0,alma1,North Pacific Ocean,0.0
+634,135,DCM,5 to 20,166,0.0,alma1,North Pacific Ocean,0.0
+635,135,DCM,5 to 20,12,1.25e-07,alma1,North Pacific Ocean,125.0
+636,135,DCM,5 to 20,188,0.0,alma1,North Pacific Ocean,0.0
+637,135,DCM,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+638,30,SRF,180 to 2000,2493,5.51e-08,alma1,Mediterranean Sea,55.099999999999994
+639,151,SRF,180 to 2000,2493,1.0099999999999999e-07,alma1,North Atlantic Ocean,100.99999999999999
+640,25,DCM,5 to 20,12,8.269999999999999e-08,alma1,Mediterranean Sea,82.69999999999999
+641,72,DCM,0.8 to 5,58,1.36e-07,alma1,South Atlantic Ocean,136.0
+642,72,DCM,0.8 to 5,188,0.0,alma1,South Atlantic Ocean,0.0
+643,72,DCM,0.8 to 5,36,2.57e-07,alma1,South Atlantic Ocean,257.0
+644,72,DCM,0.8 to 5,166,0.0,alma1,South Atlantic Ocean,0.0
+645,72,DCM,0.8 to 5,2743,0.0,alma1,South Atlantic Ocean,0.0
+646,72,DCM,0.8 to 5,332,0.0,alma1,South Atlantic Ocean,0.0
+647,72,DCM,0.8 to 5,179,0.0,alma1,South Atlantic Ocean,0.0
+648,72,DCM,0.8 to 5,66,0.0,alma1,South Atlantic Ocean,0.0
+649,72,DCM,0.8 to 5,44,0.0,alma1,South Atlantic Ocean,0.0
+650,68,SRF,180 to 2000,44,0.0,alma1,South Atlantic Ocean,0.0
+651,68,SRF,180 to 2000,58,2.8e-08,alma1,South Atlantic Ocean,28.0
+652,80,DCM,20 to 180,46,1.32e-07,alma1,Southern Ocean (S of 40S),132.0
+653,80,DCM,20 to 180,12,3.41e-07,alma1,Southern Ocean (S of 40S),341.0
+654,80,DCM,20 to 180,59,0.0,alma1,Southern Ocean (S of 40S),0.0
+655,98,SRF,20 to 180,46,5.6100000000000006e-08,alma1,South Pacific Ocean,56.10000000000001
+656,98,SRF,20 to 180,12,5.6600000000000004e-08,alma1,South Pacific Ocean,56.6
+657,98,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+658,149,SRF,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+659,149,SRF,180 to 2000,2493,1.1800000000000001e-07,alma1,North Atlantic Ocean,118.00000000000001
+660,52,DCM,20 to 180,46,5.84e-08,alma1,Indian Ocean,58.4
+661,52,DCM,20 to 180,58,2.8999999999999998e-08,alma1,Indian Ocean,29.0
+662,52,DCM,20 to 180,4,0.0,alma1,Indian Ocean,0.0
+663,52,DCM,20 to 180,332,0.0,alma1,Indian Ocean,0.0
+664,52,DCM,20 to 180,44,0.0,alma1,Indian Ocean,0.0
+665,52,DCM,20 to 180,2493,2.41e-08,alma1,Indian Ocean,24.1
+666,52,DCM,20 to 180,12,1.57e-07,alma1,Indian Ocean,157.0
+667,135,DCM,20 to 180,188,0.0,alma1,North Pacific Ocean,0.0
+668,135,DCM,20 to 180,166,0.0,alma1,North Pacific Ocean,0.0
+669,135,DCM,20 to 180,58,2.0099999999999998e-08,alma1,North Pacific Ocean,20.099999999999998
+670,135,DCM,20 to 180,38,0.0,alma1,North Pacific Ocean,0.0
+671,135,DCM,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+672,135,DCM,20 to 180,59,0.0,alma1,North Pacific Ocean,0.0
+673,135,DCM,20 to 180,12,1.36e-07,alma1,North Pacific Ocean,136.0
+674,135,DCM,20 to 180,35,3.63e-08,alma1,North Pacific Ocean,36.300000000000004
+675,135,DCM,20 to 180,179,0.0,alma1,North Pacific Ocean,0.0
+676,66,DCM,5 to 20,332,0.0,alma1,South Atlantic Ocean,0.0
+677,66,DCM,5 to 20,44,0.0,alma1,South Atlantic Ocean,0.0
+678,64,SRF,20 to 180,44,0.0,alma1,Indian Ocean,0.0
+679,64,SRF,20 to 180,46,6.530000000000001e-08,alma1,Indian Ocean,65.30000000000001
+680,41,SRF,0.8 to 5,13,0.0,alma1,Indian Ocean,0.0
+681,41,SRF,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+682,41,SRF,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+683,41,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+684,138,DCM,180 to 2000,44,0.0,alma1,North Pacific Ocean,0.0
+685,138,DCM,180 to 2000,332,0.0,alma1,North Pacific Ocean,0.0
+686,4,SRF,0.8 to 5,44,0.0,alma1,Mediterranean Sea,0.0
+687,4,SRF,0.8 to 5,178,1.13e-07,alma1,Mediterranean Sea,113.0
+688,4,SRF,0.8 to 5,2743,0.0,alma1,Mediterranean Sea,0.0
+689,4,SRF,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+690,4,SRF,0.8 to 5,36,2.65e-07,alma1,Mediterranean Sea,265.0
+691,4,SRF,0.8 to 5,29,0.0,alma1,Mediterranean Sea,0.0
+692,4,SRF,0.8 to 5,747,0.0,alma1,Mediterranean Sea,0.0
+693,4,SRF,0.8 to 5,58,0.0,alma1,Mediterranean Sea,0.0
+694,137,SRF,180 to 2000,332,0.0,alma1,North Pacific Ocean,0.0
+695,137,SRF,180 to 2000,166,0.0,alma1,North Pacific Ocean,0.0
+696,137,SRF,180 to 2000,44,0.0,alma1,North Pacific Ocean,0.0
+697,25,SRF,5 to 20,12,4.61e-07,alma1,Mediterranean Sea,461.0
+698,25,SRF,5 to 20,35,9.240000000000001e-08,alma1,Mediterranean Sea,92.4
+699,38,SRF,20 to 180,166,0.0,alma1,Indian Ocean,0.0
+700,38,SRF,20 to 180,46,1.18e-06,alma1,Indian Ocean,1180.0
+701,38,SRF,20 to 180,179,0.0,alma1,Indian Ocean,0.0
+702,125,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+703,125,SRF,20 to 180,332,0.0,alma1,South Pacific Ocean,0.0
+704,125,SRF,20 to 180,58,4.9900000000000003e-08,alma1,South Pacific Ocean,49.900000000000006
+705,122,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+706,122,SRF,20 to 180,332,0.0,alma1,South Pacific Ocean,0.0
+707,4,DCM,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+708,4,DCM,0.8 to 5,35,7.82e-08,alma1,Mediterranean Sea,78.2
+709,4,DCM,0.8 to 5,12,2.4399999999999996e-07,alma1,Mediterranean Sea,243.99999999999997
+710,4,DCM,0.8 to 5,59,0.0,alma1,Mediterranean Sea,0.0
+711,142,DCM,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+712,142,DCM,0.8 to 5,178,6.38e-08,alma1,North Atlantic Ocean,63.800000000000004
+713,142,DCM,0.8 to 5,36,1.47e-07,alma1,North Atlantic Ocean,147.0
+714,68,SRF,20 to 180,46,3.0399999999999997e-07,alma1,South Atlantic Ocean,303.99999999999994
+715,68,SRF,20 to 180,12,4e-07,alma1,South Atlantic Ocean,400.0
+716,68,SRF,20 to 180,44,0.0,alma1,South Atlantic Ocean,0.0
+717,100,SRF,0.8 to 5,58,9.12e-08,alma1,South Pacific Ocean,91.2
+718,100,SRF,0.8 to 5,67,0.0,alma1,South Pacific Ocean,0.0
+719,100,SRF,0.8 to 5,36,7.28e-08,alma1,South Pacific Ocean,72.8
+720,100,SRF,0.8 to 5,225,0.0,alma1,South Pacific Ocean,0.0
+721,100,SRF,0.8 to 5,2743,0.0,alma1,South Pacific Ocean,0.0
+722,100,SRF,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+723,100,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+724,100,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+725,41,SRF,5 to 20,46,2.51e-07,alma1,Indian Ocean,251.0
+726,93,SRF,5 to 20,38,0.0,alma1,South Pacific Ocean,0.0
+727,131,SRF,5 to 20,46,3.33e-08,alma1,North Pacific Ocean,33.3
+728,131,SRF,5 to 20,2493,3.63e-08,alma1,North Pacific Ocean,36.300000000000004
+729,131,SRF,5 to 20,36,2.1e-08,alma1,North Pacific Ocean,21.0
+730,131,SRF,5 to 20,12,2.7200000000000002e-08,alma1,North Pacific Ocean,27.200000000000003
+731,80,DCM,180 to 2000,38,0.0,alma1,Southern Ocean (S of 40S),0.0
+732,110,SRF,0.8 to 5,36,0.0,alma1,South Pacific Ocean,0.0
+733,110,SRF,0.8 to 5,166,0.0,alma1,South Pacific Ocean,0.0
+734,110,SRF,0.8 to 5,225,0.0,alma1,South Pacific Ocean,0.0
+735,110,SRF,0.8 to 5,67,9.75e-08,alma1,South Pacific Ocean,97.5
+736,110,SRF,0.8 to 5,58,1.54e-07,alma1,South Pacific Ocean,154.0
+737,110,SRF,0.8 to 5,13,9.75e-08,alma1,South Pacific Ocean,97.5
+738,110,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+739,110,SRF,0.8 to 5,179,0.0,alma1,South Pacific Ocean,0.0
+740,110,SRF,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+741,110,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+742,93,SRF,180 to 2000,38,0.0,alma1,South Pacific Ocean,0.0
+743,139,SRF,5 to 20,58,2.8700000000000002e-08,alma1,North Pacific Ocean,28.700000000000003
+744,139,SRF,5 to 20,1580,2.7799999999999997e-08,alma1,North Pacific Ocean,27.799999999999997
+745,139,SRF,5 to 20,179,0.0,alma1,North Pacific Ocean,0.0
+746,139,SRF,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+747,139,SRF,5 to 20,166,0.0,alma1,North Pacific Ocean,0.0
+748,38,SRF,180 to 2000,166,0.0,alma1,Indian Ocean,0.0
+749,38,SRF,180 to 2000,44,0.0,alma1,Indian Ocean,0.0
+750,38,SRF,180 to 2000,179,0.0,alma1,Indian Ocean,0.0
+751,142,DCM,20 to 180,46,3.9899999999999996e-07,alma1,North Atlantic Ocean,398.99999999999994
+752,142,DCM,20 to 180,12,8.91e-08,alma1,North Atlantic Ocean,89.1
+753,39,SRF,0.8 to 5,225,0.0,alma1,Indian Ocean,0.0
+754,39,SRF,0.8 to 5,36,8.660000000000001e-08,alma1,Indian Ocean,86.60000000000001
+755,39,SRF,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+756,39,SRF,0.8 to 5,58,5.22e-08,alma1,Indian Ocean,52.199999999999996
+757,39,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+758,39,SRF,0.8 to 5,2743,0.0,alma1,Indian Ocean,0.0
+759,39,SRF,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+760,4,DCM,5 to 20,12,2.41e-08,alma1,Mediterranean Sea,24.1
+761,4,DCM,5 to 20,36,0.0,alma1,Mediterranean Sea,0.0
+762,4,DCM,5 to 20,58,2.57e-08,alma1,Mediterranean Sea,25.7
+763,4,DCM,5 to 20,1255,0.0,alma1,Mediterranean Sea,0.0
+764,4,DCM,5 to 20,179,0.0,alma1,Mediterranean Sea,0.0
+765,30,DCM,20 to 180,12,2.4399999999999996e-07,alma1,Mediterranean Sea,243.99999999999997
+766,23,DCM,20 to 180,12,4.56e-07,alma1,Mediterranean Sea,456.0
+767,23,DCM,20 to 180,58,0.0,alma1,Mediterranean Sea,0.0
+768,23,DCM,20 to 180,35,8.08e-08,alma1,Mediterranean Sea,80.8
+769,23,SRF,180 to 2000,38,0.0,alma1,Mediterranean Sea,0.0
+770,80,DCM,5 to 20,12,1.42e-07,alma1,Southern Ocean (S of 40S),142.0
+771,80,DCM,5 to 20,44,0.0,alma1,Southern Ocean (S of 40S),0.0
+772,70,SRF,5 to 20,332,0.0,alma1,South Atlantic Ocean,0.0
+773,70,SRF,5 to 20,58,0.0,alma1,South Atlantic Ocean,0.0
+774,70,SRF,5 to 20,1580,7.969999999999999e-08,alma1,South Atlantic Ocean,79.69999999999999
+775,70,SRF,5 to 20,44,0.0,alma1,South Atlantic Ocean,0.0
+776,70,SRF,5 to 20,2493,7.620000000000001e-08,alma1,South Atlantic Ocean,76.2
+777,82,SRF,0.8 to 5,66,0.0,alma1,Southern Ocean (S of 40S),0.0
+778,82,SRF,0.8 to 5,30,2.12e-07,alma1,Southern Ocean (S of 40S),212.0
+779,82,SRF,0.8 to 5,13,2.5e-05,alma1,Southern Ocean (S of 40S),25000.0
+780,82,SRF,0.8 to 5,24,0.0,alma1,Southern Ocean (S of 40S),0.0
+781,82,SRF,0.8 to 5,4,2.76e-06,alma1,Southern Ocean (S of 40S),2760.0
+782,82,SRF,0.8 to 5,67,1.4000000000000001e-05,alma1,Southern Ocean (S of 40S),14000.000000000002
+783,82,SRF,0.8 to 5,58,3.1299999999999996e-08,alma1,Southern Ocean (S of 40S),31.299999999999997
+784,82,SRF,0.8 to 5,112,2.37e-06,alma1,Southern Ocean (S of 40S),2370.0
+785,82,SRF,0.8 to 5,74,3.1299999999999996e-08,alma1,Southern Ocean (S of 40S),31.299999999999997
+786,82,SRF,0.8 to 5,85,1.73e-06,alma1,Southern Ocean (S of 40S),1730.0
+787,72,SRF,180 to 2000,44,0.0,alma1,South Atlantic Ocean,0.0
+788,72,SRF,180 to 2000,12,6.440000000000001e-08,alma1,South Atlantic Ocean,64.4
+789,72,SRF,180 to 2000,46,3.2799999999999997e-07,alma1,South Atlantic Ocean,328.0
+790,52,SRF,0.8 to 5,332,0.0,alma1,Indian Ocean,0.0
+791,52,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+792,52,SRF,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+793,52,SRF,0.8 to 5,178,3.5099999999999997e-08,alma1,Indian Ocean,35.099999999999994
+794,52,SRF,0.8 to 5,58,9.34e-08,alma1,Indian Ocean,93.4
+795,52,SRF,0.8 to 5,36,3.7400000000000004e-08,alma1,Indian Ocean,37.400000000000006
+796,52,SRF,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+797,52,SRF,0.8 to 5,225,0.0,alma1,Indian Ocean,0.0
+798,139,SRF,0.8 to 5,4,0.0,alma1,North Pacific Ocean,0.0
+799,139,SRF,0.8 to 5,58,1.66e-07,alma1,North Pacific Ocean,166.0
+800,139,SRF,0.8 to 5,36,7.480000000000001e-08,alma1,North Pacific Ocean,74.80000000000001
+801,139,SRF,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+802,139,SRF,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+803,139,SRF,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+804,139,SRF,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+805,139,SRF,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+806,7,DCM,0.8 to 5,29,0.0,alma1,Mediterranean Sea,0.0
+807,7,DCM,0.8 to 5,178,5.5800000000000003e-08,alma1,Mediterranean Sea,55.800000000000004
+808,7,DCM,0.8 to 5,36,1.25e-07,alma1,Mediterranean Sea,125.0
+809,7,DCM,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+810,7,DCM,0.8 to 5,179,0.0,alma1,Mediterranean Sea,0.0
+811,102,SRF,5 to 20,36,4.0199999999999996e-08,alma1,South Pacific Ocean,40.199999999999996
+812,102,SRF,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+813,102,SRF,5 to 20,332,0.0,alma1,South Pacific Ocean,0.0
+814,102,SRF,5 to 20,1580,5.47e-08,alma1,South Pacific Ocean,54.7
+815,102,SRF,5 to 20,58,0.0,alma1,South Pacific Ocean,0.0
+816,76,SRF,5 to 20,44,0.0,alma1,South Atlantic Ocean,0.0
+817,132,SRF,20 to 180,46,6.28e-07,alma1,North Pacific Ocean,628.0
+818,143,DCM,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+819,18,DCM,20 to 180,12,5.41e-07,alma1,Mediterranean Sea,541.0
+820,18,DCM,20 to 180,46,1.11e-07,alma1,Mediterranean Sea,111.0
+821,66,DCM,0.8 to 5,24,0.0,alma1,South Atlantic Ocean,0.0
+822,66,DCM,0.8 to 5,179,0.0,alma1,South Atlantic Ocean,0.0
+823,66,DCM,0.8 to 5,2743,0.0,alma1,South Atlantic Ocean,0.0
+824,66,DCM,0.8 to 5,332,0.0,alma1,South Atlantic Ocean,0.0
+825,66,DCM,0.8 to 5,76,0.0,alma1,South Atlantic Ocean,0.0
+826,66,DCM,0.8 to 5,36,1.54e-07,alma1,South Atlantic Ocean,154.0
+827,66,DCM,0.8 to 5,1255,0.0,alma1,South Atlantic Ocean,0.0
+828,66,DCM,0.8 to 5,4,5.89e-08,alma1,South Atlantic Ocean,58.9
+829,66,DCM,0.8 to 5,67,0.0,alma1,South Atlantic Ocean,0.0
+830,66,DCM,0.8 to 5,13,0.0,alma1,South Atlantic Ocean,0.0
+831,66,DCM,0.8 to 5,178,6.75e-08,alma1,South Atlantic Ocean,67.5
+832,66,DCM,0.8 to 5,44,0.0,alma1,South Atlantic Ocean,0.0
+833,66,DCM,0.8 to 5,66,0.0,alma1,South Atlantic Ocean,0.0
+834,66,DCM,0.8 to 5,166,0.0,alma1,South Atlantic Ocean,0.0
+835,66,DCM,0.8 to 5,188,0.0,alma1,South Atlantic Ocean,0.0
+836,66,DCM,0.8 to 5,74,0.0,alma1,South Atlantic Ocean,0.0
+837,66,DCM,0.8 to 5,58,3.09e-07,alma1,South Atlantic Ocean,309.0
+838,111,SRF,0.8 to 5,58,1.36e-07,alma1,South Pacific Ocean,136.0
+839,111,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+840,111,SRF,0.8 to 5,2743,0.0,alma1,South Pacific Ocean,0.0
+841,111,SRF,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+842,111,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+843,111,SRF,0.8 to 5,36,3.95e-08,alma1,South Pacific Ocean,39.5
+844,138,DCM,0.8 to 5,178,2.52e-08,alma1,North Pacific Ocean,25.2
+845,138,DCM,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+846,138,DCM,0.8 to 5,76,0.0,alma1,North Pacific Ocean,0.0
+847,138,DCM,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+848,138,DCM,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+849,138,DCM,0.8 to 5,332,0.0,alma1,North Pacific Ocean,0.0
+850,138,DCM,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+851,138,DCM,0.8 to 5,36,6.54e-08,alma1,North Pacific Ocean,65.4
+852,138,DCM,0.8 to 5,58,8e-08,alma1,North Pacific Ocean,80.0
+853,152,SRF,20 to 180,59,0.0,alma1,North Atlantic Ocean,0.0
+854,152,SRF,20 to 180,12,2.5499999999999997e-08,alma1,North Atlantic Ocean,25.499999999999996
+855,152,SRF,20 to 180,35,5.49e-08,alma1,North Atlantic Ocean,54.9
+856,143,DCM,20 to 180,12,1.1900000000000001e-07,alma1,North Atlantic Ocean,119.0
+857,143,DCM,20 to 180,2493,2.64e-08,alma1,North Atlantic Ocean,26.400000000000002
+858,143,DCM,20 to 180,46,1.12e-07,alma1,North Atlantic Ocean,112.0
+859,150,DCM,0.8 to 5,44,0.0,alma1,North Atlantic Ocean,0.0
+860,150,DCM,0.8 to 5,178,1.15e-07,alma1,North Atlantic Ocean,115.0
+861,150,DCM,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+862,150,DCM,0.8 to 5,2743,0.0,alma1,North Atlantic Ocean,0.0
+863,150,DCM,0.8 to 5,179,0.0,alma1,North Atlantic Ocean,0.0
+864,150,DCM,0.8 to 5,188,0.0,alma1,North Atlantic Ocean,0.0
+865,150,DCM,0.8 to 5,166,0.0,alma1,North Atlantic Ocean,0.0
+866,150,DCM,0.8 to 5,36,3.08e-07,alma1,North Atlantic Ocean,308.0
+867,150,DCM,0.8 to 5,58,1.85e-07,alma1,North Atlantic Ocean,185.0
+868,22,SRF,20 to 180,12,1.58e-07,alma1,Mediterranean Sea,158.0
+869,22,SRF,20 to 180,35,2.3e-07,alma1,Mediterranean Sea,230.0
+870,26,SRF,20 to 180,12,3.0399999999999997e-07,alma1,Mediterranean Sea,303.99999999999994
+871,93,DCM,0.8 to 5,166,0.0,alma1,South Pacific Ocean,0.0
+872,93,DCM,0.8 to 5,36,2.54e-08,alma1,South Pacific Ocean,25.4
+873,93,DCM,0.8 to 5,188,0.0,alma1,South Pacific Ocean,0.0
+874,93,DCM,0.8 to 5,74,4.64e-08,alma1,South Pacific Ocean,46.4
+875,93,DCM,0.8 to 5,67,2.5299999999999998e-08,alma1,South Pacific Ocean,25.299999999999997
+876,93,DCM,0.8 to 5,58,4.45e-07,alma1,South Pacific Ocean,445.0
+877,93,DCM,0.8 to 5,13,2.5299999999999998e-08,alma1,South Pacific Ocean,25.299999999999997
+878,93,DCM,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+879,93,DCM,0.8 to 5,179,0.0,alma1,South Pacific Ocean,0.0
+880,93,DCM,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+881,138,SRF,20 to 180,46,1.93e-08,alma1,North Pacific Ocean,19.3
+882,138,SRF,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+883,131,SRF,180 to 2000,2493,5.979999999999999e-07,alma1,North Pacific Ocean,597.9999999999999
+884,131,SRF,180 to 2000,38,0.0,alma1,North Pacific Ocean,0.0
+885,66,SRF,20 to 180,12,3.63e-08,alma1,South Atlantic Ocean,36.300000000000004
+886,66,SRF,20 to 180,36,2.4199999999999998e-08,alma1,South Atlantic Ocean,24.2
+887,66,SRF,20 to 180,59,0.0,alma1,South Atlantic Ocean,0.0
+888,128,DCM,180 to 2000,332,0.0,alma1,North Pacific Ocean,0.0
+889,128,DCM,180 to 2000,44,0.0,alma1,North Pacific Ocean,0.0
+890,136,SRF,180 to 2000,332,0.0,alma1,North Pacific Ocean,0.0
+891,136,SRF,180 to 2000,44,0.0,alma1,North Pacific Ocean,0.0
+892,147,SRF,5 to 20,12,2.92e-08,alma1,North Atlantic Ocean,29.2
+893,147,SRF,5 to 20,2493,1.73e-07,alma1,North Atlantic Ocean,173.0
+894,147,SRF,5 to 20,1580,5.0700000000000004e-08,alma1,North Atlantic Ocean,50.7
+895,147,SRF,5 to 20,1255,0.0,alma1,North Atlantic Ocean,0.0
+896,123,SRF,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+897,123,SRF,5 to 20,1580,3.58e-08,alma1,South Pacific Ocean,35.800000000000004
+898,123,SRF,5 to 20,58,0.0,alma1,South Pacific Ocean,0.0
+899,123,SRF,5 to 20,76,0.0,alma1,South Pacific Ocean,0.0
+900,123,SRF,5 to 20,1255,0.0,alma1,South Pacific Ocean,0.0
+901,65,SRF,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+902,65,SRF,0.8 to 5,2743,0.0,alma1,Indian Ocean,0.0
+903,65,SRF,0.8 to 5,76,0.0,alma1,Indian Ocean,0.0
+904,65,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+905,65,SRF,0.8 to 5,13,7.58e-08,alma1,Indian Ocean,75.8
+906,65,SRF,0.8 to 5,24,0.0,alma1,Indian Ocean,0.0
+907,65,SRF,0.8 to 5,178,7.87e-08,alma1,Indian Ocean,78.7
+908,65,SRF,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+909,65,SRF,0.8 to 5,4,0.0,alma1,Indian Ocean,0.0
+910,65,SRF,0.8 to 5,58,2.0199999999999998e-07,alma1,Indian Ocean,201.99999999999997
+911,65,SRF,0.8 to 5,67,1.0099999999999999e-07,alma1,Indian Ocean,100.99999999999999
+912,65,SRF,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+913,65,SRF,0.8 to 5,36,7.33e-08,alma1,Indian Ocean,73.3
+914,65,SRF,0.8 to 5,225,0.0,alma1,Indian Ocean,0.0
+915,136,SRF,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+916,136,SRF,5 to 20,332,0.0,alma1,North Pacific Ocean,0.0
+917,136,SRF,5 to 20,46,1.04e-07,alma1,North Pacific Ocean,104.0
+918,136,SRF,5 to 20,1580,4.67e-08,alma1,North Pacific Ocean,46.7
+919,143,DCM,5 to 20,2493,4.05e-08,alma1,North Atlantic Ocean,40.5
+920,143,DCM,5 to 20,46,4.43e-08,alma1,North Atlantic Ocean,44.3
+921,143,DCM,5 to 20,1580,5.1299999999999996e-08,alma1,North Atlantic Ocean,51.3
+922,72,DCM,180 to 2000,38,0.0,alma1,South Atlantic Ocean,0.0
+923,122,SRF,5 to 20,58,0.0,alma1,South Pacific Ocean,0.0
+924,122,SRF,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+925,18,SRF,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+926,18,SRF,0.8 to 5,178,1.8600000000000002e-07,alma1,Mediterranean Sea,186.00000000000003
+927,18,SRF,0.8 to 5,13,0.0,alma1,Mediterranean Sea,0.0
+928,18,SRF,0.8 to 5,36,1.25e-06,alma1,Mediterranean Sea,1250.0
+929,102,DCM,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+930,81,SRF,20 to 180,112,5.01e-08,alma1,Southern Ocean (S of 40S),50.1
+931,81,SRF,20 to 180,1580,7.320000000000001e-08,alma1,Southern Ocean (S of 40S),73.2
+932,81,SRF,20 to 180,13,0.0,alma1,Southern Ocean (S of 40S),0.0
+933,92,SRF,0.8 to 5,13,0.0,alma1,South Pacific Ocean,0.0
+934,92,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+935,92,SRF,0.8 to 5,112,5.5599999999999995e-08,alma1,South Pacific Ocean,55.599999999999994
+936,92,SRF,0.8 to 5,58,0.0,alma1,South Pacific Ocean,0.0
+937,92,SRF,0.8 to 5,4,9e-08,alma1,South Pacific Ocean,90.0
+938,92,SRF,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+939,135,SRF,20 to 180,179,0.0,alma1,North Pacific Ocean,0.0
+940,135,SRF,20 to 180,58,0.0,alma1,North Pacific Ocean,0.0
+941,135,SRF,20 to 180,188,0.0,alma1,North Pacific Ocean,0.0
+942,135,SRF,20 to 180,166,0.0,alma1,North Pacific Ocean,0.0
+943,135,SRF,20 to 180,24,0.0,alma1,North Pacific Ocean,0.0
+944,135,SRF,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+945,135,SRF,20 to 180,59,0.0,alma1,North Pacific Ocean,0.0
+946,39,SRF,20 to 180,166,0.0,alma1,Indian Ocean,0.0
+947,39,SRF,20 to 180,179,0.0,alma1,Indian Ocean,0.0
+948,146,SRF,180 to 2000,2493,9.44e-06,alma1,North Atlantic Ocean,9440.0
+949,146,SRF,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+950,145,SRF,180 to 2000,2493,1.24e-06,alma1,North Atlantic Ocean,1240.0
+951,145,SRF,180 to 2000,1255,0.0,alma1,North Atlantic Ocean,0.0
+952,145,SRF,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+953,145,SRF,180 to 2000,747,0.0,alma1,North Atlantic Ocean,0.0
+954,111,DCM,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+955,111,DCM,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+956,111,DCM,0.8 to 5,58,8.35e-08,alma1,South Pacific Ocean,83.5
+957,38,DCM,0.8 to 5,332,0.0,alma1,Indian Ocean,0.0
+958,38,DCM,0.8 to 5,2743,0.0,alma1,Indian Ocean,0.0
+959,38,DCM,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+960,38,DCM,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+961,38,DCM,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+962,38,DCM,0.8 to 5,178,5.26e-07,alma1,Indian Ocean,526.0
+963,38,DCM,0.8 to 5,58,7.35e-07,alma1,Indian Ocean,735.0
+964,38,DCM,0.8 to 5,188,0.0,alma1,Indian Ocean,0.0
+965,38,DCM,0.8 to 5,36,1.33e-07,alma1,Indian Ocean,133.0
+966,38,DCM,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+967,7,DCM,20 to 180,46,1.1e-07,alma1,Mediterranean Sea,110.0
+968,64,SRF,5 to 20,1580,5.52e-08,alma1,Indian Ocean,55.199999999999996
+969,65,SRF,180 to 2000,166,0.0,alma1,Indian Ocean,0.0
+970,65,SRF,180 to 2000,2493,2.77e-08,alma1,Indian Ocean,27.7
+971,65,SRF,180 to 2000,38,0.0,alma1,Indian Ocean,0.0
+972,65,SRF,180 to 2000,58,0.0,alma1,Indian Ocean,0.0
+973,66,SRF,0.8 to 5,36,8.58e-08,alma1,South Atlantic Ocean,85.8
+974,66,SRF,0.8 to 5,44,0.0,alma1,South Atlantic Ocean,0.0
+975,66,SRF,0.8 to 5,178,3.75e-08,alma1,South Atlantic Ocean,37.5
+976,66,SRF,0.8 to 5,66,0.0,alma1,South Atlantic Ocean,0.0
+977,98,SRF,180 to 2000,2493,1.62e-07,alma1,South Pacific Ocean,162.0
+978,131,DCM,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+979,131,DCM,20 to 180,12,3.46e-07,alma1,North Pacific Ocean,346.0
+980,131,DCM,20 to 180,46,9.939999999999999e-08,alma1,North Pacific Ocean,99.39999999999999
+981,131,DCM,20 to 180,179,0.0,alma1,North Pacific Ocean,0.0
+982,100,SRF,180 to 2000,58,0.0,alma1,South Pacific Ocean,0.0
+983,100,SRF,180 to 2000,2493,6.91e-08,alma1,South Pacific Ocean,69.10000000000001
+984,100,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+985,7,DCM,5 to 20,12,1.49e-07,alma1,Mediterranean Sea,149.0
+986,80,SRF,0.8 to 5,36,1.08e-07,alma1,Southern Ocean (S of 40S),108.0
+987,80,SRF,0.8 to 5,178,3.61e-08,alma1,Southern Ocean (S of 40S),36.1
+988,80,SRF,0.8 to 5,29,0.0,alma1,Southern Ocean (S of 40S),0.0
+989,80,SRF,0.8 to 5,66,0.0,alma1,Southern Ocean (S of 40S),0.0
+990,150,SRF,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+991,150,SRF,180 to 2000,2493,1.73e-07,alma1,North Atlantic Ocean,173.0
+992,142,DCM,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+993,142,DCM,180 to 2000,46,7.54e-08,alma1,North Atlantic Ocean,75.4
+994,7,SRF,20 to 180,46,1.1800000000000001e-07,alma1,Mediterranean Sea,118.00000000000001
+995,128,SRF,0.8 to 5,58,2.15e-07,alma1,North Pacific Ocean,215.0
+996,128,SRF,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+997,128,SRF,0.8 to 5,36,4.88e-08,alma1,North Pacific Ocean,48.8
+998,128,SRF,0.8 to 5,225,0.0,alma1,North Pacific Ocean,0.0
+999,128,SRF,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+1000,128,SRF,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+1001,128,SRF,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+1002,128,SRF,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+1003,25,DCM,20 to 180,35,3.87e-08,alma1,Mediterranean Sea,38.7
+1004,25,DCM,20 to 180,59,0.0,alma1,Mediterranean Sea,0.0
+1005,25,DCM,20 to 180,44,0.0,alma1,Mediterranean Sea,0.0
+1006,25,DCM,20 to 180,12,8.359999999999999e-07,alma1,Mediterranean Sea,835.9999999999999
+1007,38,DCM,20 to 180,46,8e-07,alma1,Indian Ocean,800.0
+1008,38,DCM,20 to 180,179,0.0,alma1,Indian Ocean,0.0
+1009,38,DCM,20 to 180,44,0.0,alma1,Indian Ocean,0.0
+1010,38,DCM,20 to 180,188,0.0,alma1,Indian Ocean,0.0
+1011,38,DCM,20 to 180,166,0.0,alma1,Indian Ocean,0.0
+1012,38,DCM,20 to 180,12,5.71e-08,alma1,Indian Ocean,57.1
+1013,25,SRF,0.8 to 5,36,1.2699999999999999e-07,alma1,Mediterranean Sea,126.99999999999999
+1014,142,SRF,20 to 180,12,3.8100000000000004e-08,alma1,North Atlantic Ocean,38.1
+1015,142,SRF,20 to 180,46,2.75e-07,alma1,North Atlantic Ocean,275.0
+1016,142,SRF,20 to 180,58,5.3e-08,alma1,North Atlantic Ocean,53.0
+1017,7,SRF,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+1018,7,SRF,0.8 to 5,36,1.48e-07,alma1,Mediterranean Sea,148.0
+1019,148,SRF,20 to 180,38,0.0,alma1,North Atlantic Ocean,0.0
+1020,148,SRF,20 to 180,66,0.0,alma1,North Atlantic Ocean,0.0
+1021,148,SRF,20 to 180,12,3.43e-08,alma1,North Atlantic Ocean,34.300000000000004
+1022,148,SRF,20 to 180,2493,2.22e-07,alma1,North Atlantic Ocean,222.0
+1023,70,SRF,0.8 to 5,36,4.67e-08,alma1,South Atlantic Ocean,46.7
+1024,70,SRF,0.8 to 5,44,0.0,alma1,South Atlantic Ocean,0.0
+1025,70,SRF,0.8 to 5,332,0.0,alma1,South Atlantic Ocean,0.0
+1026,70,SRF,0.8 to 5,66,0.0,alma1,South Atlantic Ocean,0.0
+1027,70,SRF,0.8 to 5,58,5.4400000000000004e-08,alma1,South Atlantic Ocean,54.400000000000006
+1028,9,DCM,0.8 to 5,166,0.0,alma1,Mediterranean Sea,0.0
+1029,9,DCM,0.8 to 5,36,3.1e-07,alma1,Mediterranean Sea,310.0
+1030,9,DCM,0.8 to 5,58,0.0,alma1,Mediterranean Sea,0.0
+1031,9,DCM,0.8 to 5,24,0.0,alma1,Mediterranean Sea,0.0
+1032,9,DCM,0.8 to 5,44,0.0,alma1,Mediterranean Sea,0.0
+1033,9,DCM,0.8 to 5,178,2.9e-07,alma1,Mediterranean Sea,290.0
+1034,9,DCM,0.8 to 5,179,0.0,alma1,Mediterranean Sea,0.0
+1035,9,DCM,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+1036,145,SRF,0.8 to 5,44,0.0,alma1,North Atlantic Ocean,0.0
+1037,145,SRF,0.8 to 5,13,3.62e-08,alma1,North Atlantic Ocean,36.2
+1038,145,SRF,0.8 to 5,66,0.0,alma1,North Atlantic Ocean,0.0
+1039,145,SRF,0.8 to 5,225,0.0,alma1,North Atlantic Ocean,0.0
+1040,145,SRF,0.8 to 5,36,1.13e-07,alma1,North Atlantic Ocean,113.0
+1041,145,SRF,0.8 to 5,1255,0.0,alma1,North Atlantic Ocean,0.0
+1042,145,SRF,0.8 to 5,4,7.29e-08,alma1,North Atlantic Ocean,72.89999999999999
+1043,145,SRF,0.8 to 5,58,1.23e-07,alma1,North Atlantic Ocean,123.0
+1044,145,SRF,0.8 to 5,67,3.62e-08,alma1,North Atlantic Ocean,36.2
+1045,145,SRF,0.8 to 5,747,0.0,alma1,North Atlantic Ocean,0.0
+1046,111,DCM,20 to 180,46,1.8999999999999998e-08,alma1,South Pacific Ocean,18.999999999999996
+1047,111,DCM,20 to 180,332,0.0,alma1,South Pacific Ocean,0.0
+1048,111,DCM,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+1049,111,DCM,20 to 180,2493,3.7999999999999996e-08,alma1,South Pacific Ocean,37.99999999999999
+1050,111,DCM,20 to 180,12,3.46e-07,alma1,South Pacific Ocean,346.0
+1051,151,DCM,180 to 2000,2493,4.7800000000000005e-08,alma1,North Atlantic Ocean,47.800000000000004
+1052,68,SRF,5 to 20,1580,1.13e-07,alma1,South Atlantic Ocean,113.0
+1053,68,SRF,5 to 20,58,0.0,alma1,South Atlantic Ocean,0.0
+1054,68,SRF,5 to 20,1255,0.0,alma1,South Atlantic Ocean,0.0
+1055,68,SRF,5 to 20,44,0.0,alma1,South Atlantic Ocean,0.0
+1056,68,SRF,5 to 20,12,4.08e-08,alma1,South Atlantic Ocean,40.800000000000004
+1057,123,SRF,20 to 180,2493,1.78e-08,alma1,South Pacific Ocean,17.8
+1058,123,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+1059,84,SRF,180 to 2000,13,5.59e-07,alma1,Southern Ocean (S of 40S),559.0
+1060,84,SRF,180 to 2000,85,8.71e-08,alma1,Southern Ocean (S of 40S),87.10000000000001
+1061,84,SRF,180 to 2000,74,2.75e-08,alma1,Southern Ocean (S of 40S),27.5
+1062,84,SRF,180 to 2000,112,2.01e-07,alma1,Southern Ocean (S of 40S),201.0
+1063,84,SRF,180 to 2000,4,6.93e-07,alma1,Southern Ocean (S of 40S),693.0
+1064,84,SRF,180 to 2000,67,4.6200000000000003e-07,alma1,Southern Ocean (S of 40S),462.00000000000006
+1065,84,SRF,180 to 2000,30,1.06e-07,alma1,Southern Ocean (S of 40S),106.0
+1066,64,DCM,20 to 180,12,2.88e-07,alma1,Indian Ocean,288.0
+1067,64,DCM,20 to 180,46,1.55e-07,alma1,Indian Ocean,155.0
+1068,65,DCM,5 to 20,58,3.12e-08,alma1,Indian Ocean,31.200000000000003
+1069,65,DCM,5 to 20,66,0.0,alma1,Indian Ocean,0.0
+1070,65,DCM,5 to 20,178,4.38e-08,alma1,Indian Ocean,43.800000000000004
+1071,149,SRF,20 to 180,46,7.89e-08,alma1,North Atlantic Ocean,78.89999999999999
+1072,149,SRF,20 to 180,12,6.59e-08,alma1,North Atlantic Ocean,65.9
+1073,149,SRF,20 to 180,2493,4.9400000000000006e-08,alma1,North Atlantic Ocean,49.400000000000006
+1074,22,DCM,0.8 to 5,2743,0.0,alma1,Mediterranean Sea,0.0
+1075,22,DCM,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+1076,22,DCM,0.8 to 5,12,2.58e-08,alma1,Mediterranean Sea,25.8
+1077,22,DCM,0.8 to 5,24,0.0,alma1,Mediterranean Sea,0.0
+1078,22,DCM,0.8 to 5,36,3.83e-07,alma1,Mediterranean Sea,383.0
+1079,22,DCM,0.8 to 5,44,0.0,alma1,Mediterranean Sea,0.0
+1080,70,SRF,180 to 2000,46,2.37e-08,alma1,South Atlantic Ocean,23.7
+1081,70,SRF,180 to 2000,44,0.0,alma1,South Atlantic Ocean,0.0
+1082,70,SRF,180 to 2000,2493,3.53e-08,alma1,South Atlantic Ocean,35.3
+1083,78,SRF,20 to 180,178,1.0199999999999999e-07,alma1,South Atlantic Ocean,101.99999999999999
+1084,78,SRF,20 to 180,29,0.0,alma1,South Atlantic Ocean,0.0
+1085,78,SRF,20 to 180,12,5.97e-08,alma1,South Atlantic Ocean,59.699999999999996
+1086,41,SRF,180 to 2000,44,0.0,alma1,Indian Ocean,0.0
+1087,25,DCM,0.8 to 5,178,6.84e-08,alma1,Mediterranean Sea,68.4
+1088,25,DCM,0.8 to 5,225,0.0,alma1,Mediterranean Sea,0.0
+1089,25,DCM,0.8 to 5,36,1.35e-07,alma1,Mediterranean Sea,135.0
+1090,25,DCM,0.8 to 5,66,0.0,alma1,Mediterranean Sea,0.0
+1091,39,DCM,20 to 180,166,0.0,alma1,Indian Ocean,0.0
+1092,68,DCM,5 to 20,12,2.61e-08,alma1,South Atlantic Ocean,26.099999999999998
+1093,68,DCM,5 to 20,44,0.0,alma1,South Atlantic Ocean,0.0
+1094,98,DCM,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+1095,82,SRF,5 to 20,13,4.79e-06,alma1,Southern Ocean (S of 40S),4790.0
+1096,82,SRF,5 to 20,85,4.7e-07,alma1,Southern Ocean (S of 40S),470.0
+1097,82,SRF,5 to 20,74,0.0,alma1,Southern Ocean (S of 40S),0.0
+1098,82,SRF,5 to 20,112,2.1800000000000002e-07,alma1,Southern Ocean (S of 40S),218.00000000000003
+1099,82,SRF,5 to 20,4,6.6e-07,alma1,Southern Ocean (S of 40S),660.0
+1100,82,SRF,5 to 20,30,9.810000000000001e-08,alma1,Southern Ocean (S of 40S),98.10000000000001
+1101,82,SRF,5 to 20,67,2.77e-06,alma1,Southern Ocean (S of 40S),2770.0
+1102,85,DCM,0.8 to 5,13,7.67e-07,alma1,Southern Ocean (S of 40S),767.0
+1103,85,DCM,0.8 to 5,85,8.369999999999999e-08,alma1,Southern Ocean (S of 40S),83.69999999999999
+1104,85,DCM,0.8 to 5,74,0.0,alma1,Southern Ocean (S of 40S),0.0
+1105,85,DCM,0.8 to 5,112,9.039999999999999e-08,alma1,Southern Ocean (S of 40S),90.39999999999999
+1106,85,DCM,0.8 to 5,4,2.88e-06,alma1,Southern Ocean (S of 40S),2880.0
+1107,85,DCM,0.8 to 5,67,8.96e-07,alma1,Southern Ocean (S of 40S),896.0
+1108,85,DCM,0.8 to 5,30,1.1900000000000001e-07,alma1,Southern Ocean (S of 40S),119.0
+1109,110,SRF,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+1110,110,SRF,5 to 20,332,0.0,alma1,South Pacific Ocean,0.0
+1111,110,SRF,5 to 20,46,1.23e-07,alma1,South Pacific Ocean,123.0
+1112,125,SRF,5 to 20,2493,3.85e-08,alma1,South Pacific Ocean,38.5
+1113,125,SRF,5 to 20,44,0.0,alma1,South Pacific Ocean,0.0
+1114,125,SRF,5 to 20,58,0.0,alma1,South Pacific Ocean,0.0
+1115,125,SRF,5 to 20,1580,6.049999999999999e-08,alma1,South Pacific Ocean,60.49999999999999
+1116,109,SRF,5 to 20,36,7.07e-08,alma1,North Pacific Ocean,70.7
+1117,109,SRF,5 to 20,166,0.0,alma1,North Pacific Ocean,0.0
+1118,109,SRF,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+1119,109,SRF,5 to 20,179,0.0,alma1,North Pacific Ocean,0.0
+1120,109,SRF,5 to 20,1580,4.56e-08,alma1,North Pacific Ocean,45.6
+1121,109,SRF,5 to 20,58,0.0,alma1,North Pacific Ocean,0.0
+1122,147,SRF,20 to 180,12,4.5700000000000006e-08,alma1,North Atlantic Ocean,45.7
+1123,147,SRF,20 to 180,2493,1.1900000000000001e-07,alma1,North Atlantic Ocean,119.0
+1124,36,SRF,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+1125,36,SRF,0.8 to 5,36,1.7699999999999998e-07,alma1,Indian Ocean,176.99999999999997
+1126,36,SRF,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+1127,36,SRF,0.8 to 5,46,3.5e-08,alma1,Indian Ocean,35.0
+1128,36,SRF,0.8 to 5,58,3.2200000000000004e-08,alma1,Indian Ocean,32.2
+1129,36,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+1130,36,SRF,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+1131,138,SRF,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+1132,143,SRF,180 to 2000,2493,3.31e-08,alma1,North Atlantic Ocean,33.1
+1133,143,SRF,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+1134,136,SRF,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+1135,136,SRF,20 to 180,46,2.21e-07,alma1,North Pacific Ocean,221.0
+1136,82,DCM,180 to 2000,67,2.79e-06,alma1,Southern Ocean (S of 40S),2790.0
+1137,82,DCM,180 to 2000,30,3.55e-08,alma1,Southern Ocean (S of 40S),35.5
+1138,82,DCM,180 to 2000,4,7.68e-07,alma1,Southern Ocean (S of 40S),768.0
+1139,82,DCM,180 to 2000,112,6.34e-07,alma1,Southern Ocean (S of 40S),634.0
+1140,82,DCM,180 to 2000,74,5.04e-08,alma1,Southern Ocean (S of 40S),50.4
+1141,82,DCM,180 to 2000,85,8.03e-08,alma1,Southern Ocean (S of 40S),80.3
+1142,82,DCM,180 to 2000,13,2.9e-06,alma1,Southern Ocean (S of 40S),2900.0
+1143,22,DCM,180 to 2000,35,1.0099999999999999e-07,alma1,Mediterranean Sea,100.99999999999999
+1144,51,SRF,0.8 to 5,2743,0.0,alma1,Indian Ocean,0.0
+1145,51,SRF,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+1146,51,SRF,0.8 to 5,36,4.1100000000000004e-08,alma1,Indian Ocean,41.1
+1147,51,SRF,0.8 to 5,29,0.0,alma1,Indian Ocean,0.0
+1148,18,DCM,5 to 20,24,0.0,alma1,Mediterranean Sea,0.0
+1149,18,DCM,5 to 20,36,8.08e-08,alma1,Mediterranean Sea,80.8
+1150,18,DCM,5 to 20,12,1.1800000000000001e-07,alma1,Mediterranean Sea,118.00000000000001
+1151,18,DCM,5 to 20,46,8.039999999999999e-08,alma1,Mediterranean Sea,80.39999999999999
+1152,109,DCM,0.8 to 5,332,0.0,alma1,North Pacific Ocean,0.0
+1153,109,DCM,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+1154,109,DCM,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+1155,109,DCM,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+1156,109,DCM,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+1157,109,DCM,0.8 to 5,46,7.59e-08,alma1,North Pacific Ocean,75.89999999999999
+1158,109,DCM,0.8 to 5,58,2.2899999999999997e-07,alma1,North Pacific Ocean,228.99999999999997
+1159,109,DCM,0.8 to 5,36,9.75e-08,alma1,North Pacific Ocean,97.5
+1160,109,DCM,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+1161,30,SRF,5 to 20,12,1.82e-07,alma1,Mediterranean Sea,182.0
+1162,98,DCM,20 to 180,12,2.9899999999999996e-07,alma1,South Pacific Ocean,298.99999999999994
+1163,98,DCM,20 to 180,2493,2.81e-08,alma1,South Pacific Ocean,28.1
+1164,98,DCM,20 to 180,112,2.06e-08,alma1,South Pacific Ocean,20.599999999999998
+1165,98,DCM,20 to 180,4,2.06e-08,alma1,South Pacific Ocean,20.599999999999998
+1166,83,SRF,180 to 2000,13,3.29e-07,alma1,Southern Ocean (S of 40S),329.0
+1167,83,SRF,180 to 2000,4,3.6200000000000004e-07,alma1,Southern Ocean (S of 40S),362.00000000000006
+1168,83,SRF,180 to 2000,67,1.8e-07,alma1,Southern Ocean (S of 40S),180.0
+1169,83,SRF,180 to 2000,112,7.12e-08,alma1,Southern Ocean (S of 40S),71.2
+1170,78,SRF,180 to 2000,2493,4.24e-08,alma1,South Atlantic Ocean,42.400000000000006
+1171,78,SRF,180 to 2000,38,0.0,alma1,South Atlantic Ocean,0.0
+1172,131,SRF,20 to 180,44,0.0,alma1,North Pacific Ocean,0.0
+1173,131,SRF,20 to 180,46,1.6300000000000002e-07,alma1,North Pacific Ocean,163.00000000000003
+1174,102,DCM,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+1175,102,DCM,0.8 to 5,178,2.25e-08,alma1,South Pacific Ocean,22.5
+1176,102,DCM,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+1177,102,DCM,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+1178,102,DCM,0.8 to 5,2743,0.0,alma1,South Pacific Ocean,0.0
+1179,102,DCM,0.8 to 5,179,0.0,alma1,South Pacific Ocean,0.0
+1180,102,DCM,0.8 to 5,188,0.0,alma1,South Pacific Ocean,0.0
+1181,102,DCM,0.8 to 5,36,5.42e-08,alma1,South Pacific Ocean,54.2
+1182,102,DCM,0.8 to 5,166,0.0,alma1,South Pacific Ocean,0.0
+1183,102,DCM,0.8 to 5,58,1.0699999999999999e-07,alma1,South Pacific Ocean,106.99999999999999
+1184,18,SRF,5 to 20,12,4.5700000000000006e-08,alma1,Mediterranean Sea,45.7
+1185,151,SRF,5 to 20,46,2.23e-07,alma1,North Atlantic Ocean,223.0
+1186,151,SRF,5 to 20,2493,3.1e-08,alma1,North Atlantic Ocean,31.0
+1187,151,SRF,5 to 20,12,1.51e-07,alma1,North Atlantic Ocean,151.0
+1188,11,SRF,5 to 20,66,0.0,alma1,Mediterranean Sea,0.0
+1189,102,SRF,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+1190,102,SRF,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+1191,102,SRF,0.8 to 5,58,1.29e-07,alma1,South Pacific Ocean,129.0
+1192,83,SRF,0.8 to 5,13,4.15e-06,alma1,Southern Ocean (S of 40S),4150.0
+1193,83,SRF,0.8 to 5,66,0.0,alma1,Southern Ocean (S of 40S),0.0
+1194,83,SRF,0.8 to 5,30,0.0,alma1,Southern Ocean (S of 40S),0.0
+1195,83,SRF,0.8 to 5,85,9.8e-08,alma1,Southern Ocean (S of 40S),98.0
+1196,83,SRF,0.8 to 5,74,0.0,alma1,Southern Ocean (S of 40S),0.0
+1197,83,SRF,0.8 to 5,112,3.2600000000000003e-07,alma1,Southern Ocean (S of 40S),326.00000000000006
+1198,83,SRF,0.8 to 5,747,0.0,alma1,Southern Ocean (S of 40S),0.0
+1199,83,SRF,0.8 to 5,4,1.53e-06,alma1,Southern Ocean (S of 40S),1530.0
+1200,83,SRF,0.8 to 5,67,2.04e-06,alma1,Southern Ocean (S of 40S),2040.0
+1201,83,SRF,0.8 to 5,58,1.96e-07,alma1,Southern Ocean (S of 40S),196.0
+1202,84,SRF,5 to 20,112,9.880000000000001e-08,alma1,Southern Ocean (S of 40S),98.80000000000001
+1203,84,SRF,5 to 20,4,9.880000000000001e-08,alma1,Southern Ocean (S of 40S),98.80000000000001
+1204,84,SRF,5 to 20,30,2.4199999999999997e-07,alma1,Southern Ocean (S of 40S),241.99999999999997
+1205,84,SRF,5 to 20,13,0.0,alma1,Southern Ocean (S of 40S),0.0
+1206,84,SRF,5 to 20,74,0.0,alma1,Southern Ocean (S of 40S),0.0
+1207,84,SRF,5 to 20,44,0.0,alma1,Southern Ocean (S of 40S),0.0
+1208,25,SRF,20 to 180,12,3.27e-07,alma1,Mediterranean Sea,327.0
+1209,25,SRF,20 to 180,46,4.51e-08,alma1,Mediterranean Sea,45.1
+1210,25,SRF,20 to 180,38,0.0,alma1,Mediterranean Sea,0.0
+1211,150,SRF,5 to 20,166,0.0,alma1,North Atlantic Ocean,0.0
+1212,150,SRF,5 to 20,2493,1.0300000000000001e-07,alma1,North Atlantic Ocean,103.00000000000001
+1213,150,SRF,5 to 20,1580,3.9e-08,alma1,North Atlantic Ocean,39.0
+1214,150,SRF,5 to 20,1255,0.0,alma1,North Atlantic Ocean,0.0
+1215,150,SRF,5 to 20,66,0.0,alma1,North Atlantic Ocean,0.0
+1216,136,SRF,0.8 to 5,58,5.14e-07,alma1,North Pacific Ocean,514.0
+1217,136,SRF,0.8 to 5,36,1.11e-07,alma1,North Pacific Ocean,111.0
+1218,136,SRF,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+1219,136,SRF,0.8 to 5,225,0.0,alma1,North Pacific Ocean,0.0
+1220,136,SRF,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+1221,136,SRF,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+1222,136,SRF,0.8 to 5,332,0.0,alma1,North Pacific Ocean,0.0
+1223,136,SRF,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+1224,136,SRF,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+1225,85,DCM,20 to 180,13,1.55e-06,alma1,Southern Ocean (S of 40S),1550.0
+1226,85,DCM,20 to 180,74,7.35e-07,alma1,Southern Ocean (S of 40S),735.0
+1227,85,DCM,20 to 180,112,2.65e-06,alma1,Southern Ocean (S of 40S),2650.0
+1228,85,DCM,20 to 180,4,2.7e-06,alma1,Southern Ocean (S of 40S),2700.0
+1229,85,DCM,20 to 180,67,1.05e-06,alma1,Southern Ocean (S of 40S),1050.0
+1230,85,DCM,20 to 180,30,1.61e-06,alma1,Southern Ocean (S of 40S),1610.0
+1231,122,SRF,180 to 2000,44,0.0,alma1,South Pacific Ocean,0.0
+1232,122,SRF,180 to 2000,13,5.7400000000000004e-08,alma1,South Pacific Ocean,57.400000000000006
+1233,122,SRF,180 to 2000,58,2.33e-07,alma1,South Pacific Ocean,233.0
+1234,122,SRF,180 to 2000,67,5.7400000000000004e-08,alma1,South Pacific Ocean,57.400000000000006
+1235,122,SRF,180 to 2000,332,0.0,alma1,South Pacific Ocean,0.0
+1236,52,DCM,0.8 to 5,58,1.45e-07,alma1,Indian Ocean,145.0
+1237,52,DCM,0.8 to 5,66,0.0,alma1,Indian Ocean,0.0
+1238,52,DCM,0.8 to 5,332,0.0,alma1,Indian Ocean,0.0
+1239,52,DCM,0.8 to 5,179,0.0,alma1,Indian Ocean,0.0
+1240,52,DCM,0.8 to 5,44,0.0,alma1,Indian Ocean,0.0
+1241,52,DCM,0.8 to 5,166,0.0,alma1,Indian Ocean,0.0
+1242,52,DCM,0.8 to 5,36,1.32e-07,alma1,Indian Ocean,132.0
+1243,145,SRF,20 to 180,59,0.0,alma1,North Atlantic Ocean,0.0
+1244,145,SRF,20 to 180,12,5.8200000000000005e-08,alma1,North Atlantic Ocean,58.2
+1245,111,SRF,20 to 180,46,6.82e-08,alma1,South Pacific Ocean,68.2
+1246,111,SRF,20 to 180,44,0.0,alma1,South Pacific Ocean,0.0
+1247,111,SRF,20 to 180,12,4.7299999999999996e-07,alma1,South Pacific Ocean,472.99999999999994
+1248,148,SRF,180 to 2000,38,0.0,alma1,North Atlantic Ocean,0.0
+1249,148,SRF,180 to 2000,2493,5.94e-06,alma1,North Atlantic Ocean,5940.0
+1250,145,SRF,5 to 20,2493,3e-08,alma1,North Atlantic Ocean,29.999999999999996
+1251,145,SRF,5 to 20,1255,0.0,alma1,North Atlantic Ocean,0.0
+1252,145,SRF,5 to 20,58,3e-08,alma1,North Atlantic Ocean,29.999999999999996
+1253,78,DCM,20 to 180,46,4.6500000000000006e-08,alma1,South Atlantic Ocean,46.50000000000001
+1254,78,DCM,20 to 180,178,1.3e-07,alma1,South Atlantic Ocean,130.0
+1255,78,DCM,20 to 180,12,2.95e-07,alma1,South Atlantic Ocean,295.0
+1256,100,DCM,0.8 to 5,66,0.0,alma1,South Pacific Ocean,0.0
+1257,100,DCM,0.8 to 5,58,1.67e-07,alma1,South Pacific Ocean,167.0
+1258,100,DCM,0.8 to 5,2743,0.0,alma1,South Pacific Ocean,0.0
+1259,100,DCM,0.8 to 5,332,0.0,alma1,South Pacific Ocean,0.0
+1260,100,DCM,0.8 to 5,225,0.0,alma1,South Pacific Ocean,0.0
+1261,100,DCM,0.8 to 5,44,0.0,alma1,South Pacific Ocean,0.0
+1262,100,DCM,0.8 to 5,36,8.09e-08,alma1,South Pacific Ocean,80.9
+1263,39,SRF,5 to 20,179,0.0,alma1,Indian Ocean,0.0
+1264,39,SRF,5 to 20,166,0.0,alma1,Indian Ocean,0.0
+1265,109,SRF,180 to 2000,44,0.0,alma1,North Pacific Ocean,0.0
+1266,109,SRF,180 to 2000,166,0.0,alma1,North Pacific Ocean,0.0
+1267,109,SRF,180 to 2000,38,0.0,alma1,North Pacific Ocean,0.0
+1268,109,SRF,180 to 2000,179,0.0,alma1,North Pacific Ocean,0.0
+1269,98,DCM,180 to 2000,2493,2.8700000000000002e-08,alma1,South Pacific Ocean,28.700000000000003
+1270,98,DCM,180 to 2000,12,5.01e-08,alma1,South Pacific Ocean,50.1
+1271,98,DCM,180 to 2000,36,0.0,alma1,South Pacific Ocean,0.0
+1272,51,SRF,20 to 180,46,2.8300000000000003e-07,alma1,Indian Ocean,283.00000000000006
+1273,85,SRF,180 to 2000,13,1.1900000000000001e-05,alma1,Southern Ocean (S of 40S),11900.000000000002
+1274,85,SRF,180 to 2000,74,7.89e-06,alma1,Southern Ocean (S of 40S),7890.000000000001
+1275,85,SRF,180 to 2000,112,1.74e-05,alma1,Southern Ocean (S of 40S),17400.0
+1276,85,SRF,180 to 2000,67,8.26e-06,alma1,Southern Ocean (S of 40S),8260.0
+1277,85,SRF,180 to 2000,30,1.24e-06,alma1,Southern Ocean (S of 40S),1240.0
+1278,85,SRF,180 to 2000,4,1.92e-05,alma1,Southern Ocean (S of 40S),19200.0
+1279,85,SRF,20 to 180,13,2.73e-06,alma1,Southern Ocean (S of 40S),2730.0
+1280,85,SRF,20 to 180,74,8.95e-07,alma1,Southern Ocean (S of 40S),895.0
+1281,85,SRF,20 to 180,112,2.94e-06,alma1,Southern Ocean (S of 40S),2940.0
+1282,85,SRF,20 to 180,67,1.21e-06,alma1,Southern Ocean (S of 40S),1210.0
+1283,85,SRF,20 to 180,30,1.93e-06,alma1,Southern Ocean (S of 40S),1930.0000000000002
+1284,85,SRF,20 to 180,4,3.17e-06,alma1,Southern Ocean (S of 40S),3170.0
+1285,128,DCM,0.8 to 5,178,2.92e-08,alma1,North Pacific Ocean,29.2
+1286,128,DCM,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+1287,128,DCM,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+1288,128,DCM,0.8 to 5,2743,0.0,alma1,North Pacific Ocean,0.0
+1289,128,DCM,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+1290,128,DCM,0.8 to 5,36,5.98e-08,alma1,North Pacific Ocean,59.800000000000004
+1291,128,DCM,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+1292,128,DCM,0.8 to 5,225,0.0,alma1,North Pacific Ocean,0.0
+1293,128,DCM,0.8 to 5,1255,0.0,alma1,North Pacific Ocean,0.0
+1294,128,DCM,0.8 to 5,58,3.87e-07,alma1,North Pacific Ocean,387.0
+1295,109,SRF,0.8 to 5,66,0.0,alma1,North Pacific Ocean,0.0
+1296,109,SRF,0.8 to 5,58,1.32e-07,alma1,North Pacific Ocean,132.0
+1297,109,SRF,0.8 to 5,179,0.0,alma1,North Pacific Ocean,0.0
+1298,109,SRF,0.8 to 5,44,0.0,alma1,North Pacific Ocean,0.0
+1299,109,SRF,0.8 to 5,36,3.88e-08,alma1,North Pacific Ocean,38.8
+1300,109,SRF,0.8 to 5,166,0.0,alma1,North Pacific Ocean,0.0
+1301,128,SRF,5 to 20,1255,0.0,alma1,North Pacific Ocean,0.0
+1302,128,SRF,5 to 20,332,0.0,alma1,North Pacific Ocean,0.0
+1303,128,SRF,5 to 20,179,0.0,alma1,North Pacific Ocean,0.0
+1304,128,SRF,5 to 20,44,0.0,alma1,North Pacific Ocean,0.0
+1305,128,SRF,5 to 20,166,0.0,alma1,North Pacific Ocean,0.0
+1306,52,SRF,20 to 180,2493,4.82e-08,alma1,Indian Ocean,48.2
+1307,52,SRF,20 to 180,44,0.0,alma1,Indian Ocean,0.0
+1308,52,SRF,20 to 180,13,0.0,alma1,Indian Ocean,0.0
+1309,52,SRF,20 to 180,58,2.46e-08,alma1,Indian Ocean,24.599999999999998
+1310,52,SRF,20 to 180,46,7.55e-08,alma1,Indian Ocean,75.5
+1311,9,SRF,0.8 to 5,66,1.31e-06,dsyb,Mediterranean Sea,1310.0
+1312,9,SRF,0.8 to 5,44,4.14e-07,dsyb,Mediterranean Sea,414.0
+1313,9,SRF,0.8 to 5,36,1.93e-06,dsyb,Mediterranean Sea,1930.0000000000002
+1314,137,SRF,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+1315,137,SRF,20 to 180,44,1.06e-07,dsyb,North Pacific Ocean,106.0
+1316,111,SRF,180 to 2000,44,9.42e-08,dsyb,South Pacific Ocean,94.2
+1317,111,SRF,180 to 2000,2493,0.0,dsyb,South Pacific Ocean,0.0
+1318,137,DCM,5 to 20,332,3.99e-08,dsyb,North Pacific Ocean,39.9
+1319,137,DCM,5 to 20,58,2.44e-08,dsyb,North Pacific Ocean,24.4
+1320,137,DCM,5 to 20,46,0.0,dsyb,North Pacific Ocean,0.0
+1321,137,DCM,5 to 20,12,0.0,dsyb,North Pacific Ocean,0.0
+1322,137,DCM,5 to 20,44,3.7200000000000005e-07,dsyb,North Pacific Ocean,372.00000000000006
+1323,102,SRF,20 to 180,44,3.88e-07,dsyb,South Pacific Ocean,388.0
+1324,102,SRF,20 to 180,332,2.4700000000000003e-08,dsyb,South Pacific Ocean,24.700000000000003
+1325,67,SRF,0.8 to 5,747,1.7600000000000001e-07,dsyb,South Atlantic Ocean,176.00000000000003
+1326,67,SRF,0.8 to 5,58,7.4e-08,dsyb,South Atlantic Ocean,74.0
+1327,67,SRF,0.8 to 5,36,0.0,dsyb,South Atlantic Ocean,0.0
+1328,109,DCM,20 to 180,58,2.8999999999999998e-08,dsyb,North Pacific Ocean,29.0
+1329,109,DCM,20 to 180,38,2.3799999999999998e-08,dsyb,North Pacific Ocean,23.799999999999997
+1330,109,DCM,20 to 180,166,2.3799999999999998e-08,dsyb,North Pacific Ocean,23.799999999999997
+1331,109,DCM,20 to 180,1580,0.0,dsyb,North Pacific Ocean,0.0
+1332,109,DCM,20 to 180,179,2.3799999999999998e-08,dsyb,North Pacific Ocean,23.799999999999997
+1333,109,DCM,20 to 180,332,2.37e-08,dsyb,North Pacific Ocean,23.7
+1334,109,DCM,20 to 180,2493,0.0,dsyb,North Pacific Ocean,0.0
+1335,109,DCM,20 to 180,44,5.33e-07,dsyb,North Pacific Ocean,533.0
+1336,68,DCM,180 to 2000,332,2.9100000000000002e-08,dsyb,South Atlantic Ocean,29.1
+1337,68,DCM,180 to 2000,2493,0.0,dsyb,South Atlantic Ocean,0.0
+1338,68,DCM,180 to 2000,44,4.26e-08,dsyb,South Atlantic Ocean,42.599999999999994
+1339,82,SRF,20 to 180,4,9.459999999999999e-07,dsyb,Southern Ocean (S of 40S),945.9999999999999
+1340,82,SRF,20 to 180,67,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1341,82,SRF,20 to 180,30,4.8e-07,dsyb,Southern Ocean (S of 40S),479.99999999999994
+1342,82,SRF,20 to 180,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1343,82,SRF,20 to 180,74,6.18e-08,dsyb,Southern Ocean (S of 40S),61.8
+1344,82,SRF,20 to 180,13,4.65e-06,dsyb,Southern Ocean (S of 40S),4650.0
+1345,100,SRF,20 to 180,332,7.089999999999999e-08,dsyb,South Pacific Ocean,70.89999999999999
+1346,100,SRF,20 to 180,46,0.0,dsyb,South Pacific Ocean,0.0
+1347,100,SRF,20 to 180,44,7.86e-07,dsyb,South Pacific Ocean,786.0
+1348,81,SRF,0.8 to 5,2743,2.67e-08,dsyb,Southern Ocean (S of 40S),26.7
+1349,81,SRF,0.8 to 5,179,3.6e-08,dsyb,Southern Ocean (S of 40S),36.0
+1350,81,SRF,0.8 to 5,1580,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1351,81,SRF,0.8 to 5,66,1.58e-07,dsyb,Southern Ocean (S of 40S),158.0
+1352,81,SRF,0.8 to 5,24,2.67e-08,dsyb,Southern Ocean (S of 40S),26.7
+1353,81,SRF,0.8 to 5,13,1.95e-06,dsyb,Southern Ocean (S of 40S),1950.0
+1354,81,SRF,0.8 to 5,44,1.05e-07,dsyb,Southern Ocean (S of 40S),105.0
+1355,81,SRF,0.8 to 5,67,1.67e-07,dsyb,Southern Ocean (S of 40S),167.0
+1356,81,SRF,0.8 to 5,58,5.17e-08,dsyb,Southern Ocean (S of 40S),51.7
+1357,81,SRF,0.8 to 5,4,3.16e-07,dsyb,Southern Ocean (S of 40S),316.0
+1358,81,SRF,0.8 to 5,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1359,81,SRF,0.8 to 5,166,3.6e-08,dsyb,Southern Ocean (S of 40S),36.0
+1360,81,SRF,0.8 to 5,36,2.16e-07,dsyb,Southern Ocean (S of 40S),216.0
+1361,81,SRF,0.8 to 5,74,6.08e-08,dsyb,Southern Ocean (S of 40S),60.800000000000004
+1362,81,SRF,0.8 to 5,225,5.62e-08,dsyb,Southern Ocean (S of 40S),56.2
+1363,41,DCM,0.8 to 5,44,5.7e-07,dsyb,Indian Ocean,570.0
+1364,41,DCM,0.8 to 5,178,0.0,dsyb,Indian Ocean,0.0
+1365,41,DCM,0.8 to 5,13,0.0,dsyb,Indian Ocean,0.0
+1366,41,DCM,0.8 to 5,66,5.05e-07,dsyb,Indian Ocean,505.00000000000006
+1367,41,DCM,0.8 to 5,179,1.79e-06,dsyb,Indian Ocean,1790.0
+1368,41,DCM,0.8 to 5,188,1.69e-07,dsyb,Indian Ocean,169.0
+1369,41,DCM,0.8 to 5,166,5.04e-06,dsyb,Indian Ocean,5040.0
+1370,41,DCM,0.8 to 5,67,0.0,dsyb,Indian Ocean,0.0
+1371,41,DCM,0.8 to 5,58,6.79e-08,dsyb,Indian Ocean,67.9
+1372,137,SRF,5 to 20,44,1.5e-07,dsyb,North Pacific Ocean,150.0
+1373,137,SRF,5 to 20,46,0.0,dsyb,North Pacific Ocean,0.0
+1374,137,SRF,5 to 20,58,0.0,dsyb,North Pacific Ocean,0.0
+1375,125,SRF,180 to 2000,58,0.0,dsyb,South Pacific Ocean,0.0
+1376,125,SRF,180 to 2000,44,8.97e-08,dsyb,South Pacific Ocean,89.7
+1377,138,SRF,180 to 2000,2493,0.0,dsyb,North Pacific Ocean,0.0
+1378,138,SRF,180 to 2000,58,2.71e-08,dsyb,North Pacific Ocean,27.1
+1379,9,SRF,180 to 2000,46,0.0,dsyb,Mediterranean Sea,0.0
+1380,81,DCM,5 to 20,67,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1381,81,DCM,5 to 20,1580,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1382,81,DCM,5 to 20,13,7.29e-08,dsyb,Southern Ocean (S of 40S),72.89999999999999
+1383,150,SRF,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+1384,150,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+1385,150,SRF,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1386,93,SRF,0.8 to 5,188,9.76e-08,dsyb,South Pacific Ocean,97.6
+1387,93,SRF,0.8 to 5,166,5.61e-07,dsyb,South Pacific Ocean,561.0
+1388,93,SRF,0.8 to 5,36,3.33e-07,dsyb,South Pacific Ocean,333.0
+1389,93,SRF,0.8 to 5,58,1.45e-07,dsyb,South Pacific Ocean,145.0
+1390,93,SRF,0.8 to 5,24,1.6300000000000002e-07,dsyb,South Pacific Ocean,163.00000000000003
+1391,93,SRF,0.8 to 5,44,1.6e-06,dsyb,South Pacific Ocean,1600.0
+1392,93,SRF,0.8 to 5,332,1.4599999999999998e-07,dsyb,South Pacific Ocean,145.99999999999997
+1393,93,SRF,0.8 to 5,179,3.05e-07,dsyb,South Pacific Ocean,305.0
+1394,93,SRF,0.8 to 5,66,4.35e-07,dsyb,South Pacific Ocean,435.0
+1395,67,SRF,5 to 20,58,5.22e-08,dsyb,South Atlantic Ocean,52.199999999999996
+1396,67,SRF,5 to 20,36,0.0,dsyb,South Atlantic Ocean,0.0
+1397,67,SRF,5 to 20,44,1.78e-07,dsyb,South Atlantic Ocean,178.0
+1398,4,SRF,180 to 2000,46,0.0,dsyb,Mediterranean Sea,0.0
+1399,131,SRF,0.8 to 5,66,9.240000000000001e-08,dsyb,North Pacific Ocean,92.4
+1400,20,SRF,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+1401,20,SRF,5 to 20,1580,0.0,dsyb,Mediterranean Sea,0.0
+1402,76,DCM,20 to 180,46,0.0,dsyb,South Atlantic Ocean,0.0
+1403,76,DCM,20 to 180,12,0.0,dsyb,South Atlantic Ocean,0.0
+1404,100,DCM,5 to 20,12,0.0,dsyb,South Pacific Ocean,0.0
+1405,100,DCM,5 to 20,44,3.5200000000000003e-07,dsyb,South Pacific Ocean,352.00000000000006
+1406,80,SRF,20 to 180,29,5.1799999999999994e-08,dsyb,Southern Ocean (S of 40S),51.8
+1407,80,SRF,20 to 180,59,2.3900000000000002e-08,dsyb,Southern Ocean (S of 40S),23.900000000000002
+1408,143,SRF,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1409,143,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+1410,143,SRF,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+1411,143,SRF,20 to 180,38,2.8999999999999998e-08,dsyb,North Atlantic Ocean,29.0
+1412,132,SRF,0.8 to 5,29,2.1100000000000002e-07,dsyb,North Pacific Ocean,211.00000000000003
+1413,132,SRF,0.8 to 5,36,0.0,dsyb,North Pacific Ocean,0.0
+1414,132,SRF,0.8 to 5,46,0.0,dsyb,North Pacific Ocean,0.0
+1415,132,SRF,0.8 to 5,66,7.08e-08,dsyb,North Pacific Ocean,70.8
+1416,52,SRF,5 to 20,332,4.66e-08,dsyb,Indian Ocean,46.6
+1417,52,SRF,5 to 20,44,3.83e-07,dsyb,Indian Ocean,383.0
+1418,72,DCM,20 to 180,46,0.0,dsyb,South Atlantic Ocean,0.0
+1419,72,DCM,20 to 180,38,2.72e-07,dsyb,South Atlantic Ocean,272.0
+1420,98,DCM,0.8 to 5,36,0.0,dsyb,South Pacific Ocean,0.0
+1421,98,DCM,0.8 to 5,178,0.0,dsyb,South Pacific Ocean,0.0
+1422,98,DCM,0.8 to 5,44,4.2700000000000005e-07,dsyb,South Pacific Ocean,427.00000000000006
+1423,98,DCM,0.8 to 5,179,4.61e-08,dsyb,South Pacific Ocean,46.1
+1424,98,DCM,0.8 to 5,332,7.79e-08,dsyb,South Pacific Ocean,77.9
+1425,98,DCM,0.8 to 5,66,1.8600000000000002e-07,dsyb,South Pacific Ocean,186.00000000000003
+1426,98,DCM,0.8 to 5,58,6.01e-08,dsyb,South Pacific Ocean,60.1
+1427,51,DCM,180 to 2000,38,3.98e-08,dsyb,Indian Ocean,39.8
+1428,22,DCM,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+1429,22,DCM,5 to 20,35,0.0,dsyb,Mediterranean Sea,0.0
+1430,148,SRF,5 to 20,1580,0.0,dsyb,North Atlantic Ocean,0.0
+1431,148,SRF,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1432,148,SRF,5 to 20,12,0.0,dsyb,North Atlantic Ocean,0.0
+1433,22,SRF,0.8 to 5,12,0.0,dsyb,Mediterranean Sea,0.0
+1434,22,SRF,0.8 to 5,36,3.74e-07,dsyb,Mediterranean Sea,374.0
+1435,22,SRF,0.8 to 5,58,0.0,dsyb,Mediterranean Sea,0.0
+1436,22,SRF,0.8 to 5,66,1.0199999999999999e-07,dsyb,Mediterranean Sea,101.99999999999999
+1437,22,SRF,0.8 to 5,4,4.0999999999999997e-08,dsyb,Mediterranean Sea,41.0
+1438,22,SRF,0.8 to 5,2743,2.5e-08,dsyb,Mediterranean Sea,25.0
+1439,144,SRF,5 to 20,12,0.0,dsyb,North Atlantic Ocean,0.0
+1440,144,SRF,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1441,46,SRF,20 to 180,166,7.2e-08,dsyb,Indian Ocean,72.0
+1442,46,SRF,20 to 180,44,2.61e-07,dsyb,Indian Ocean,261.0
+1443,152,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1444,144,SRF,0.8 to 5,36,0.0,dsyb,North Atlantic Ocean,0.0
+1445,144,SRF,0.8 to 5,44,4.83e-07,dsyb,North Atlantic Ocean,482.99999999999994
+1446,144,SRF,0.8 to 5,178,0.0,dsyb,North Atlantic Ocean,0.0
+1447,144,SRF,0.8 to 5,225,3.98e-07,dsyb,North Atlantic Ocean,398.0
+1448,46,SRF,0.8 to 5,44,8.1e-08,dsyb,Indian Ocean,81.0
+1449,46,SRF,0.8 to 5,178,0.0,dsyb,Indian Ocean,0.0
+1450,46,SRF,0.8 to 5,66,8.17e-08,dsyb,Indian Ocean,81.7
+1451,46,SRF,0.8 to 5,76,4.3099999999999996e-08,dsyb,Indian Ocean,43.099999999999994
+1452,46,SRF,0.8 to 5,2743,2.7e-08,dsyb,Indian Ocean,27.0
+1453,46,SRF,0.8 to 5,179,4.23e-08,dsyb,Indian Ocean,42.300000000000004
+1454,46,SRF,0.8 to 5,225,3.64e-08,dsyb,Indian Ocean,36.4
+1455,46,SRF,0.8 to 5,166,1.15e-07,dsyb,Indian Ocean,115.0
+1456,46,SRF,0.8 to 5,36,3.87e-08,dsyb,Indian Ocean,38.7
+1457,46,SRF,0.8 to 5,58,3.7400000000000004e-08,dsyb,Indian Ocean,37.400000000000006
+1458,46,SRF,0.8 to 5,4,2.7e-08,dsyb,Indian Ocean,27.0
+1459,84,SRF,20 to 180,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1460,84,SRF,20 to 180,67,1.37e-07,dsyb,Southern Ocean (S of 40S),137.0
+1461,84,SRF,20 to 180,30,6.48e-07,dsyb,Southern Ocean (S of 40S),648.0
+1462,84,SRF,20 to 180,4,1.7e-06,dsyb,Southern Ocean (S of 40S),1700.0
+1463,84,SRF,20 to 180,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1464,84,SRF,20 to 180,13,1.06e-06,dsyb,Southern Ocean (S of 40S),1060.0
+1465,84,SRF,20 to 180,74,9.69e-08,dsyb,Southern Ocean (S of 40S),96.9
+1466,135,SRF,0.8 to 5,188,8.92e-08,dsyb,North Pacific Ocean,89.2
+1467,135,SRF,0.8 to 5,36,2.03e-07,dsyb,North Pacific Ocean,203.0
+1468,135,SRF,0.8 to 5,166,3.56e-07,dsyb,North Pacific Ocean,356.0
+1469,135,SRF,0.8 to 5,67,0.0,dsyb,North Pacific Ocean,0.0
+1470,135,SRF,0.8 to 5,58,6.09e-08,dsyb,North Pacific Ocean,60.9
+1471,135,SRF,0.8 to 5,38,2.45e-08,dsyb,North Pacific Ocean,24.5
+1472,135,SRF,0.8 to 5,44,8.279999999999999e-08,dsyb,North Pacific Ocean,82.79999999999998
+1473,135,SRF,0.8 to 5,178,0.0,dsyb,North Pacific Ocean,0.0
+1474,135,SRF,0.8 to 5,24,6.09e-08,dsyb,North Pacific Ocean,60.9
+1475,135,SRF,0.8 to 5,13,0.0,dsyb,North Pacific Ocean,0.0
+1476,135,SRF,0.8 to 5,66,1.8899999999999999e-07,dsyb,North Pacific Ocean,188.99999999999997
+1477,135,SRF,0.8 to 5,2743,4.13e-08,dsyb,North Pacific Ocean,41.3
+1478,135,SRF,0.8 to 5,179,1.6399999999999999e-07,dsyb,North Pacific Ocean,164.0
+1479,22,SRF,5 to 20,35,0.0,dsyb,Mediterranean Sea,0.0
+1480,22,SRF,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+1481,18,SRF,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+1482,149,SRF,5 to 20,1255,2.05e-06,dsyb,North Atlantic Ocean,2050.0
+1483,149,SRF,5 to 20,58,4.32e-08,dsyb,North Atlantic Ocean,43.2
+1484,149,SRF,5 to 20,1580,0.0,dsyb,North Atlantic Ocean,0.0
+1485,149,SRF,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1486,36,SRF,180 to 2000,179,6.13e-08,dsyb,Indian Ocean,61.3
+1487,36,SRF,180 to 2000,44,1.26e-07,dsyb,Indian Ocean,125.99999999999999
+1488,36,SRF,180 to 2000,166,1.1699999999999999e-07,dsyb,Indian Ocean,116.99999999999999
+1489,135,SRF,5 to 20,188,2.3399999999999998e-08,dsyb,North Pacific Ocean,23.4
+1490,135,SRF,5 to 20,166,8.59e-08,dsyb,North Pacific Ocean,85.89999999999999
+1491,135,SRF,5 to 20,36,0.0,dsyb,North Pacific Ocean,0.0
+1492,135,SRF,5 to 20,58,2.61e-08,dsyb,North Pacific Ocean,26.099999999999998
+1493,135,SRF,5 to 20,1255,2.32e-08,dsyb,North Pacific Ocean,23.2
+1494,135,SRF,5 to 20,38,1.8899999999999999e-07,dsyb,North Pacific Ocean,188.99999999999997
+1495,135,SRF,5 to 20,44,3.87e-08,dsyb,North Pacific Ocean,38.7
+1496,135,SRF,5 to 20,59,2.15e-08,dsyb,North Pacific Ocean,21.5
+1497,135,SRF,5 to 20,1580,0.0,dsyb,North Pacific Ocean,0.0
+1498,135,SRF,5 to 20,66,2.18e-08,dsyb,North Pacific Ocean,21.8
+1499,135,SRF,5 to 20,179,5.33e-08,dsyb,North Pacific Ocean,53.300000000000004
+1500,150,DCM,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1501,142,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1502,111,DCM,180 to 2000,2493,0.0,dsyb,South Pacific Ocean,0.0
+1503,111,DCM,180 to 2000,44,1.45e-07,dsyb,South Pacific Ocean,145.0
+1504,92,SRF,20 to 180,58,4.059999999999999e-08,dsyb,South Pacific Ocean,40.599999999999994
+1505,92,SRF,180 to 2000,58,8.9e-08,dsyb,South Pacific Ocean,89.0
+1506,92,SRF,180 to 2000,44,8.980000000000001e-08,dsyb,South Pacific Ocean,89.80000000000001
+1507,131,DCM,0.8 to 5,58,0.0,dsyb,North Pacific Ocean,0.0
+1508,131,DCM,0.8 to 5,4,3.04e-08,dsyb,North Pacific Ocean,30.400000000000002
+1509,131,DCM,0.8 to 5,225,4.26e-08,dsyb,North Pacific Ocean,42.599999999999994
+1510,131,DCM,0.8 to 5,166,5.08e-08,dsyb,North Pacific Ocean,50.8
+1511,131,DCM,0.8 to 5,36,3.06e-08,dsyb,North Pacific Ocean,30.6
+1512,131,DCM,0.8 to 5,66,1.73e-07,dsyb,North Pacific Ocean,173.0
+1513,131,DCM,0.8 to 5,2743,3.04e-08,dsyb,North Pacific Ocean,30.400000000000002
+1514,131,DCM,0.8 to 5,44,8.279999999999999e-08,dsyb,North Pacific Ocean,82.79999999999998
+1515,131,DCM,0.8 to 5,178,0.0,dsyb,North Pacific Ocean,0.0
+1516,135,SRF,180 to 2000,38,3.87e-06,dsyb,North Pacific Ocean,3870.0
+1517,65,SRF,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+1518,65,SRF,20 to 180,12,0.0,dsyb,Indian Ocean,0.0
+1519,80,SRF,180 to 2000,29,6.17e-08,dsyb,Southern Ocean (S of 40S),61.7
+1520,80,SRF,180 to 2000,38,2.48e-08,dsyb,Southern Ocean (S of 40S),24.8
+1521,64,SRF,0.8 to 5,225,6.84e-08,dsyb,Indian Ocean,68.4
+1522,64,SRF,0.8 to 5,4,8.179999999999999e-08,dsyb,Indian Ocean,81.8
+1523,64,SRF,0.8 to 5,66,6.25e-07,dsyb,Indian Ocean,625.0
+1524,64,SRF,0.8 to 5,58,0.0,dsyb,Indian Ocean,0.0
+1525,137,DCM,180 to 2000,332,6.580000000000001e-08,dsyb,North Pacific Ocean,65.80000000000001
+1526,137,DCM,180 to 2000,44,5.2e-07,dsyb,North Pacific Ocean,520.0
+1527,110,DCM,0.8 to 5,166,2.41e-07,dsyb,South Pacific Ocean,241.0
+1528,110,DCM,0.8 to 5,188,6.85e-08,dsyb,South Pacific Ocean,68.5
+1529,110,DCM,0.8 to 5,58,1.43e-07,dsyb,South Pacific Ocean,143.0
+1530,110,DCM,0.8 to 5,46,0.0,dsyb,South Pacific Ocean,0.0
+1531,110,DCM,0.8 to 5,44,3.26e-06,dsyb,South Pacific Ocean,3260.0
+1532,110,DCM,0.8 to 5,179,8.980000000000001e-08,dsyb,South Pacific Ocean,89.80000000000001
+1533,110,DCM,0.8 to 5,332,9.009999999999999e-08,dsyb,South Pacific Ocean,90.1
+1534,110,DCM,0.8 to 5,66,5.95e-07,dsyb,South Pacific Ocean,595.0
+1535,64,DCM,5 to 20,44,3.7999999999999996e-08,dsyb,Indian Ocean,37.99999999999999
+1536,64,DCM,5 to 20,36,0.0,dsyb,Indian Ocean,0.0
+1537,64,DCM,5 to 20,58,3.01e-08,dsyb,Indian Ocean,30.099999999999998
+1538,18,DCM,0.8 to 5,36,2.05e-07,dsyb,Mediterranean Sea,205.0
+1539,18,DCM,0.8 to 5,178,0.0,dsyb,Mediterranean Sea,0.0
+1540,18,DCM,0.8 to 5,66,1.2699999999999999e-07,dsyb,Mediterranean Sea,126.99999999999999
+1541,150,DCM,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1542,150,DCM,5 to 20,1580,0.0,dsyb,North Atlantic Ocean,0.0
+1543,150,DCM,5 to 20,1255,1.8800000000000002e-07,dsyb,North Atlantic Ocean,188.00000000000003
+1544,81,DCM,20 to 180,58,2.3100000000000002e-08,dsyb,Southern Ocean (S of 40S),23.1
+1545,81,DCM,20 to 180,67,3.58e-08,dsyb,Southern Ocean (S of 40S),35.800000000000004
+1546,81,DCM,20 to 180,4,2.2200000000000004e-08,dsyb,Southern Ocean (S of 40S),22.200000000000003
+1547,81,DCM,20 to 180,13,2.55e-07,dsyb,Southern Ocean (S of 40S),255.0
+1548,147,SRF,0.8 to 5,178,0.0,dsyb,North Atlantic Ocean,0.0
+1549,147,SRF,0.8 to 5,225,1.91e-07,dsyb,North Atlantic Ocean,191.0
+1550,147,SRF,0.8 to 5,36,3.2200000000000005e-07,dsyb,North Atlantic Ocean,322.00000000000006
+1551,147,SRF,0.8 to 5,76,3.27e-08,dsyb,North Atlantic Ocean,32.7
+1552,147,SRF,0.8 to 5,66,1.72e-06,dsyb,North Atlantic Ocean,1720.0
+1553,147,SRF,0.8 to 5,58,3.2799999999999996e-08,dsyb,North Atlantic Ocean,32.8
+1554,147,SRF,0.8 to 5,2743,3.19e-08,dsyb,North Atlantic Ocean,31.900000000000002
+1555,142,SRF,0.8 to 5,36,2.01e-06,dsyb,North Atlantic Ocean,2009.9999999999998
+1556,142,SRF,0.8 to 5,178,0.0,dsyb,North Atlantic Ocean,0.0
+1557,142,SRF,0.8 to 5,225,1.34e-07,dsyb,North Atlantic Ocean,134.0
+1558,142,SRF,0.8 to 5,2743,3.62e-08,dsyb,North Atlantic Ocean,36.2
+1559,142,SRF,0.8 to 5,66,7.33e-07,dsyb,North Atlantic Ocean,733.0
+1560,142,SRF,0.8 to 5,58,3.86e-08,dsyb,North Atlantic Ocean,38.6
+1561,151,SRF,0.8 to 5,66,5.389999999999999e-07,dsyb,North Atlantic Ocean,538.9999999999999
+1562,151,SRF,0.8 to 5,2743,6.440000000000001e-08,dsyb,North Atlantic Ocean,64.4
+1563,151,SRF,0.8 to 5,178,0.0,dsyb,North Atlantic Ocean,0.0
+1564,151,SRF,0.8 to 5,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1565,151,SRF,0.8 to 5,12,0.0,dsyb,North Atlantic Ocean,0.0
+1566,151,SRF,0.8 to 5,58,9.269999999999999e-08,dsyb,North Atlantic Ocean,92.69999999999999
+1567,151,SRF,0.8 to 5,29,3.09e-08,dsyb,North Atlantic Ocean,30.9
+1568,151,SRF,0.8 to 5,225,6.32e-08,dsyb,North Atlantic Ocean,63.199999999999996
+1569,151,SRF,0.8 to 5,36,5.429999999999999e-07,dsyb,North Atlantic Ocean,542.9999999999999
+1570,150,SRF,0.8 to 5,66,1.91e-06,dsyb,North Atlantic Ocean,1910.0
+1571,150,SRF,0.8 to 5,2743,5.91e-08,dsyb,North Atlantic Ocean,59.1
+1572,150,SRF,0.8 to 5,179,3.94e-08,dsyb,North Atlantic Ocean,39.4
+1573,150,SRF,0.8 to 5,44,3.94e-08,dsyb,North Atlantic Ocean,39.4
+1574,150,SRF,0.8 to 5,67,9.939999999999999e-08,dsyb,North Atlantic Ocean,99.39999999999999
+1575,150,SRF,0.8 to 5,58,5.42e-08,dsyb,North Atlantic Ocean,54.2
+1576,150,SRF,0.8 to 5,225,1.0099999999999999e-07,dsyb,North Atlantic Ocean,100.99999999999999
+1577,150,SRF,0.8 to 5,166,1.1599999999999999e-07,dsyb,North Atlantic Ocean,116.0
+1578,150,SRF,0.8 to 5,36,4.75e-07,dsyb,North Atlantic Ocean,475.0
+1579,51,DCM,0.8 to 5,225,9.76e-08,dsyb,Indian Ocean,97.6
+1580,51,DCM,0.8 to 5,166,3.41e-07,dsyb,Indian Ocean,341.0
+1581,51,DCM,0.8 to 5,36,3.9899999999999996e-07,dsyb,Indian Ocean,398.99999999999994
+1582,51,DCM,0.8 to 5,188,1.3e-07,dsyb,Indian Ocean,130.0
+1583,51,DCM,0.8 to 5,67,0.0,dsyb,Indian Ocean,0.0
+1584,51,DCM,0.8 to 5,58,8.6e-08,dsyb,Indian Ocean,86.0
+1585,51,DCM,0.8 to 5,178,0.0,dsyb,Indian Ocean,0.0
+1586,51,DCM,0.8 to 5,44,8.38e-07,dsyb,Indian Ocean,838.0
+1587,51,DCM,0.8 to 5,13,0.0,dsyb,Indian Ocean,0.0
+1588,51,DCM,0.8 to 5,66,1.83e-06,dsyb,Indian Ocean,1830.0
+1589,51,DCM,0.8 to 5,179,2.01e-07,dsyb,Indian Ocean,201.0
+1590,51,DCM,0.8 to 5,332,1.1800000000000001e-07,dsyb,Indian Ocean,118.00000000000001
+1591,135,DCM,0.8 to 5,188,3.5e-06,dsyb,North Pacific Ocean,3500.0
+1592,135,DCM,0.8 to 5,166,2.3e-06,dsyb,North Pacific Ocean,2300.0
+1593,135,DCM,0.8 to 5,36,1.0300000000000001e-07,dsyb,North Pacific Ocean,103.00000000000001
+1594,135,DCM,0.8 to 5,58,1.56e-07,dsyb,North Pacific Ocean,156.0
+1595,135,DCM,0.8 to 5,44,1.11e-06,dsyb,North Pacific Ocean,1110.0
+1596,135,DCM,0.8 to 5,24,1.02e-06,dsyb,North Pacific Ocean,1020.0
+1597,135,DCM,0.8 to 5,66,4.82e-07,dsyb,North Pacific Ocean,482.0
+1598,135,DCM,0.8 to 5,332,1.36e-07,dsyb,North Pacific Ocean,136.0
+1599,135,DCM,0.8 to 5,179,3.61e-06,dsyb,North Pacific Ocean,3610.0
+1600,70,SRF,20 to 180,46,0.0,dsyb,South Atlantic Ocean,0.0
+1601,70,SRF,20 to 180,58,3.3700000000000004e-08,dsyb,South Atlantic Ocean,33.7
+1602,70,SRF,20 to 180,2493,0.0,dsyb,South Atlantic Ocean,0.0
+1603,70,SRF,20 to 180,44,3.1299999999999996e-08,dsyb,South Atlantic Ocean,31.299999999999997
+1604,70,SRF,20 to 180,12,0.0,dsyb,South Atlantic Ocean,0.0
+1605,52,SRF,180 to 2000,2493,0.0,dsyb,Indian Ocean,0.0
+1606,52,SRF,180 to 2000,44,2.1e-08,dsyb,Indian Ocean,21.0
+1607,52,SRF,180 to 2000,13,0.0,dsyb,Indian Ocean,0.0
+1608,52,SRF,180 to 2000,4,2.6800000000000002e-08,dsyb,Indian Ocean,26.8
+1609,52,SRF,180 to 2000,38,2.0699999999999997e-08,dsyb,Indian Ocean,20.699999999999996
+1610,52,SRF,180 to 2000,112,0.0,dsyb,Indian Ocean,0.0
+1611,102,SRF,180 to 2000,332,3.7e-08,dsyb,South Pacific Ocean,37.0
+1612,102,SRF,180 to 2000,44,3.25e-07,dsyb,South Pacific Ocean,325.0
+1613,100,DCM,180 to 2000,2493,0.0,dsyb,South Pacific Ocean,0.0
+1614,100,DCM,180 to 2000,44,1.3e-07,dsyb,South Pacific Ocean,130.0
+1615,100,DCM,180 to 2000,332,2.6e-08,dsyb,South Pacific Ocean,26.0
+1616,100,DCM,20 to 180,332,1.1800000000000001e-07,dsyb,South Pacific Ocean,118.00000000000001
+1617,100,DCM,20 to 180,44,1.18e-06,dsyb,South Pacific Ocean,1180.0
+1618,100,DCM,20 to 180,12,0.0,dsyb,South Pacific Ocean,0.0
+1619,146,SRF,5 to 20,1255,8.72e-08,dsyb,North Atlantic Ocean,87.2
+1620,146,SRF,5 to 20,1580,0.0,dsyb,North Atlantic Ocean,0.0
+1621,146,SRF,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1622,72,SRF,20 to 180,46,0.0,dsyb,South Atlantic Ocean,0.0
+1623,123,SRF,0.8 to 5,13,0.0,dsyb,South Pacific Ocean,0.0
+1624,123,SRF,0.8 to 5,44,5.23e-06,dsyb,South Pacific Ocean,5230.0
+1625,123,SRF,0.8 to 5,2743,5.2300000000000005e-08,dsyb,South Pacific Ocean,52.300000000000004
+1626,123,SRF,0.8 to 5,76,1.5e-06,dsyb,South Pacific Ocean,1500.0
+1627,123,SRF,0.8 to 5,66,5.03e-07,dsyb,South Pacific Ocean,503.0
+1628,123,SRF,0.8 to 5,36,9.720000000000001e-08,dsyb,South Pacific Ocean,97.20000000000002
+1629,123,SRF,0.8 to 5,225,2.92e-08,dsyb,South Pacific Ocean,29.2
+1630,123,SRF,0.8 to 5,58,1.72e-07,dsyb,South Pacific Ocean,172.0
+1631,23,SRF,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+1632,23,SRF,20 to 180,13,0.0,dsyb,Mediterranean Sea,0.0
+1633,23,SRF,20 to 180,35,0.0,dsyb,Mediterranean Sea,0.0
+1634,23,SRF,20 to 180,38,3.44e-08,dsyb,Mediterranean Sea,34.4
+1635,128,DCM,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+1636,128,DCM,20 to 180,332,4.8e-08,dsyb,North Pacific Ocean,48.0
+1637,128,DCM,20 to 180,179,8.150000000000001e-08,dsyb,North Pacific Ocean,81.50000000000001
+1638,128,DCM,20 to 180,44,6.03e-07,dsyb,North Pacific Ocean,603.0
+1639,128,DCM,20 to 180,166,7.690000000000001e-08,dsyb,North Pacific Ocean,76.9
+1640,102,DCM,20 to 180,332,7.25e-08,dsyb,South Pacific Ocean,72.5
+1641,102,DCM,20 to 180,44,1.04e-06,dsyb,South Pacific Ocean,1040.0
+1642,76,DCM,5 to 20,44,5.71e-08,dsyb,South Atlantic Ocean,57.1
+1643,102,DCM,180 to 2000,44,5.82e-07,dsyb,South Pacific Ocean,582.0
+1644,102,DCM,180 to 2000,332,5.6900000000000007e-08,dsyb,South Pacific Ocean,56.900000000000006
+1645,102,DCM,180 to 2000,58,0.0,dsyb,South Pacific Ocean,0.0
+1646,41,DCM,20 to 180,188,4.91e-08,dsyb,Indian Ocean,49.1
+1647,41,DCM,20 to 180,166,7.66e-08,dsyb,Indian Ocean,76.6
+1648,41,DCM,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+1649,82,SRF,180 to 2000,74,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1650,82,SRF,180 to 2000,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1651,82,SRF,180 to 2000,13,2.09e-06,dsyb,Southern Ocean (S of 40S),2090.0
+1652,82,SRF,180 to 2000,67,7.34e-08,dsyb,Southern Ocean (S of 40S),73.39999999999999
+1653,82,SRF,180 to 2000,30,8.54e-08,dsyb,Southern Ocean (S of 40S),85.39999999999999
+1654,82,SRF,180 to 2000,4,2.77e-07,dsyb,Southern Ocean (S of 40S),277.0
+1655,82,SRF,180 to 2000,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1656,46,SRF,180 to 2000,166,7.31e-08,dsyb,Indian Ocean,73.1
+1657,125,SRF,0.8 to 5,36,2.76e-08,dsyb,South Pacific Ocean,27.599999999999998
+1658,125,SRF,0.8 to 5,44,1.0800000000000002e-05,dsyb,South Pacific Ocean,10800.000000000002
+1659,125,SRF,0.8 to 5,2743,7.809999999999999e-08,dsyb,South Pacific Ocean,78.1
+1660,125,SRF,0.8 to 5,58,6.02e-08,dsyb,South Pacific Ocean,60.199999999999996
+1661,125,SRF,0.8 to 5,66,2.91e-07,dsyb,South Pacific Ocean,291.0
+1662,137,SRF,0.8 to 5,58,6.64e-08,dsyb,North Pacific Ocean,66.4
+1663,137,SRF,0.8 to 5,4,1.0099999999999999e-07,dsyb,North Pacific Ocean,100.99999999999999
+1664,137,SRF,0.8 to 5,225,4.16e-08,dsyb,North Pacific Ocean,41.6
+1665,137,SRF,0.8 to 5,36,8.109999999999999e-08,dsyb,North Pacific Ocean,81.1
+1666,137,SRF,0.8 to 5,166,5.16e-08,dsyb,North Pacific Ocean,51.6
+1667,137,SRF,0.8 to 5,66,3.5200000000000003e-07,dsyb,North Pacific Ocean,352.00000000000006
+1668,137,SRF,0.8 to 5,332,3.48e-08,dsyb,North Pacific Ocean,34.8
+1669,137,SRF,0.8 to 5,2743,2.6800000000000002e-08,dsyb,North Pacific Ocean,26.8
+1670,137,SRF,0.8 to 5,179,2.27e-08,dsyb,North Pacific Ocean,22.700000000000003
+1671,137,SRF,0.8 to 5,44,4.31e-06,dsyb,North Pacific Ocean,4310.0
+1672,122,SRF,0.8 to 5,44,1.53e-06,dsyb,South Pacific Ocean,1530.0
+1673,122,SRF,0.8 to 5,58,1.1599999999999999e-07,dsyb,South Pacific Ocean,116.0
+1674,122,SRF,0.8 to 5,66,3.08e-08,dsyb,South Pacific Ocean,30.799999999999997
+1675,122,SRF,0.8 to 5,332,4.0300000000000004e-08,dsyb,South Pacific Ocean,40.300000000000004
+1676,124,SRF,5 to 20,332,1.8600000000000002e-07,dsyb,South Pacific Ocean,186.00000000000003
+1677,124,SRF,5 to 20,44,1.49e-06,dsyb,South Pacific Ocean,1490.0
+1678,139,SRF,180 to 2000,44,2.77e-07,dsyb,North Pacific Ocean,277.0
+1679,41,DCM,5 to 20,178,0.0,dsyb,Indian Ocean,0.0
+1680,41,DCM,5 to 20,44,3.08e-07,dsyb,Indian Ocean,308.0
+1681,41,DCM,5 to 20,166,1.49e-06,dsyb,Indian Ocean,1490.0
+1682,41,DCM,5 to 20,66,2.8300000000000003e-07,dsyb,Indian Ocean,283.00000000000006
+1683,41,DCM,5 to 20,179,5.49e-07,dsyb,Indian Ocean,549.0
+1684,36,DCM,0.8 to 5,58,2.54e-08,dsyb,Indian Ocean,25.4
+1685,36,DCM,0.8 to 5,188,3.67e-08,dsyb,Indian Ocean,36.699999999999996
+1686,36,DCM,0.8 to 5,166,2.88e-06,dsyb,Indian Ocean,2880.0
+1687,36,DCM,0.8 to 5,36,0.0,dsyb,Indian Ocean,0.0
+1688,36,DCM,0.8 to 5,179,1.02e-06,dsyb,Indian Ocean,1020.0
+1689,36,DCM,0.8 to 5,66,3.33e-07,dsyb,Indian Ocean,333.0
+1690,36,DCM,0.8 to 5,76,2.6e-08,dsyb,Indian Ocean,26.0
+1691,36,DCM,0.8 to 5,44,2.25e-07,dsyb,Indian Ocean,225.0
+1692,36,DCM,0.8 to 5,178,0.0,dsyb,Indian Ocean,0.0
+1693,81,DCM,180 to 2000,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1694,81,DCM,180 to 2000,4,2.4199999999999998e-08,dsyb,Southern Ocean (S of 40S),24.2
+1695,81,DCM,180 to 2000,67,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1696,81,DCM,180 to 2000,58,2.85e-08,dsyb,Southern Ocean (S of 40S),28.5
+1697,81,DCM,180 to 2000,13,1.66e-07,dsyb,Southern Ocean (S of 40S),166.0
+1698,146,SRF,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1699,146,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+1700,146,SRF,20 to 180,38,3.73e-08,dsyb,North Atlantic Ocean,37.300000000000004
+1701,41,SRF,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+1702,124,SRF,20 to 180,44,1.21e-06,dsyb,South Pacific Ocean,1210.0
+1703,124,SRF,20 to 180,332,9.22e-08,dsyb,South Pacific Ocean,92.2
+1704,152,SRF,5 to 20,1255,2.4399999999999996e-07,dsyb,North Atlantic Ocean,243.99999999999997
+1705,131,DCM,5 to 20,12,0.0,dsyb,North Pacific Ocean,0.0
+1706,85,SRF,0.8 to 5,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1707,85,SRF,0.8 to 5,67,5.76e-06,dsyb,Southern Ocean (S of 40S),5760.0
+1708,85,SRF,0.8 to 5,58,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1709,85,SRF,0.8 to 5,4,2.23e-05,dsyb,Southern Ocean (S of 40S),22300.0
+1710,85,SRF,0.8 to 5,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1711,85,SRF,0.8 to 5,74,1.74e-06,dsyb,Southern Ocean (S of 40S),1740.0
+1712,85,SRF,0.8 to 5,30,1.7e-07,dsyb,Southern Ocean (S of 40S),170.0
+1713,85,SRF,0.8 to 5,13,1.12e-05,dsyb,Southern Ocean (S of 40S),11200.0
+1714,110,SRF,20 to 180,44,2.3600000000000002e-07,dsyb,South Pacific Ocean,236.00000000000003
+1715,110,SRF,20 to 180,46,0.0,dsyb,South Pacific Ocean,0.0
+1716,110,SRF,20 to 180,58,0.0,dsyb,South Pacific Ocean,0.0
+1717,142,DCM,5 to 20,44,2.67e-08,dsyb,North Atlantic Ocean,26.7
+1718,65,SRF,5 to 20,46,0.0,dsyb,Indian Ocean,0.0
+1719,65,SRF,5 to 20,178,0.0,dsyb,Indian Ocean,0.0
+1720,68,SRF,0.8 to 5,2743,3.07e-08,dsyb,South Atlantic Ocean,30.699999999999996
+1721,68,SRF,0.8 to 5,66,6.76e-07,dsyb,South Atlantic Ocean,676.0
+1722,68,SRF,0.8 to 5,24,2.21e-07,dsyb,South Atlantic Ocean,221.0
+1723,68,SRF,0.8 to 5,13,2.9500000000000003e-08,dsyb,South Atlantic Ocean,29.500000000000004
+1724,68,SRF,0.8 to 5,178,0.0,dsyb,South Atlantic Ocean,0.0
+1725,68,SRF,0.8 to 5,44,1.14e-07,dsyb,South Atlantic Ocean,114.0
+1726,68,SRF,0.8 to 5,747,2.57e-08,dsyb,South Atlantic Ocean,25.7
+1727,68,SRF,0.8 to 5,58,7.43e-08,dsyb,South Atlantic Ocean,74.3
+1728,68,SRF,0.8 to 5,36,2.7e-07,dsyb,South Atlantic Ocean,270.0
+1729,68,SRF,0.8 to 5,166,4.43e-08,dsyb,South Atlantic Ocean,44.3
+1730,68,SRF,0.8 to 5,225,8.800000000000001e-08,dsyb,South Atlantic Ocean,88.00000000000001
+1731,137,DCM,20 to 180,44,2.1399999999999998e-07,dsyb,North Pacific Ocean,213.99999999999997
+1732,137,DCM,20 to 180,13,2.33e-08,dsyb,North Pacific Ocean,23.3
+1733,137,DCM,20 to 180,58,0.0,dsyb,North Pacific Ocean,0.0
+1734,137,DCM,20 to 180,35,0.0,dsyb,North Pacific Ocean,0.0
+1735,137,DCM,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+1736,137,DCM,20 to 180,332,2.46e-08,dsyb,North Pacific Ocean,24.599999999999998
+1737,152,SRF,0.8 to 5,36,2.37e-07,dsyb,North Atlantic Ocean,237.0
+1738,152,SRF,0.8 to 5,166,1.49e-07,dsyb,North Atlantic Ocean,149.0
+1739,152,SRF,0.8 to 5,29,8.46e-08,dsyb,North Atlantic Ocean,84.60000000000001
+1740,152,SRF,0.8 to 5,225,9.13e-08,dsyb,North Atlantic Ocean,91.3
+1741,152,SRF,0.8 to 5,58,1.75e-07,dsyb,North Atlantic Ocean,175.0
+1742,152,SRF,0.8 to 5,44,1.8100000000000002e-07,dsyb,North Atlantic Ocean,181.00000000000003
+1743,152,SRF,0.8 to 5,59,4.2e-08,dsyb,North Atlantic Ocean,42.0
+1744,152,SRF,0.8 to 5,2743,9.429999999999999e-08,dsyb,North Atlantic Ocean,94.3
+1745,152,SRF,0.8 to 5,179,4.4900000000000005e-08,dsyb,North Atlantic Ocean,44.900000000000006
+1746,152,SRF,0.8 to 5,66,3.64e-07,dsyb,North Atlantic Ocean,364.0
+1747,76,SRF,180 to 2000,38,2.3100000000000002e-08,dsyb,South Atlantic Ocean,23.1
+1748,76,SRF,180 to 2000,179,3.86e-08,dsyb,South Atlantic Ocean,38.6
+1749,76,SRF,180 to 2000,2493,0.0,dsyb,South Atlantic Ocean,0.0
+1750,76,SRF,180 to 2000,166,1.65e-07,dsyb,South Atlantic Ocean,165.0
+1751,146,SRF,0.8 to 5,66,2.33e-06,dsyb,North Atlantic Ocean,2330.0
+1752,146,SRF,0.8 to 5,44,3.24e-08,dsyb,North Atlantic Ocean,32.4
+1753,146,SRF,0.8 to 5,178,0.0,dsyb,North Atlantic Ocean,0.0
+1754,146,SRF,0.8 to 5,12,0.0,dsyb,North Atlantic Ocean,0.0
+1755,146,SRF,0.8 to 5,58,2.0899999999999998e-07,dsyb,North Atlantic Ocean,208.99999999999997
+1756,146,SRF,0.8 to 5,4,0.0,dsyb,North Atlantic Ocean,0.0
+1757,146,SRF,0.8 to 5,112,0.0,dsyb,North Atlantic Ocean,0.0
+1758,146,SRF,0.8 to 5,225,1.74e-07,dsyb,North Atlantic Ocean,174.0
+1759,146,SRF,0.8 to 5,166,3.68e-08,dsyb,North Atlantic Ocean,36.8
+1760,146,SRF,0.8 to 5,36,2.61e-07,dsyb,North Atlantic Ocean,261.0
+1761,144,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1762,144,SRF,180 to 2000,38,9.32e-08,dsyb,North Atlantic Ocean,93.2
+1763,144,SRF,180 to 2000,46,0.0,dsyb,North Atlantic Ocean,0.0
+1764,52,DCM,180 to 2000,38,4.42e-08,dsyb,Indian Ocean,44.199999999999996
+1765,52,DCM,180 to 2000,2493,0.0,dsyb,Indian Ocean,0.0
+1766,52,DCM,180 to 2000,44,2.05e-07,dsyb,Indian Ocean,205.0
+1767,132,SRF,5 to 20,46,0.0,dsyb,North Pacific Ocean,0.0
+1768,72,SRF,5 to 20,13,6.04e-08,dsyb,South Atlantic Ocean,60.4
+1769,72,SRF,5 to 20,38,5.52e-08,dsyb,South Atlantic Ocean,55.199999999999996
+1770,72,SRF,5 to 20,4,3.33e-08,dsyb,South Atlantic Ocean,33.3
+1771,72,SRF,5 to 20,1580,0.0,dsyb,South Atlantic Ocean,0.0
+1772,72,SRF,5 to 20,67,0.0,dsyb,South Atlantic Ocean,0.0
+1773,100,SRF,5 to 20,2743,4.42e-08,dsyb,South Pacific Ocean,44.199999999999996
+1774,100,SRF,5 to 20,58,1.13e-07,dsyb,South Pacific Ocean,113.0
+1775,100,SRF,5 to 20,12,0.0,dsyb,South Pacific Ocean,0.0
+1776,100,SRF,5 to 20,44,9.740000000000001e-07,dsyb,South Pacific Ocean,974.0000000000001
+1777,36,DCM,20 to 180,188,2.57e-08,dsyb,Indian Ocean,25.7
+1778,36,DCM,20 to 180,166,2.0399999999999997e-07,dsyb,Indian Ocean,203.99999999999997
+1779,36,DCM,20 to 180,58,3.52e-08,dsyb,Indian Ocean,35.199999999999996
+1780,36,DCM,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+1781,36,DCM,20 to 180,179,7.83e-08,dsyb,Indian Ocean,78.30000000000001
+1782,76,DCM,180 to 2000,38,3.87e-08,dsyb,South Atlantic Ocean,38.7
+1783,138,DCM,5 to 20,44,1.85e-07,dsyb,North Pacific Ocean,185.0
+1784,138,DCM,5 to 20,166,2.6e-08,dsyb,North Pacific Ocean,26.0
+1785,138,DCM,5 to 20,12,0.0,dsyb,North Pacific Ocean,0.0
+1786,138,DCM,5 to 20,35,0.0,dsyb,North Pacific Ocean,0.0
+1787,138,DCM,5 to 20,46,0.0,dsyb,North Pacific Ocean,0.0
+1788,138,DCM,5 to 20,332,2.67e-08,dsyb,North Pacific Ocean,26.7
+1789,22,DCM,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+1790,22,DCM,20 to 180,35,0.0,dsyb,Mediterranean Sea,0.0
+1791,38,SRF,0.8 to 5,179,3.55e-06,dsyb,Indian Ocean,3550.0
+1792,38,SRF,0.8 to 5,66,6.48e-07,dsyb,Indian Ocean,648.0
+1793,38,SRF,0.8 to 5,36,0.0,dsyb,Indian Ocean,0.0
+1794,38,SRF,0.8 to 5,166,8.3e-06,dsyb,Indian Ocean,8300.0
+1795,38,SRF,0.8 to 5,188,4.45e-08,dsyb,Indian Ocean,44.5
+1796,38,SRF,0.8 to 5,44,4.52e-07,dsyb,Indian Ocean,452.0
+1797,132,SRF,180 to 2000,38,6.59e-08,dsyb,North Pacific Ocean,65.9
+1798,23,SRF,0.8 to 5,36,8.57e-08,dsyb,Mediterranean Sea,85.7
+1799,23,SRF,0.8 to 5,2743,3.09e-08,dsyb,Mediterranean Sea,30.9
+1800,23,SRF,0.8 to 5,66,8.58e-08,dsyb,Mediterranean Sea,85.8
+1801,67,SRF,180 to 2000,44,1.14e-07,dsyb,South Atlantic Ocean,114.0
+1802,132,DCM,5 to 20,12,0.0,dsyb,North Pacific Ocean,0.0
+1803,128,SRF,180 to 2000,44,1.22e-06,dsyb,North Pacific Ocean,1220.0
+1804,128,SRF,180 to 2000,166,1.41e-07,dsyb,North Pacific Ocean,141.0
+1805,128,SRF,180 to 2000,332,1.15e-07,dsyb,North Pacific Ocean,115.0
+1806,83,SRF,5 to 20,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1807,83,SRF,5 to 20,67,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1808,83,SRF,5 to 20,4,4.8099999999999994e-08,dsyb,Southern Ocean (S of 40S),48.099999999999994
+1809,83,SRF,5 to 20,13,1.67e-07,dsyb,Southern Ocean (S of 40S),167.0
+1810,39,SRF,180 to 2000,166,3.68e-08,dsyb,Indian Ocean,36.8
+1811,68,DCM,0.8 to 5,58,5.67e-08,dsyb,South Atlantic Ocean,56.699999999999996
+1812,68,DCM,0.8 to 5,166,1.78e-07,dsyb,South Atlantic Ocean,178.0
+1813,68,DCM,0.8 to 5,36,4.69e-08,dsyb,South Atlantic Ocean,46.900000000000006
+1814,68,DCM,0.8 to 5,188,2.84e-08,dsyb,South Atlantic Ocean,28.4
+1815,68,DCM,0.8 to 5,66,1.0699999999999999e-07,dsyb,South Atlantic Ocean,106.99999999999999
+1816,68,DCM,0.8 to 5,179,6.24e-08,dsyb,South Atlantic Ocean,62.400000000000006
+1817,68,DCM,0.8 to 5,332,2.4e-07,dsyb,South Atlantic Ocean,239.99999999999997
+1818,68,DCM,0.8 to 5,2743,2.3900000000000002e-08,dsyb,South Atlantic Ocean,23.900000000000002
+1819,68,DCM,0.8 to 5,178,0.0,dsyb,South Atlantic Ocean,0.0
+1820,68,DCM,0.8 to 5,59,2.36e-08,dsyb,South Atlantic Ocean,23.599999999999998
+1821,68,DCM,0.8 to 5,44,6.27e-07,dsyb,South Atlantic Ocean,627.0
+1822,68,DCM,0.8 to 5,24,9.79e-08,dsyb,South Atlantic Ocean,97.89999999999999
+1823,68,DCM,0.8 to 5,12,0.0,dsyb,South Atlantic Ocean,0.0
+1824,144,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+1825,144,SRF,20 to 180,178,0.0,dsyb,North Atlantic Ocean,0.0
+1826,144,SRF,20 to 180,44,7.57e-08,dsyb,North Atlantic Ocean,75.7
+1827,132,DCM,180 to 2000,38,5.03e-08,dsyb,North Pacific Ocean,50.3
+1828,36,DCM,5 to 20,166,4.21e-07,dsyb,Indian Ocean,421.0
+1829,36,DCM,5 to 20,179,1.94e-07,dsyb,Indian Ocean,194.0
+1830,36,DCM,5 to 20,46,0.0,dsyb,Indian Ocean,0.0
+1831,111,DCM,5 to 20,178,0.0,dsyb,South Pacific Ocean,0.0
+1832,111,DCM,5 to 20,44,6.41e-07,dsyb,South Pacific Ocean,641.0
+1833,111,DCM,5 to 20,24,1.1e-06,dsyb,South Pacific Ocean,1100.0
+1834,111,DCM,5 to 20,66,2.67e-07,dsyb,South Pacific Ocean,267.0
+1835,111,DCM,5 to 20,1580,0.0,dsyb,South Pacific Ocean,0.0
+1836,111,DCM,5 to 20,179,4.05e-07,dsyb,South Pacific Ocean,405.0
+1837,111,DCM,5 to 20,166,5.14e-07,dsyb,South Pacific Ocean,514.0
+1838,111,DCM,5 to 20,36,2.95e-07,dsyb,South Pacific Ocean,295.0
+1839,111,DCM,5 to 20,188,2.25e-07,dsyb,South Pacific Ocean,225.0
+1840,111,DCM,5 to 20,58,7.18e-08,dsyb,South Pacific Ocean,71.8
+1841,111,DCM,5 to 20,38,1.42e-07,dsyb,South Pacific Ocean,142.0
+1842,92,SRF,5 to 20,13,1.57e-07,dsyb,South Pacific Ocean,157.0
+1843,92,SRF,5 to 20,4,1.62e-07,dsyb,South Pacific Ocean,162.0
+1844,92,SRF,5 to 20,67,8.130000000000001e-08,dsyb,South Pacific Ocean,81.30000000000001
+1845,92,SRF,5 to 20,58,3.69e-07,dsyb,South Pacific Ocean,369.0
+1846,147,SRF,180 to 2000,38,8.820000000000001e-08,dsyb,North Atlantic Ocean,88.2
+1847,147,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1848,150,DCM,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+1849,150,DCM,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1850,150,DCM,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+1851,78,SRF,5 to 20,44,1.62e-07,dsyb,South Atlantic Ocean,162.0
+1852,110,DCM,180 to 2000,44,2.7800000000000003e-07,dsyb,South Pacific Ocean,278.0
+1853,84,SRF,0.8 to 5,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1854,84,SRF,0.8 to 5,30,1.37e-07,dsyb,Southern Ocean (S of 40S),137.0
+1855,84,SRF,0.8 to 5,67,5.1500000000000005e-08,dsyb,Southern Ocean (S of 40S),51.50000000000001
+1856,84,SRF,0.8 to 5,4,9.6e-07,dsyb,Southern Ocean (S of 40S),959.9999999999999
+1857,84,SRF,0.8 to 5,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1858,84,SRF,0.8 to 5,13,1.63e-06,dsyb,Southern Ocean (S of 40S),1630.0
+1859,84,SRF,0.8 to 5,74,1.8899999999999999e-07,dsyb,Southern Ocean (S of 40S),188.99999999999997
+1860,135,DCM,180 to 2000,188,2.0699999999999997e-08,dsyb,North Pacific Ocean,20.699999999999996
+1861,135,DCM,180 to 2000,166,2.0699999999999997e-08,dsyb,North Pacific Ocean,20.699999999999996
+1862,135,DCM,180 to 2000,2493,0.0,dsyb,North Pacific Ocean,0.0
+1863,135,DCM,180 to 2000,179,2.46e-08,dsyb,North Pacific Ocean,24.599999999999998
+1864,135,DCM,180 to 2000,38,4.0700000000000003e-07,dsyb,North Pacific Ocean,407.00000000000006
+1865,135,DCM,180 to 2000,58,2.09e-08,dsyb,North Pacific Ocean,20.9
+1866,128,DCM,5 to 20,58,6.719999999999999e-08,dsyb,North Pacific Ocean,67.19999999999999
+1867,128,DCM,5 to 20,1255,2.4899999999999997e-07,dsyb,North Pacific Ocean,248.99999999999997
+1868,128,DCM,5 to 20,44,2.37e-07,dsyb,North Pacific Ocean,237.0
+1869,128,DCM,5 to 20,166,2.4e-08,dsyb,North Pacific Ocean,24.0
+1870,72,DCM,5 to 20,12,0.0,dsyb,South Atlantic Ocean,0.0
+1871,72,DCM,5 to 20,13,0.0,dsyb,South Atlantic Ocean,0.0
+1872,72,DCM,5 to 20,1580,0.0,dsyb,South Atlantic Ocean,0.0
+1873,23,DCM,0.8 to 5,2743,3.3e-08,dsyb,Mediterranean Sea,33.0
+1874,23,DCM,0.8 to 5,66,2.43e-07,dsyb,Mediterranean Sea,243.0
+1875,23,DCM,0.8 to 5,58,3.3e-08,dsyb,Mediterranean Sea,33.0
+1876,23,DCM,0.8 to 5,36,1.68e-07,dsyb,Mediterranean Sea,168.0
+1877,23,DCM,0.8 to 5,178,0.0,dsyb,Mediterranean Sea,0.0
+1878,23,DCM,0.8 to 5,225,3.3e-08,dsyb,Mediterranean Sea,33.0
+1879,123,SRF,180 to 2000,44,4.979999999999999e-07,dsyb,South Pacific Ocean,497.99999999999994
+1880,123,SRF,180 to 2000,332,5.57e-08,dsyb,South Pacific Ocean,55.7
+1881,132,DCM,0.8 to 5,188,3.92e-08,dsyb,North Pacific Ocean,39.2
+1882,132,DCM,0.8 to 5,12,0.0,dsyb,North Pacific Ocean,0.0
+1883,132,DCM,0.8 to 5,166,2.05e-07,dsyb,North Pacific Ocean,205.0
+1884,132,DCM,0.8 to 5,44,7.7e-07,dsyb,North Pacific Ocean,770.0
+1885,132,DCM,0.8 to 5,332,5.8200000000000005e-08,dsyb,North Pacific Ocean,58.2
+1886,132,DCM,0.8 to 5,179,1.0199999999999999e-07,dsyb,North Pacific Ocean,101.99999999999999
+1887,132,DCM,0.8 to 5,58,0.0,dsyb,North Pacific Ocean,0.0
+1888,36,DCM,180 to 2000,166,9.59e-08,dsyb,Indian Ocean,95.9
+1889,36,DCM,180 to 2000,179,6.01e-08,dsyb,Indian Ocean,60.1
+1890,85,DCM,180 to 2000,74,1.0699999999999999e-07,dsyb,Southern Ocean (S of 40S),106.99999999999999
+1891,85,DCM,180 to 2000,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1892,85,DCM,180 to 2000,13,3.25e-07,dsyb,Southern Ocean (S of 40S),325.0
+1893,85,DCM,180 to 2000,67,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1894,85,DCM,180 to 2000,30,2.07e-07,dsyb,Southern Ocean (S of 40S),207.0
+1895,85,DCM,180 to 2000,4,3.64e-07,dsyb,Southern Ocean (S of 40S),364.0
+1896,85,DCM,180 to 2000,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1897,151,DCM,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+1898,151,DCM,20 to 180,35,0.0,dsyb,North Atlantic Ocean,0.0
+1899,151,DCM,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+1900,151,DCM,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1901,98,SRF,5 to 20,44,5.6100000000000006e-08,dsyb,South Pacific Ocean,56.10000000000001
+1902,98,SRF,5 to 20,46,0.0,dsyb,South Pacific Ocean,0.0
+1903,36,SRF,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+1904,36,SRF,20 to 180,179,2.33e-07,dsyb,Indian Ocean,233.0
+1905,36,SRF,20 to 180,188,1.0199999999999999e-07,dsyb,Indian Ocean,101.99999999999999
+1906,36,SRF,20 to 180,166,5.71e-07,dsyb,Indian Ocean,571.0
+1907,124,SRF,0.8 to 5,2743,6.45e-08,dsyb,South Pacific Ocean,64.5
+1908,124,SRF,0.8 to 5,58,5.99e-08,dsyb,South Pacific Ocean,59.9
+1909,124,SRF,0.8 to 5,76,3.26e-08,dsyb,South Pacific Ocean,32.6
+1910,124,SRF,0.8 to 5,66,9.53e-08,dsyb,South Pacific Ocean,95.3
+1911,124,SRF,0.8 to 5,36,3.64e-08,dsyb,South Pacific Ocean,36.4
+1912,124,SRF,0.8 to 5,44,2.05e-05,dsyb,South Pacific Ocean,20500.0
+1913,124,SRF,0.8 to 5,225,2.7900000000000002e-08,dsyb,South Pacific Ocean,27.900000000000002
+1914,151,SRF,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+1915,151,SRF,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1916,151,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+1917,109,SRF,20 to 180,44,2.39e-07,dsyb,North Pacific Ocean,239.0
+1918,109,SRF,20 to 180,166,2.4300000000000003e-08,dsyb,North Pacific Ocean,24.300000000000004
+1919,109,SRF,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+1920,39,DCM,0.8 to 5,188,7.019999999999999e-08,dsyb,Indian Ocean,70.19999999999999
+1921,39,DCM,0.8 to 5,36,0.0,dsyb,Indian Ocean,0.0
+1922,39,DCM,0.8 to 5,166,2.21e-06,dsyb,Indian Ocean,2210.0
+1923,39,DCM,0.8 to 5,4,0.0,dsyb,Indian Ocean,0.0
+1924,39,DCM,0.8 to 5,44,2.43e-07,dsyb,Indian Ocean,243.0
+1925,39,DCM,0.8 to 5,178,0.0,dsyb,Indian Ocean,0.0
+1926,39,DCM,0.8 to 5,66,4.5700000000000003e-07,dsyb,Indian Ocean,457.00000000000006
+1927,39,DCM,0.8 to 5,179,7.5e-07,dsyb,Indian Ocean,750.0
+1928,128,SRF,20 to 180,332,8.3e-08,dsyb,North Pacific Ocean,83.0
+1929,128,SRF,20 to 180,44,8.23e-07,dsyb,North Pacific Ocean,823.0
+1930,124,SRF,180 to 2000,2493,0.0,dsyb,South Pacific Ocean,0.0
+1931,124,SRF,180 to 2000,44,8.26e-08,dsyb,South Pacific Ocean,82.6
+1932,124,SRF,180 to 2000,58,4.46e-08,dsyb,South Pacific Ocean,44.6
+1933,85,DCM,5 to 20,13,7.33e-07,dsyb,Southern Ocean (S of 40S),733.0
+1934,85,DCM,5 to 20,74,3.47e-07,dsyb,Southern Ocean (S of 40S),347.0
+1935,85,DCM,5 to 20,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1936,85,DCM,5 to 20,30,2.62e-07,dsyb,Southern Ocean (S of 40S),262.0
+1937,85,DCM,5 to 20,67,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1938,85,DCM,5 to 20,4,6.5e-07,dsyb,Southern Ocean (S of 40S),650.0
+1939,110,SRF,180 to 2000,44,7.09e-07,dsyb,South Pacific Ocean,709.0
+1940,110,SRF,180 to 2000,38,6.73e-08,dsyb,South Pacific Ocean,67.3
+1941,110,SRF,180 to 2000,332,6.049999999999999e-08,dsyb,South Pacific Ocean,60.49999999999999
+1942,135,DCM,5 to 20,179,6.230000000000001e-08,dsyb,North Pacific Ocean,62.30000000000001
+1943,135,DCM,5 to 20,38,1.04e-07,dsyb,North Pacific Ocean,104.0
+1944,135,DCM,5 to 20,1255,5.33e-08,dsyb,North Pacific Ocean,53.300000000000004
+1945,135,DCM,5 to 20,166,6.19e-08,dsyb,North Pacific Ocean,61.900000000000006
+1946,135,DCM,5 to 20,12,0.0,dsyb,North Pacific Ocean,0.0
+1947,135,DCM,5 to 20,188,4.9699999999999995e-08,dsyb,North Pacific Ocean,49.699999999999996
+1948,135,DCM,5 to 20,44,3.5099999999999997e-08,dsyb,North Pacific Ocean,35.099999999999994
+1949,30,SRF,180 to 2000,2493,0.0,dsyb,Mediterranean Sea,0.0
+1950,151,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1951,25,DCM,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+1952,72,DCM,0.8 to 5,58,4.1100000000000004e-08,dsyb,South Atlantic Ocean,41.1
+1953,72,DCM,0.8 to 5,188,8.050000000000001e-08,dsyb,South Atlantic Ocean,80.50000000000001
+1954,72,DCM,0.8 to 5,36,0.0,dsyb,South Atlantic Ocean,0.0
+1955,72,DCM,0.8 to 5,166,2.4e-06,dsyb,South Atlantic Ocean,2400.0
+1956,72,DCM,0.8 to 5,2743,4.1100000000000004e-08,dsyb,South Atlantic Ocean,41.1
+1957,72,DCM,0.8 to 5,332,8.3e-08,dsyb,South Atlantic Ocean,83.0
+1958,72,DCM,0.8 to 5,179,1.74e-07,dsyb,South Atlantic Ocean,174.0
+1959,72,DCM,0.8 to 5,66,1.4e-07,dsyb,South Atlantic Ocean,140.0
+1960,72,DCM,0.8 to 5,44,1.24e-06,dsyb,South Atlantic Ocean,1240.0
+1961,68,SRF,180 to 2000,44,4.7599999999999996e-08,dsyb,South Atlantic Ocean,47.599999999999994
+1962,68,SRF,180 to 2000,58,0.0,dsyb,South Atlantic Ocean,0.0
+1963,80,DCM,20 to 180,46,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1964,80,DCM,20 to 180,12,0.0,dsyb,Southern Ocean (S of 40S),0.0
+1965,80,DCM,20 to 180,59,3.92e-08,dsyb,Southern Ocean (S of 40S),39.2
+1966,98,SRF,20 to 180,46,0.0,dsyb,South Pacific Ocean,0.0
+1967,98,SRF,20 to 180,12,0.0,dsyb,South Pacific Ocean,0.0
+1968,98,SRF,20 to 180,44,3.17e-08,dsyb,South Pacific Ocean,31.7
+1969,149,SRF,180 to 2000,38,8.86e-08,dsyb,North Atlantic Ocean,88.6
+1970,149,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+1971,52,DCM,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+1972,52,DCM,20 to 180,58,0.0,dsyb,Indian Ocean,0.0
+1973,52,DCM,20 to 180,4,2.66e-08,dsyb,Indian Ocean,26.6
+1974,52,DCM,20 to 180,332,2.8199999999999998e-08,dsyb,Indian Ocean,28.2
+1975,52,DCM,20 to 180,44,1.43e-07,dsyb,Indian Ocean,143.0
+1976,52,DCM,20 to 180,2493,0.0,dsyb,Indian Ocean,0.0
+1977,52,DCM,20 to 180,12,0.0,dsyb,Indian Ocean,0.0
+1978,135,DCM,20 to 180,188,3.46e-08,dsyb,North Pacific Ocean,34.6
+1979,135,DCM,20 to 180,166,8.9e-08,dsyb,North Pacific Ocean,89.0
+1980,135,DCM,20 to 180,58,2.9100000000000002e-08,dsyb,North Pacific Ocean,29.1
+1981,135,DCM,20 to 180,38,1.97e-08,dsyb,North Pacific Ocean,19.7
+1982,135,DCM,20 to 180,44,1.97e-08,dsyb,North Pacific Ocean,19.7
+1983,135,DCM,20 to 180,59,2.06e-08,dsyb,North Pacific Ocean,20.599999999999998
+1984,135,DCM,20 to 180,12,0.0,dsyb,North Pacific Ocean,0.0
+1985,135,DCM,20 to 180,35,0.0,dsyb,North Pacific Ocean,0.0
+1986,135,DCM,20 to 180,179,3.56e-08,dsyb,North Pacific Ocean,35.6
+1987,66,DCM,5 to 20,332,8.42e-08,dsyb,South Atlantic Ocean,84.2
+1988,66,DCM,5 to 20,44,1.98e-07,dsyb,South Atlantic Ocean,198.0
+1989,64,SRF,20 to 180,44,3.84e-08,dsyb,Indian Ocean,38.4
+1990,64,SRF,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+1991,41,SRF,0.8 to 5,13,9.910000000000001e-08,dsyb,Indian Ocean,99.10000000000001
+1992,41,SRF,0.8 to 5,166,3.56e-07,dsyb,Indian Ocean,356.0
+1993,41,SRF,0.8 to 5,179,1.6399999999999999e-07,dsyb,Indian Ocean,164.0
+1994,41,SRF,0.8 to 5,66,2.7800000000000003e-07,dsyb,Indian Ocean,278.0
+1995,138,DCM,180 to 2000,44,4.65e-07,dsyb,North Pacific Ocean,465.0
+1996,138,DCM,180 to 2000,332,1.44e-07,dsyb,North Pacific Ocean,144.0
+1997,4,SRF,0.8 to 5,44,8.45e-08,dsyb,Mediterranean Sea,84.5
+1998,4,SRF,0.8 to 5,178,0.0,dsyb,Mediterranean Sea,0.0
+1999,4,SRF,0.8 to 5,2743,2.64e-08,dsyb,Mediterranean Sea,26.400000000000002
+2000,4,SRF,0.8 to 5,66,2.07e-07,dsyb,Mediterranean Sea,207.0
+2001,4,SRF,0.8 to 5,36,6.34e-07,dsyb,Mediterranean Sea,634.0
+2002,4,SRF,0.8 to 5,29,3.75e-06,dsyb,Mediterranean Sea,3750.0
+2003,4,SRF,0.8 to 5,747,4.9400000000000006e-08,dsyb,Mediterranean Sea,49.400000000000006
+2004,4,SRF,0.8 to 5,58,2.76e-08,dsyb,Mediterranean Sea,27.599999999999998
+2005,137,SRF,180 to 2000,332,1.5199999999999998e-07,dsyb,North Pacific Ocean,151.99999999999997
+2006,137,SRF,180 to 2000,166,8.689999999999999e-08,dsyb,North Pacific Ocean,86.89999999999999
+2007,137,SRF,180 to 2000,44,1.03e-06,dsyb,North Pacific Ocean,1030.0
+2008,25,SRF,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+2009,25,SRF,5 to 20,35,0.0,dsyb,Mediterranean Sea,0.0
+2010,38,SRF,20 to 180,166,1.93e-07,dsyb,Indian Ocean,193.0
+2011,38,SRF,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+2012,38,SRF,20 to 180,179,6.42e-08,dsyb,Indian Ocean,64.2
+2013,125,SRF,20 to 180,44,7.909999999999999e-07,dsyb,South Pacific Ocean,790.9999999999999
+2014,125,SRF,20 to 180,332,1.24e-07,dsyb,South Pacific Ocean,124.0
+2015,125,SRF,20 to 180,58,0.0,dsyb,South Pacific Ocean,0.0
+2016,122,SRF,20 to 180,44,2.42e-06,dsyb,South Pacific Ocean,2420.0
+2017,122,SRF,20 to 180,332,2.79e-07,dsyb,South Pacific Ocean,279.0
+2018,4,DCM,0.8 to 5,66,3.76e-08,dsyb,Mediterranean Sea,37.6
+2019,4,DCM,0.8 to 5,35,0.0,dsyb,Mediterranean Sea,0.0
+2020,4,DCM,0.8 to 5,12,0.0,dsyb,Mediterranean Sea,0.0
+2021,4,DCM,0.8 to 5,59,5.14e-08,dsyb,Mediterranean Sea,51.4
+2022,142,DCM,0.8 to 5,66,7.320000000000001e-08,dsyb,North Atlantic Ocean,73.2
+2023,142,DCM,0.8 to 5,178,0.0,dsyb,North Atlantic Ocean,0.0
+2024,142,DCM,0.8 to 5,36,0.0,dsyb,North Atlantic Ocean,0.0
+2025,68,SRF,20 to 180,46,0.0,dsyb,South Atlantic Ocean,0.0
+2026,68,SRF,20 to 180,12,0.0,dsyb,South Atlantic Ocean,0.0
+2027,68,SRF,20 to 180,44,3.12e-08,dsyb,South Atlantic Ocean,31.200000000000003
+2028,100,SRF,0.8 to 5,58,3.5699999999999995e-08,dsyb,South Pacific Ocean,35.699999999999996
+2029,100,SRF,0.8 to 5,67,3.99e-08,dsyb,South Pacific Ocean,39.9
+2030,100,SRF,0.8 to 5,36,2.6800000000000002e-08,dsyb,South Pacific Ocean,26.8
+2031,100,SRF,0.8 to 5,225,2.23e-08,dsyb,South Pacific Ocean,22.3
+2032,100,SRF,0.8 to 5,2743,1.6e-07,dsyb,South Pacific Ocean,160.0
+2033,100,SRF,0.8 to 5,332,3.21e-08,dsyb,South Pacific Ocean,32.1
+2034,100,SRF,0.8 to 5,66,7.91e-08,dsyb,South Pacific Ocean,79.1
+2035,100,SRF,0.8 to 5,44,2.11e-06,dsyb,South Pacific Ocean,2110.0
+2036,41,SRF,5 to 20,46,0.0,dsyb,Indian Ocean,0.0
+2037,93,SRF,5 to 20,38,2.9500000000000003e-08,dsyb,South Pacific Ocean,29.500000000000004
+2038,131,SRF,5 to 20,46,0.0,dsyb,North Pacific Ocean,0.0
+2039,131,SRF,5 to 20,2493,0.0,dsyb,North Pacific Ocean,0.0
+2040,131,SRF,5 to 20,36,0.0,dsyb,North Pacific Ocean,0.0
+2041,131,SRF,5 to 20,12,0.0,dsyb,North Pacific Ocean,0.0
+2042,80,DCM,180 to 2000,38,2.7900000000000002e-08,dsyb,Southern Ocean (S of 40S),27.900000000000002
+2043,110,SRF,0.8 to 5,36,9.32e-08,dsyb,South Pacific Ocean,93.2
+2044,110,SRF,0.8 to 5,166,2.7e-07,dsyb,South Pacific Ocean,270.0
+2045,110,SRF,0.8 to 5,225,4.38e-08,dsyb,South Pacific Ocean,43.800000000000004
+2046,110,SRF,0.8 to 5,67,0.0,dsyb,South Pacific Ocean,0.0
+2047,110,SRF,0.8 to 5,58,7.66e-08,dsyb,South Pacific Ocean,76.6
+2048,110,SRF,0.8 to 5,13,0.0,dsyb,South Pacific Ocean,0.0
+2049,110,SRF,0.8 to 5,44,5.67e-06,dsyb,South Pacific Ocean,5670.0
+2050,110,SRF,0.8 to 5,179,8.56e-08,dsyb,South Pacific Ocean,85.6
+2051,110,SRF,0.8 to 5,332,4.11e-07,dsyb,South Pacific Ocean,411.0
+2052,110,SRF,0.8 to 5,66,2.1e-07,dsyb,South Pacific Ocean,210.0
+2053,93,SRF,180 to 2000,38,2.5899999999999997e-08,dsyb,South Pacific Ocean,25.9
+2054,139,SRF,5 to 20,58,0.0,dsyb,North Pacific Ocean,0.0
+2055,139,SRF,5 to 20,1580,0.0,dsyb,North Pacific Ocean,0.0
+2056,139,SRF,5 to 20,179,3.1299999999999996e-08,dsyb,North Pacific Ocean,31.299999999999997
+2057,139,SRF,5 to 20,44,2.35e-07,dsyb,North Pacific Ocean,235.0
+2058,139,SRF,5 to 20,166,8.09e-08,dsyb,North Pacific Ocean,80.9
+2059,38,SRF,180 to 2000,166,2.35e-07,dsyb,Indian Ocean,235.0
+2060,38,SRF,180 to 2000,44,3.3700000000000004e-08,dsyb,Indian Ocean,33.7
+2061,38,SRF,180 to 2000,179,7.38e-08,dsyb,Indian Ocean,73.8
+2062,142,DCM,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+2063,142,DCM,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+2064,39,SRF,0.8 to 5,225,2.62e-08,dsyb,Indian Ocean,26.2
+2065,39,SRF,0.8 to 5,36,6.230000000000001e-08,dsyb,Indian Ocean,62.30000000000001
+2066,39,SRF,0.8 to 5,166,9.37e-07,dsyb,Indian Ocean,937.0
+2067,39,SRF,0.8 to 5,58,2.62e-08,dsyb,Indian Ocean,26.2
+2068,39,SRF,0.8 to 5,66,2.19e-07,dsyb,Indian Ocean,219.0
+2069,39,SRF,0.8 to 5,2743,5.2e-08,dsyb,Indian Ocean,52.0
+2070,39,SRF,0.8 to 5,179,4.2700000000000005e-07,dsyb,Indian Ocean,427.00000000000006
+2071,4,DCM,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+2072,4,DCM,5 to 20,36,3.1e-08,dsyb,Mediterranean Sea,31.0
+2073,4,DCM,5 to 20,58,0.0,dsyb,Mediterranean Sea,0.0
+2074,4,DCM,5 to 20,1255,4.4800000000000004e-08,dsyb,Mediterranean Sea,44.800000000000004
+2075,4,DCM,5 to 20,179,2.41e-08,dsyb,Mediterranean Sea,24.1
+2076,30,DCM,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+2077,23,DCM,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+2078,23,DCM,20 to 180,58,2.93e-08,dsyb,Mediterranean Sea,29.3
+2079,23,DCM,20 to 180,35,0.0,dsyb,Mediterranean Sea,0.0
+2080,23,SRF,180 to 2000,38,4.15e-08,dsyb,Mediterranean Sea,41.5
+2081,80,DCM,5 to 20,12,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2082,80,DCM,5 to 20,44,6.15e-08,dsyb,Southern Ocean (S of 40S),61.5
+2083,70,SRF,5 to 20,332,2.85e-08,dsyb,South Atlantic Ocean,28.5
+2084,70,SRF,5 to 20,58,3.72e-08,dsyb,South Atlantic Ocean,37.2
+2085,70,SRF,5 to 20,1580,0.0,dsyb,South Atlantic Ocean,0.0
+2086,70,SRF,5 to 20,44,1.66e-07,dsyb,South Atlantic Ocean,166.0
+2087,70,SRF,5 to 20,2493,0.0,dsyb,South Atlantic Ocean,0.0
+2088,82,SRF,0.8 to 5,66,3.26e-08,dsyb,Southern Ocean (S of 40S),32.6
+2089,82,SRF,0.8 to 5,30,3.79e-07,dsyb,Southern Ocean (S of 40S),379.0
+2090,82,SRF,0.8 to 5,13,3.86e-05,dsyb,Southern Ocean (S of 40S),38600.0
+2091,82,SRF,0.8 to 5,24,3.23e-08,dsyb,Southern Ocean (S of 40S),32.3
+2092,82,SRF,0.8 to 5,4,4.92e-06,dsyb,Southern Ocean (S of 40S),4920.0
+2093,82,SRF,0.8 to 5,67,1.42e-06,dsyb,Southern Ocean (S of 40S),1420.0
+2094,82,SRF,0.8 to 5,58,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2095,82,SRF,0.8 to 5,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2096,82,SRF,0.8 to 5,74,1.1699999999999999e-07,dsyb,Southern Ocean (S of 40S),116.99999999999999
+2097,82,SRF,0.8 to 5,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2098,72,SRF,180 to 2000,44,2.2400000000000002e-08,dsyb,South Atlantic Ocean,22.400000000000002
+2099,72,SRF,180 to 2000,12,0.0,dsyb,South Atlantic Ocean,0.0
+2100,72,SRF,180 to 2000,46,0.0,dsyb,South Atlantic Ocean,0.0
+2101,52,SRF,0.8 to 5,332,7.67e-08,dsyb,Indian Ocean,76.7
+2102,52,SRF,0.8 to 5,66,2.46e-07,dsyb,Indian Ocean,246.0
+2103,52,SRF,0.8 to 5,44,5.55e-07,dsyb,Indian Ocean,555.0
+2104,52,SRF,0.8 to 5,178,0.0,dsyb,Indian Ocean,0.0
+2105,52,SRF,0.8 to 5,58,3.58e-08,dsyb,Indian Ocean,35.800000000000004
+2106,52,SRF,0.8 to 5,36,8.6e-08,dsyb,Indian Ocean,86.0
+2107,52,SRF,0.8 to 5,166,7.06e-08,dsyb,Indian Ocean,70.6
+2108,52,SRF,0.8 to 5,225,3.7400000000000004e-08,dsyb,Indian Ocean,37.400000000000006
+2109,139,SRF,0.8 to 5,4,2.8300000000000002e-08,dsyb,North Pacific Ocean,28.3
+2110,139,SRF,0.8 to 5,58,7.089999999999999e-08,dsyb,North Pacific Ocean,70.89999999999999
+2111,139,SRF,0.8 to 5,36,6.21e-08,dsyb,North Pacific Ocean,62.099999999999994
+2112,139,SRF,0.8 to 5,166,4.9e-07,dsyb,North Pacific Ocean,489.99999999999994
+2113,139,SRF,0.8 to 5,179,1.8899999999999999e-07,dsyb,North Pacific Ocean,188.99999999999997
+2114,139,SRF,0.8 to 5,2743,4.13e-08,dsyb,North Pacific Ocean,41.3
+2115,139,SRF,0.8 to 5,66,3.89e-07,dsyb,North Pacific Ocean,389.0
+2116,139,SRF,0.8 to 5,44,9.27e-06,dsyb,North Pacific Ocean,9270.0
+2117,7,DCM,0.8 to 5,29,9.77e-08,dsyb,Mediterranean Sea,97.69999999999999
+2118,7,DCM,0.8 to 5,178,0.0,dsyb,Mediterranean Sea,0.0
+2119,7,DCM,0.8 to 5,36,4.45e-08,dsyb,Mediterranean Sea,44.5
+2120,7,DCM,0.8 to 5,66,1.37e-07,dsyb,Mediterranean Sea,137.0
+2121,7,DCM,0.8 to 5,179,4.7599999999999996e-08,dsyb,Mediterranean Sea,47.599999999999994
+2122,102,SRF,5 to 20,36,0.0,dsyb,South Pacific Ocean,0.0
+2123,102,SRF,5 to 20,44,1.96e-06,dsyb,South Pacific Ocean,1959.9999999999998
+2124,102,SRF,5 to 20,332,5.01e-08,dsyb,South Pacific Ocean,50.1
+2125,102,SRF,5 to 20,1580,0.0,dsyb,South Pacific Ocean,0.0
+2126,102,SRF,5 to 20,58,1.08e-07,dsyb,South Pacific Ocean,108.0
+2127,76,SRF,5 to 20,44,4.04e-08,dsyb,South Atlantic Ocean,40.4
+2128,132,SRF,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+2129,143,DCM,180 to 2000,38,5.7999999999999997e-08,dsyb,North Atlantic Ocean,58.0
+2130,18,DCM,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+2131,18,DCM,20 to 180,46,0.0,dsyb,Mediterranean Sea,0.0
+2132,66,DCM,0.8 to 5,24,3.56e-08,dsyb,South Atlantic Ocean,35.6
+2133,66,DCM,0.8 to 5,179,6.230000000000001e-08,dsyb,South Atlantic Ocean,62.30000000000001
+2134,66,DCM,0.8 to 5,2743,3.8900000000000004e-08,dsyb,South Atlantic Ocean,38.900000000000006
+2135,66,DCM,0.8 to 5,332,4.37e-08,dsyb,South Atlantic Ocean,43.7
+2136,66,DCM,0.8 to 5,76,5.0700000000000004e-08,dsyb,South Atlantic Ocean,50.7
+2137,66,DCM,0.8 to 5,36,1.32e-07,dsyb,South Atlantic Ocean,132.0
+2138,66,DCM,0.8 to 5,1255,2.54e-08,dsyb,South Atlantic Ocean,25.4
+2139,66,DCM,0.8 to 5,4,5.34e-08,dsyb,South Atlantic Ocean,53.4
+2140,66,DCM,0.8 to 5,67,3.44e-08,dsyb,South Atlantic Ocean,34.4
+2141,66,DCM,0.8 to 5,13,7.41e-08,dsyb,South Atlantic Ocean,74.1
+2142,66,DCM,0.8 to 5,178,0.0,dsyb,South Atlantic Ocean,0.0
+2143,66,DCM,0.8 to 5,44,3.19e-07,dsyb,South Atlantic Ocean,319.0
+2144,66,DCM,0.8 to 5,66,2.56e-07,dsyb,South Atlantic Ocean,256.0
+2145,66,DCM,0.8 to 5,166,1.67e-07,dsyb,South Atlantic Ocean,167.0
+2146,66,DCM,0.8 to 5,188,2.71e-08,dsyb,South Atlantic Ocean,27.1
+2147,66,DCM,0.8 to 5,74,5.34e-08,dsyb,South Atlantic Ocean,53.4
+2148,66,DCM,0.8 to 5,58,9.02e-08,dsyb,South Atlantic Ocean,90.2
+2149,111,SRF,0.8 to 5,58,0.0,dsyb,South Pacific Ocean,0.0
+2150,111,SRF,0.8 to 5,66,4.05e-08,dsyb,South Pacific Ocean,40.5
+2151,111,SRF,0.8 to 5,2743,3.95e-08,dsyb,South Pacific Ocean,39.5
+2152,111,SRF,0.8 to 5,332,2.1300000000000001e-07,dsyb,South Pacific Ocean,213.00000000000003
+2153,111,SRF,0.8 to 5,44,1.81e-06,dsyb,South Pacific Ocean,1810.0
+2154,111,SRF,0.8 to 5,36,4.24e-08,dsyb,South Pacific Ocean,42.400000000000006
+2155,138,DCM,0.8 to 5,178,0.0,dsyb,North Pacific Ocean,0.0
+2156,138,DCM,0.8 to 5,44,7.13e-07,dsyb,North Pacific Ocean,713.0
+2157,138,DCM,0.8 to 5,76,3.6600000000000003e-08,dsyb,North Pacific Ocean,36.6
+2158,138,DCM,0.8 to 5,66,1.93e-07,dsyb,North Pacific Ocean,193.0
+2159,138,DCM,0.8 to 5,2743,2.81e-08,dsyb,North Pacific Ocean,28.1
+2160,138,DCM,0.8 to 5,332,4.5199999999999994e-08,dsyb,North Pacific Ocean,45.199999999999996
+2161,138,DCM,0.8 to 5,166,6.76e-08,dsyb,North Pacific Ocean,67.6
+2162,138,DCM,0.8 to 5,36,1.5e-07,dsyb,North Pacific Ocean,150.0
+2163,138,DCM,0.8 to 5,58,4.93e-08,dsyb,North Pacific Ocean,49.3
+2164,152,SRF,20 to 180,59,1.78e-07,dsyb,North Atlantic Ocean,178.0
+2165,152,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+2166,152,SRF,20 to 180,35,0.0,dsyb,North Atlantic Ocean,0.0
+2167,143,DCM,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+2168,143,DCM,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2169,143,DCM,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+2170,150,DCM,0.8 to 5,44,2.65e-07,dsyb,North Atlantic Ocean,265.0
+2171,150,DCM,0.8 to 5,178,0.0,dsyb,North Atlantic Ocean,0.0
+2172,150,DCM,0.8 to 5,66,2.25e-07,dsyb,North Atlantic Ocean,225.0
+2173,150,DCM,0.8 to 5,2743,4.46e-08,dsyb,North Atlantic Ocean,44.6
+2174,150,DCM,0.8 to 5,179,7.96e-08,dsyb,North Atlantic Ocean,79.6
+2175,150,DCM,0.8 to 5,188,3.4500000000000005e-08,dsyb,North Atlantic Ocean,34.50000000000001
+2176,150,DCM,0.8 to 5,166,2.01e-07,dsyb,North Atlantic Ocean,201.0
+2177,150,DCM,0.8 to 5,36,9.59e-08,dsyb,North Atlantic Ocean,95.9
+2178,150,DCM,0.8 to 5,58,3.04e-08,dsyb,North Atlantic Ocean,30.400000000000002
+2179,22,SRF,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+2180,22,SRF,20 to 180,35,0.0,dsyb,Mediterranean Sea,0.0
+2181,26,SRF,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+2182,93,DCM,0.8 to 5,166,2.23e-07,dsyb,South Pacific Ocean,223.0
+2183,93,DCM,0.8 to 5,36,0.0,dsyb,South Pacific Ocean,0.0
+2184,93,DCM,0.8 to 5,188,3.75e-08,dsyb,South Pacific Ocean,37.5
+2185,93,DCM,0.8 to 5,74,0.0,dsyb,South Pacific Ocean,0.0
+2186,93,DCM,0.8 to 5,67,0.0,dsyb,South Pacific Ocean,0.0
+2187,93,DCM,0.8 to 5,58,5.49e-08,dsyb,South Pacific Ocean,54.9
+2188,93,DCM,0.8 to 5,13,6.49e-08,dsyb,South Pacific Ocean,64.9
+2189,93,DCM,0.8 to 5,44,3.7799999999999997e-07,dsyb,South Pacific Ocean,377.99999999999994
+2190,93,DCM,0.8 to 5,179,1.04e-07,dsyb,South Pacific Ocean,104.0
+2191,93,DCM,0.8 to 5,332,4.07e-08,dsyb,South Pacific Ocean,40.7
+2192,138,SRF,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+2193,138,SRF,20 to 180,44,4.3099999999999996e-08,dsyb,North Pacific Ocean,43.099999999999994
+2194,131,SRF,180 to 2000,2493,0.0,dsyb,North Pacific Ocean,0.0
+2195,131,SRF,180 to 2000,38,3.2e-08,dsyb,North Pacific Ocean,32.0
+2196,66,SRF,20 to 180,12,0.0,dsyb,South Atlantic Ocean,0.0
+2197,66,SRF,20 to 180,36,0.0,dsyb,South Atlantic Ocean,0.0
+2198,66,SRF,20 to 180,59,3.1299999999999996e-08,dsyb,South Atlantic Ocean,31.299999999999997
+2199,128,DCM,180 to 2000,332,1.85e-07,dsyb,North Pacific Ocean,185.0
+2200,128,DCM,180 to 2000,44,1.44e-06,dsyb,North Pacific Ocean,1440.0
+2201,136,SRF,180 to 2000,332,7.92e-08,dsyb,North Pacific Ocean,79.19999999999999
+2202,136,SRF,180 to 2000,44,5.49e-07,dsyb,North Pacific Ocean,549.0
+2203,147,SRF,5 to 20,12,0.0,dsyb,North Atlantic Ocean,0.0
+2204,147,SRF,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2205,147,SRF,5 to 20,1580,0.0,dsyb,North Atlantic Ocean,0.0
+2206,147,SRF,5 to 20,1255,3.38e-08,dsyb,North Atlantic Ocean,33.8
+2207,123,SRF,5 to 20,44,2.5399999999999997e-07,dsyb,South Pacific Ocean,253.99999999999997
+2208,123,SRF,5 to 20,1580,0.0,dsyb,South Pacific Ocean,0.0
+2209,123,SRF,5 to 20,58,5e-08,dsyb,South Pacific Ocean,50.0
+2210,123,SRF,5 to 20,76,3.3e-08,dsyb,South Pacific Ocean,33.0
+2211,123,SRF,5 to 20,1255,2.92e-08,dsyb,South Pacific Ocean,29.2
+2212,65,SRF,0.8 to 5,179,4.91e-08,dsyb,Indian Ocean,49.1
+2213,65,SRF,0.8 to 5,2743,5.68e-08,dsyb,Indian Ocean,56.8
+2214,65,SRF,0.8 to 5,76,8.59e-08,dsyb,Indian Ocean,85.89999999999999
+2215,65,SRF,0.8 to 5,66,2.14e-06,dsyb,Indian Ocean,2140.0
+2216,65,SRF,0.8 to 5,13,7.82e-08,dsyb,Indian Ocean,78.2
+2217,65,SRF,0.8 to 5,24,2.66e-08,dsyb,Indian Ocean,26.6
+2218,65,SRF,0.8 to 5,178,0.0,dsyb,Indian Ocean,0.0
+2219,65,SRF,0.8 to 5,44,4.9699999999999995e-08,dsyb,Indian Ocean,49.699999999999996
+2220,65,SRF,0.8 to 5,4,3.58e-08,dsyb,Indian Ocean,35.800000000000004
+2221,65,SRF,0.8 to 5,58,8.58e-08,dsyb,Indian Ocean,85.8
+2222,65,SRF,0.8 to 5,67,0.0,dsyb,Indian Ocean,0.0
+2223,65,SRF,0.8 to 5,166,1.14e-07,dsyb,Indian Ocean,114.0
+2224,65,SRF,0.8 to 5,36,1.8899999999999999e-07,dsyb,Indian Ocean,188.99999999999997
+2225,65,SRF,0.8 to 5,225,9.44e-08,dsyb,Indian Ocean,94.39999999999999
+2226,136,SRF,5 to 20,44,3.05e-07,dsyb,North Pacific Ocean,305.0
+2227,136,SRF,5 to 20,332,3.49e-08,dsyb,North Pacific Ocean,34.9
+2228,136,SRF,5 to 20,46,0.0,dsyb,North Pacific Ocean,0.0
+2229,136,SRF,5 to 20,1580,0.0,dsyb,North Pacific Ocean,0.0
+2230,143,DCM,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2231,143,DCM,5 to 20,46,0.0,dsyb,North Atlantic Ocean,0.0
+2232,143,DCM,5 to 20,1580,0.0,dsyb,North Atlantic Ocean,0.0
+2233,72,DCM,180 to 2000,38,1.4e-07,dsyb,South Atlantic Ocean,140.0
+2234,122,SRF,5 to 20,58,1.92e-07,dsyb,South Pacific Ocean,192.0
+2235,122,SRF,5 to 20,44,6.35e-07,dsyb,South Pacific Ocean,635.0
+2236,18,SRF,0.8 to 5,66,5.19e-07,dsyb,Mediterranean Sea,519.0
+2237,18,SRF,0.8 to 5,178,0.0,dsyb,Mediterranean Sea,0.0
+2238,18,SRF,0.8 to 5,13,2.7600000000000004e-07,dsyb,Mediterranean Sea,276.00000000000006
+2239,18,SRF,0.8 to 5,36,1.71e-06,dsyb,Mediterranean Sea,1710.0
+2240,102,DCM,5 to 20,44,4.53e-07,dsyb,South Pacific Ocean,453.0
+2241,81,SRF,20 to 180,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2242,81,SRF,20 to 180,1580,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2243,81,SRF,20 to 180,13,2.8999999999999998e-08,dsyb,Southern Ocean (S of 40S),29.0
+2244,92,SRF,0.8 to 5,13,8.3e-08,dsyb,South Pacific Ocean,83.0
+2245,92,SRF,0.8 to 5,44,8.25e-08,dsyb,South Pacific Ocean,82.5
+2246,92,SRF,0.8 to 5,112,0.0,dsyb,South Pacific Ocean,0.0
+2247,92,SRF,0.8 to 5,58,2.53e-07,dsyb,South Pacific Ocean,253.0
+2248,92,SRF,0.8 to 5,4,1.0099999999999999e-07,dsyb,South Pacific Ocean,100.99999999999999
+2249,92,SRF,0.8 to 5,66,3.24e-08,dsyb,South Pacific Ocean,32.4
+2250,135,SRF,20 to 180,179,5.870000000000001e-07,dsyb,North Pacific Ocean,587.0
+2251,135,SRF,20 to 180,58,2.01e-07,dsyb,North Pacific Ocean,201.0
+2252,135,SRF,20 to 180,188,3.39e-07,dsyb,North Pacific Ocean,339.0
+2253,135,SRF,20 to 180,166,9.159999999999999e-07,dsyb,North Pacific Ocean,915.9999999999999
+2254,135,SRF,20 to 180,24,1.57e-07,dsyb,North Pacific Ocean,157.0
+2255,135,SRF,20 to 180,44,3.97e-07,dsyb,North Pacific Ocean,397.0
+2256,135,SRF,20 to 180,59,1.57e-07,dsyb,North Pacific Ocean,157.0
+2257,39,SRF,20 to 180,166,9.53e-08,dsyb,Indian Ocean,95.3
+2258,39,SRF,20 to 180,179,7.67e-08,dsyb,Indian Ocean,76.7
+2259,146,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2260,146,SRF,180 to 2000,38,2.5299999999999998e-08,dsyb,North Atlantic Ocean,25.299999999999997
+2261,145,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2262,145,SRF,180 to 2000,1255,2.8999999999999998e-08,dsyb,North Atlantic Ocean,29.0
+2263,145,SRF,180 to 2000,38,2.9500000000000003e-08,dsyb,North Atlantic Ocean,29.500000000000004
+2264,145,SRF,180 to 2000,747,2.57e-08,dsyb,North Atlantic Ocean,25.7
+2265,111,DCM,0.8 to 5,44,6.88e-07,dsyb,South Pacific Ocean,688.0
+2266,111,DCM,0.8 to 5,332,1.67e-07,dsyb,South Pacific Ocean,167.0
+2267,111,DCM,0.8 to 5,58,0.0,dsyb,South Pacific Ocean,0.0
+2268,38,DCM,0.8 to 5,332,1.08e-07,dsyb,Indian Ocean,108.0
+2269,38,DCM,0.8 to 5,2743,2.48e-08,dsyb,Indian Ocean,24.8
+2270,38,DCM,0.8 to 5,179,1.13e-05,dsyb,Indian Ocean,11300.0
+2271,38,DCM,0.8 to 5,66,1.46e-06,dsyb,Indian Ocean,1460.0
+2272,38,DCM,0.8 to 5,44,2.35e-06,dsyb,Indian Ocean,2350.0
+2273,38,DCM,0.8 to 5,178,0.0,dsyb,Indian Ocean,0.0
+2274,38,DCM,0.8 to 5,58,7.76e-08,dsyb,Indian Ocean,77.6
+2275,38,DCM,0.8 to 5,188,1.97e-07,dsyb,Indian Ocean,197.0
+2276,38,DCM,0.8 to 5,36,0.0,dsyb,Indian Ocean,0.0
+2277,38,DCM,0.8 to 5,166,3.16e-05,dsyb,Indian Ocean,31600.000000000004
+2278,7,DCM,20 to 180,46,0.0,dsyb,Mediterranean Sea,0.0
+2279,64,SRF,5 to 20,1580,0.0,dsyb,Indian Ocean,0.0
+2280,65,SRF,180 to 2000,166,3.44e-08,dsyb,Indian Ocean,34.4
+2281,65,SRF,180 to 2000,2493,0.0,dsyb,Indian Ocean,0.0
+2282,65,SRF,180 to 2000,38,3.5e-08,dsyb,Indian Ocean,35.0
+2283,65,SRF,180 to 2000,58,1.94e-08,dsyb,Indian Ocean,19.4
+2284,66,SRF,0.8 to 5,36,0.0,dsyb,South Atlantic Ocean,0.0
+2285,66,SRF,0.8 to 5,44,4e-07,dsyb,South Atlantic Ocean,400.0
+2286,66,SRF,0.8 to 5,178,0.0,dsyb,South Atlantic Ocean,0.0
+2287,66,SRF,0.8 to 5,66,1.99e-07,dsyb,South Atlantic Ocean,199.0
+2288,98,SRF,180 to 2000,2493,0.0,dsyb,South Pacific Ocean,0.0
+2289,131,DCM,20 to 180,44,3.83e-08,dsyb,North Pacific Ocean,38.3
+2290,131,DCM,20 to 180,12,0.0,dsyb,North Pacific Ocean,0.0
+2291,131,DCM,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+2292,131,DCM,20 to 180,179,6.79e-08,dsyb,North Pacific Ocean,67.9
+2293,100,SRF,180 to 2000,58,2.19e-08,dsyb,South Pacific Ocean,21.900000000000002
+2294,100,SRF,180 to 2000,2493,0.0,dsyb,South Pacific Ocean,0.0
+2295,100,SRF,180 to 2000,44,1.34e-07,dsyb,South Pacific Ocean,134.0
+2296,7,DCM,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+2297,80,SRF,0.8 to 5,36,5.11e-08,dsyb,Southern Ocean (S of 40S),51.1
+2298,80,SRF,0.8 to 5,178,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2299,80,SRF,0.8 to 5,29,3.95e-06,dsyb,Southern Ocean (S of 40S),3950.0000000000005
+2300,80,SRF,0.8 to 5,66,9.99e-08,dsyb,Southern Ocean (S of 40S),99.9
+2301,150,SRF,180 to 2000,38,3.2799999999999996e-08,dsyb,North Atlantic Ocean,32.8
+2302,150,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2303,142,DCM,180 to 2000,38,4.5e-08,dsyb,North Atlantic Ocean,45.0
+2304,142,DCM,180 to 2000,46,0.0,dsyb,North Atlantic Ocean,0.0
+2305,7,SRF,20 to 180,46,0.0,dsyb,Mediterranean Sea,0.0
+2306,128,SRF,0.8 to 5,58,5.51e-08,dsyb,North Pacific Ocean,55.099999999999994
+2307,128,SRF,0.8 to 5,166,2.23e-07,dsyb,North Pacific Ocean,223.0
+2308,128,SRF,0.8 to 5,36,5.03e-08,dsyb,North Pacific Ocean,50.3
+2309,128,SRF,0.8 to 5,225,3.5699999999999995e-08,dsyb,North Pacific Ocean,35.699999999999996
+2310,128,SRF,0.8 to 5,179,8.84e-08,dsyb,North Pacific Ocean,88.39999999999999
+2311,128,SRF,0.8 to 5,2743,3.88e-08,dsyb,North Pacific Ocean,38.8
+2312,128,SRF,0.8 to 5,66,4.06e-07,dsyb,North Pacific Ocean,406.0
+2313,128,SRF,0.8 to 5,44,6.63e-06,dsyb,North Pacific Ocean,6630.0
+2314,25,DCM,20 to 180,35,0.0,dsyb,Mediterranean Sea,0.0
+2315,25,DCM,20 to 180,59,2.8300000000000002e-08,dsyb,Mediterranean Sea,28.3
+2316,25,DCM,20 to 180,44,2.25e-08,dsyb,Mediterranean Sea,22.5
+2317,25,DCM,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+2318,38,DCM,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+2319,38,DCM,20 to 180,179,7.07e-08,dsyb,Indian Ocean,70.7
+2320,38,DCM,20 to 180,44,3.96e-08,dsyb,Indian Ocean,39.599999999999994
+2321,38,DCM,20 to 180,188,5.76e-08,dsyb,Indian Ocean,57.6
+2322,38,DCM,20 to 180,166,3.2200000000000005e-07,dsyb,Indian Ocean,322.00000000000006
+2323,38,DCM,20 to 180,12,0.0,dsyb,Indian Ocean,0.0
+2324,25,SRF,0.8 to 5,36,1.0199999999999999e-07,dsyb,Mediterranean Sea,101.99999999999999
+2325,142,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+2326,142,SRF,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+2327,142,SRF,20 to 180,58,0.0,dsyb,North Atlantic Ocean,0.0
+2328,7,SRF,0.8 to 5,66,6.67e-08,dsyb,Mediterranean Sea,66.69999999999999
+2329,7,SRF,0.8 to 5,36,0.0,dsyb,Mediterranean Sea,0.0
+2330,148,SRF,20 to 180,38,2.7e-08,dsyb,North Atlantic Ocean,27.0
+2331,148,SRF,20 to 180,66,2.46e-08,dsyb,North Atlantic Ocean,24.599999999999998
+2332,148,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+2333,148,SRF,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2334,70,SRF,0.8 to 5,36,3.78e-08,dsyb,South Atlantic Ocean,37.800000000000004
+2335,70,SRF,0.8 to 5,44,5.85e-07,dsyb,South Atlantic Ocean,585.0
+2336,70,SRF,0.8 to 5,332,1.49e-07,dsyb,South Atlantic Ocean,149.0
+2337,70,SRF,0.8 to 5,66,2.1e-07,dsyb,South Atlantic Ocean,210.0
+2338,70,SRF,0.8 to 5,58,3.14e-08,dsyb,South Atlantic Ocean,31.400000000000002
+2339,9,DCM,0.8 to 5,166,2.3399999999999998e-07,dsyb,Mediterranean Sea,233.99999999999997
+2340,9,DCM,0.8 to 5,36,3.69e-07,dsyb,Mediterranean Sea,369.0
+2341,9,DCM,0.8 to 5,58,1.0300000000000001e-07,dsyb,Mediterranean Sea,103.00000000000001
+2342,9,DCM,0.8 to 5,24,1.36e-07,dsyb,Mediterranean Sea,136.0
+2343,9,DCM,0.8 to 5,44,1.09e-06,dsyb,Mediterranean Sea,1090.0
+2344,9,DCM,0.8 to 5,178,0.0,dsyb,Mediterranean Sea,0.0
+2345,9,DCM,0.8 to 5,179,9.02e-08,dsyb,Mediterranean Sea,90.2
+2346,9,DCM,0.8 to 5,66,9.56e-07,dsyb,Mediterranean Sea,956.0
+2347,145,SRF,0.8 to 5,44,5.75e-08,dsyb,North Atlantic Ocean,57.5
+2348,145,SRF,0.8 to 5,13,1.8399999999999998e-07,dsyb,North Atlantic Ocean,183.99999999999997
+2349,145,SRF,0.8 to 5,66,4.03e-07,dsyb,North Atlantic Ocean,403.0
+2350,145,SRF,0.8 to 5,225,5.11e-08,dsyb,North Atlantic Ocean,51.1
+2351,145,SRF,0.8 to 5,36,3.34e-07,dsyb,North Atlantic Ocean,334.0
+2352,145,SRF,0.8 to 5,1255,4.32e-08,dsyb,North Atlantic Ocean,43.2
+2353,145,SRF,0.8 to 5,4,7.06e-07,dsyb,North Atlantic Ocean,706.0
+2354,145,SRF,0.8 to 5,58,1.7699999999999998e-07,dsyb,North Atlantic Ocean,176.99999999999997
+2355,145,SRF,0.8 to 5,67,0.0,dsyb,North Atlantic Ocean,0.0
+2356,145,SRF,0.8 to 5,747,2.3600000000000002e-07,dsyb,North Atlantic Ocean,236.00000000000003
+2357,111,DCM,20 to 180,46,0.0,dsyb,South Pacific Ocean,0.0
+2358,111,DCM,20 to 180,332,2.66e-08,dsyb,South Pacific Ocean,26.6
+2359,111,DCM,20 to 180,44,1.75e-07,dsyb,South Pacific Ocean,175.0
+2360,111,DCM,20 to 180,2493,0.0,dsyb,South Pacific Ocean,0.0
+2361,111,DCM,20 to 180,12,0.0,dsyb,South Pacific Ocean,0.0
+2362,151,DCM,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2363,68,SRF,5 to 20,1580,0.0,dsyb,South Atlantic Ocean,0.0
+2364,68,SRF,5 to 20,58,2.7200000000000002e-08,dsyb,South Atlantic Ocean,27.200000000000003
+2365,68,SRF,5 to 20,1255,3.85e-08,dsyb,South Atlantic Ocean,38.5
+2366,68,SRF,5 to 20,44,8.86e-08,dsyb,South Atlantic Ocean,88.6
+2367,68,SRF,5 to 20,12,0.0,dsyb,South Atlantic Ocean,0.0
+2368,123,SRF,20 to 180,2493,0.0,dsyb,South Pacific Ocean,0.0
+2369,123,SRF,20 to 180,44,3.5899999999999997e-07,dsyb,South Pacific Ocean,359.0
+2370,84,SRF,180 to 2000,13,4.61e-06,dsyb,Southern Ocean (S of 40S),4610.0
+2371,84,SRF,180 to 2000,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2372,84,SRF,180 to 2000,74,5.29e-07,dsyb,Southern Ocean (S of 40S),529.0
+2373,84,SRF,180 to 2000,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2374,84,SRF,180 to 2000,4,3.71e-06,dsyb,Southern Ocean (S of 40S),3710.0
+2375,84,SRF,180 to 2000,67,8.47e-07,dsyb,Southern Ocean (S of 40S),847.0
+2376,84,SRF,180 to 2000,30,1.1800000000000001e-07,dsyb,Southern Ocean (S of 40S),118.00000000000001
+2377,64,DCM,20 to 180,12,0.0,dsyb,Indian Ocean,0.0
+2378,64,DCM,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+2379,65,DCM,5 to 20,58,0.0,dsyb,Indian Ocean,0.0
+2380,65,DCM,5 to 20,66,3.34e-08,dsyb,Indian Ocean,33.4
+2381,65,DCM,5 to 20,178,0.0,dsyb,Indian Ocean,0.0
+2382,149,SRF,20 to 180,46,0.0,dsyb,North Atlantic Ocean,0.0
+2383,149,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+2384,149,SRF,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2385,22,DCM,0.8 to 5,2743,2.58e-08,dsyb,Mediterranean Sea,25.8
+2386,22,DCM,0.8 to 5,66,3.49e-08,dsyb,Mediterranean Sea,34.9
+2387,22,DCM,0.8 to 5,12,0.0,dsyb,Mediterranean Sea,0.0
+2388,22,DCM,0.8 to 5,24,2.58e-08,dsyb,Mediterranean Sea,25.8
+2389,22,DCM,0.8 to 5,36,1.2e-07,dsyb,Mediterranean Sea,119.99999999999999
+2390,22,DCM,0.8 to 5,44,2.77e-08,dsyb,Mediterranean Sea,27.7
+2391,70,SRF,180 to 2000,46,0.0,dsyb,South Atlantic Ocean,0.0
+2392,70,SRF,180 to 2000,44,3.07e-08,dsyb,South Atlantic Ocean,30.699999999999996
+2393,70,SRF,180 to 2000,2493,0.0,dsyb,South Atlantic Ocean,0.0
+2394,78,SRF,20 to 180,178,0.0,dsyb,South Atlantic Ocean,0.0
+2395,78,SRF,20 to 180,29,6.12e-08,dsyb,South Atlantic Ocean,61.2
+2396,78,SRF,20 to 180,12,0.0,dsyb,South Atlantic Ocean,0.0
+2397,41,SRF,180 to 2000,44,1.74e-07,dsyb,Indian Ocean,174.0
+2398,25,DCM,0.8 to 5,178,0.0,dsyb,Mediterranean Sea,0.0
+2399,25,DCM,0.8 to 5,225,5.89e-08,dsyb,Mediterranean Sea,58.9
+2400,25,DCM,0.8 to 5,36,9.8e-08,dsyb,Mediterranean Sea,98.0
+2401,25,DCM,0.8 to 5,66,1.94e-07,dsyb,Mediterranean Sea,194.0
+2402,39,DCM,20 to 180,166,2.63e-08,dsyb,Indian Ocean,26.3
+2403,68,DCM,5 to 20,12,0.0,dsyb,South Atlantic Ocean,0.0
+2404,68,DCM,5 to 20,44,2.56e-08,dsyb,South Atlantic Ocean,25.6
+2405,98,DCM,5 to 20,44,1.73e-07,dsyb,South Pacific Ocean,173.0
+2406,82,SRF,5 to 20,13,3.91e-06,dsyb,Southern Ocean (S of 40S),3910.0
+2407,82,SRF,5 to 20,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2408,82,SRF,5 to 20,74,4.26e-08,dsyb,Southern Ocean (S of 40S),42.599999999999994
+2409,82,SRF,5 to 20,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2410,82,SRF,5 to 20,4,4.96e-07,dsyb,Southern Ocean (S of 40S),496.0
+2411,82,SRF,5 to 20,30,1.0699999999999999e-07,dsyb,Southern Ocean (S of 40S),106.99999999999999
+2412,82,SRF,5 to 20,67,3.78e-08,dsyb,Southern Ocean (S of 40S),37.800000000000004
+2413,85,DCM,0.8 to 5,13,1.0300000000000001e-07,dsyb,Southern Ocean (S of 40S),103.00000000000001
+2414,85,DCM,0.8 to 5,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2415,85,DCM,0.8 to 5,74,7.21e-08,dsyb,Southern Ocean (S of 40S),72.10000000000001
+2416,85,DCM,0.8 to 5,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2417,85,DCM,0.8 to 5,4,1.18e-06,dsyb,Southern Ocean (S of 40S),1180.0
+2418,85,DCM,0.8 to 5,67,1.67e-07,dsyb,Southern Ocean (S of 40S),167.0
+2419,85,DCM,0.8 to 5,30,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2420,110,SRF,5 to 20,44,4.8e-07,dsyb,South Pacific Ocean,479.99999999999994
+2421,110,SRF,5 to 20,332,4.7800000000000005e-08,dsyb,South Pacific Ocean,47.800000000000004
+2422,110,SRF,5 to 20,46,0.0,dsyb,South Pacific Ocean,0.0
+2423,125,SRF,5 to 20,2493,0.0,dsyb,South Pacific Ocean,0.0
+2424,125,SRF,5 to 20,44,1.01e-06,dsyb,South Pacific Ocean,1010.0000000000001
+2425,125,SRF,5 to 20,58,7.16e-08,dsyb,South Pacific Ocean,71.60000000000001
+2426,125,SRF,5 to 20,1580,0.0,dsyb,South Pacific Ocean,0.0
+2427,109,SRF,5 to 20,36,0.0,dsyb,North Pacific Ocean,0.0
+2428,109,SRF,5 to 20,166,1.0900000000000001e-07,dsyb,North Pacific Ocean,109.00000000000001
+2429,109,SRF,5 to 20,44,7.990000000000001e-07,dsyb,North Pacific Ocean,799.0000000000001
+2430,109,SRF,5 to 20,179,4.87e-08,dsyb,North Pacific Ocean,48.7
+2431,109,SRF,5 to 20,1580,0.0,dsyb,North Pacific Ocean,0.0
+2432,109,SRF,5 to 20,58,3.67e-08,dsyb,North Pacific Ocean,36.699999999999996
+2433,147,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+2434,147,SRF,20 to 180,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2435,36,SRF,0.8 to 5,44,1.29e-07,dsyb,Indian Ocean,129.0
+2436,36,SRF,0.8 to 5,36,3.2200000000000004e-08,dsyb,Indian Ocean,32.2
+2437,36,SRF,0.8 to 5,166,2.32e-06,dsyb,Indian Ocean,2320.0
+2438,36,SRF,0.8 to 5,46,0.0,dsyb,Indian Ocean,0.0
+2439,36,SRF,0.8 to 5,58,0.0,dsyb,Indian Ocean,0.0
+2440,36,SRF,0.8 to 5,66,3.6299999999999995e-07,dsyb,Indian Ocean,362.99999999999994
+2441,36,SRF,0.8 to 5,179,9.159999999999999e-07,dsyb,Indian Ocean,915.9999999999999
+2442,138,SRF,5 to 20,44,9.18e-08,dsyb,North Pacific Ocean,91.8
+2443,143,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2444,143,SRF,180 to 2000,38,5.2300000000000005e-08,dsyb,North Atlantic Ocean,52.300000000000004
+2445,136,SRF,20 to 180,44,1.51e-07,dsyb,North Pacific Ocean,151.0
+2446,136,SRF,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+2447,82,DCM,180 to 2000,67,7.1e-08,dsyb,Southern Ocean (S of 40S),71.0
+2448,82,DCM,180 to 2000,30,2.22e-07,dsyb,Southern Ocean (S of 40S),222.0
+2449,82,DCM,180 to 2000,4,8.04e-07,dsyb,Southern Ocean (S of 40S),804.0
+2450,82,DCM,180 to 2000,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2451,82,DCM,180 to 2000,74,4.56e-08,dsyb,Southern Ocean (S of 40S),45.6
+2452,82,DCM,180 to 2000,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2453,82,DCM,180 to 2000,13,3.78e-06,dsyb,Southern Ocean (S of 40S),3780.0
+2454,22,DCM,180 to 2000,35,0.0,dsyb,Mediterranean Sea,0.0
+2455,51,SRF,0.8 to 5,2743,9.55e-08,dsyb,Indian Ocean,95.5
+2456,51,SRF,0.8 to 5,66,2.3600000000000002e-07,dsyb,Indian Ocean,236.00000000000003
+2457,51,SRF,0.8 to 5,36,8.93e-08,dsyb,Indian Ocean,89.3
+2458,51,SRF,0.8 to 5,29,4.7600000000000003e-07,dsyb,Indian Ocean,476.0
+2459,18,DCM,5 to 20,24,1.33e-07,dsyb,Mediterranean Sea,133.0
+2460,18,DCM,5 to 20,36,0.0,dsyb,Mediterranean Sea,0.0
+2461,18,DCM,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+2462,18,DCM,5 to 20,46,0.0,dsyb,Mediterranean Sea,0.0
+2463,109,DCM,0.8 to 5,332,9.1e-08,dsyb,North Pacific Ocean,91.0
+2464,109,DCM,0.8 to 5,2743,1.2099999999999998e-07,dsyb,North Pacific Ocean,120.99999999999999
+2465,109,DCM,0.8 to 5,179,3.16e-08,dsyb,North Pacific Ocean,31.599999999999998
+2466,109,DCM,0.8 to 5,66,9.51e-08,dsyb,North Pacific Ocean,95.1
+2467,109,DCM,0.8 to 5,44,2.6e-06,dsyb,North Pacific Ocean,2600.0
+2468,109,DCM,0.8 to 5,46,0.0,dsyb,North Pacific Ocean,0.0
+2469,109,DCM,0.8 to 5,58,3.96e-08,dsyb,North Pacific Ocean,39.599999999999994
+2470,109,DCM,0.8 to 5,36,3.0499999999999995e-08,dsyb,North Pacific Ocean,30.499999999999996
+2471,109,DCM,0.8 to 5,166,1.2699999999999999e-07,dsyb,North Pacific Ocean,126.99999999999999
+2472,30,SRF,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+2473,98,DCM,20 to 180,12,0.0,dsyb,South Pacific Ocean,0.0
+2474,98,DCM,20 to 180,2493,0.0,dsyb,South Pacific Ocean,0.0
+2475,98,DCM,20 to 180,112,0.0,dsyb,South Pacific Ocean,0.0
+2476,98,DCM,20 to 180,4,0.0,dsyb,South Pacific Ocean,0.0
+2477,83,SRF,180 to 2000,13,4.6399999999999997e-07,dsyb,Southern Ocean (S of 40S),464.0
+2478,83,SRF,180 to 2000,4,2.8e-07,dsyb,Southern Ocean (S of 40S),280.0
+2479,83,SRF,180 to 2000,67,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2480,83,SRF,180 to 2000,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2481,78,SRF,180 to 2000,2493,0.0,dsyb,South Atlantic Ocean,0.0
+2482,78,SRF,180 to 2000,38,2.94e-08,dsyb,South Atlantic Ocean,29.4
+2483,131,SRF,20 to 180,44,4.51e-08,dsyb,North Pacific Ocean,45.1
+2484,131,SRF,20 to 180,46,0.0,dsyb,North Pacific Ocean,0.0
+2485,102,DCM,0.8 to 5,44,4.11e-06,dsyb,South Pacific Ocean,4110.0
+2486,102,DCM,0.8 to 5,178,0.0,dsyb,South Pacific Ocean,0.0
+2487,102,DCM,0.8 to 5,66,2.4e-07,dsyb,South Pacific Ocean,239.99999999999997
+2488,102,DCM,0.8 to 5,332,4.43e-07,dsyb,South Pacific Ocean,443.0
+2489,102,DCM,0.8 to 5,2743,2.25e-08,dsyb,South Pacific Ocean,22.5
+2490,102,DCM,0.8 to 5,179,7.780000000000001e-08,dsyb,South Pacific Ocean,77.80000000000001
+2491,102,DCM,0.8 to 5,188,4.8099999999999994e-08,dsyb,South Pacific Ocean,48.099999999999994
+2492,102,DCM,0.8 to 5,36,0.0,dsyb,South Pacific Ocean,0.0
+2493,102,DCM,0.8 to 5,166,1.6300000000000002e-07,dsyb,South Pacific Ocean,163.00000000000003
+2494,102,DCM,0.8 to 5,58,0.0,dsyb,South Pacific Ocean,0.0
+2495,18,SRF,5 to 20,12,0.0,dsyb,Mediterranean Sea,0.0
+2496,151,SRF,5 to 20,46,0.0,dsyb,North Atlantic Ocean,0.0
+2497,151,SRF,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2498,151,SRF,5 to 20,12,0.0,dsyb,North Atlantic Ocean,0.0
+2499,11,SRF,5 to 20,66,6.7e-08,dsyb,Mediterranean Sea,67.0
+2500,102,SRF,0.8 to 5,44,1.4099999999999999e-05,dsyb,South Pacific Ocean,14099.999999999998
+2501,102,SRF,0.8 to 5,332,2.43e-07,dsyb,South Pacific Ocean,243.0
+2502,102,SRF,0.8 to 5,58,3.76e-08,dsyb,South Pacific Ocean,37.6
+2503,83,SRF,0.8 to 5,13,1.13e-05,dsyb,Southern Ocean (S of 40S),11300.0
+2504,83,SRF,0.8 to 5,66,1.26e-07,dsyb,Southern Ocean (S of 40S),125.99999999999999
+2505,83,SRF,0.8 to 5,30,8.55e-08,dsyb,Southern Ocean (S of 40S),85.5
+2506,83,SRF,0.8 to 5,85,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2507,83,SRF,0.8 to 5,74,8.64e-08,dsyb,Southern Ocean (S of 40S),86.4
+2508,83,SRF,0.8 to 5,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2509,83,SRF,0.8 to 5,747,6.47e-08,dsyb,Southern Ocean (S of 40S),64.7
+2510,83,SRF,0.8 to 5,4,1.6899999999999997e-05,dsyb,Southern Ocean (S of 40S),16899.999999999996
+2511,83,SRF,0.8 to 5,67,5.87e-06,dsyb,Southern Ocean (S of 40S),5870.0
+2512,83,SRF,0.8 to 5,58,1.13e-06,dsyb,Southern Ocean (S of 40S),1130.0
+2513,84,SRF,5 to 20,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2514,84,SRF,5 to 20,4,3.19e-07,dsyb,Southern Ocean (S of 40S),319.0
+2515,84,SRF,5 to 20,30,1.6399999999999999e-07,dsyb,Southern Ocean (S of 40S),164.0
+2516,84,SRF,5 to 20,13,6.24e-07,dsyb,Southern Ocean (S of 40S),624.0
+2517,84,SRF,5 to 20,74,1.45e-07,dsyb,Southern Ocean (S of 40S),145.0
+2518,84,SRF,5 to 20,44,6.06e-08,dsyb,Southern Ocean (S of 40S),60.6
+2519,25,SRF,20 to 180,12,0.0,dsyb,Mediterranean Sea,0.0
+2520,25,SRF,20 to 180,46,0.0,dsyb,Mediterranean Sea,0.0
+2521,25,SRF,20 to 180,38,3.15e-08,dsyb,Mediterranean Sea,31.499999999999996
+2522,150,SRF,5 to 20,166,5.2e-08,dsyb,North Atlantic Ocean,52.0
+2523,150,SRF,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2524,150,SRF,5 to 20,1580,0.0,dsyb,North Atlantic Ocean,0.0
+2525,150,SRF,5 to 20,1255,1.1699999999999999e-07,dsyb,North Atlantic Ocean,116.99999999999999
+2526,150,SRF,5 to 20,66,3.2e-08,dsyb,North Atlantic Ocean,32.0
+2527,136,SRF,0.8 to 5,58,8.339999999999999e-08,dsyb,North Pacific Ocean,83.39999999999999
+2528,136,SRF,0.8 to 5,36,3.69e-08,dsyb,North Pacific Ocean,36.9
+2529,136,SRF,0.8 to 5,166,7.44e-08,dsyb,North Pacific Ocean,74.4
+2530,136,SRF,0.8 to 5,225,4.58e-08,dsyb,North Pacific Ocean,45.8
+2531,136,SRF,0.8 to 5,179,2.98e-08,dsyb,North Pacific Ocean,29.799999999999997
+2532,136,SRF,0.8 to 5,2743,2.5899999999999997e-08,dsyb,North Pacific Ocean,25.9
+2533,136,SRF,0.8 to 5,332,4.12e-08,dsyb,North Pacific Ocean,41.199999999999996
+2534,136,SRF,0.8 to 5,66,5.16e-07,dsyb,North Pacific Ocean,516.0
+2535,136,SRF,0.8 to 5,44,2.54e-06,dsyb,North Pacific Ocean,2540.0
+2536,85,DCM,20 to 180,13,1.9e-06,dsyb,Southern Ocean (S of 40S),1900.0
+2537,85,DCM,20 to 180,74,2.3199999999999999e-07,dsyb,Southern Ocean (S of 40S),232.0
+2538,85,DCM,20 to 180,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2539,85,DCM,20 to 180,4,4.05e-06,dsyb,Southern Ocean (S of 40S),4050.0
+2540,85,DCM,20 to 180,67,1.6100000000000003e-07,dsyb,Southern Ocean (S of 40S),161.00000000000003
+2541,85,DCM,20 to 180,30,2.42e-06,dsyb,Southern Ocean (S of 40S),2420.0
+2542,122,SRF,180 to 2000,44,6.9e-07,dsyb,South Pacific Ocean,690.0
+2543,122,SRF,180 to 2000,13,0.0,dsyb,South Pacific Ocean,0.0
+2544,122,SRF,180 to 2000,58,1.3900000000000001e-07,dsyb,South Pacific Ocean,139.0
+2545,122,SRF,180 to 2000,67,0.0,dsyb,South Pacific Ocean,0.0
+2546,122,SRF,180 to 2000,332,6.78e-08,dsyb,South Pacific Ocean,67.8
+2547,52,DCM,0.8 to 5,58,9.31e-08,dsyb,Indian Ocean,93.10000000000001
+2548,52,DCM,0.8 to 5,66,1.7600000000000001e-07,dsyb,Indian Ocean,176.00000000000003
+2549,52,DCM,0.8 to 5,332,1.05e-07,dsyb,Indian Ocean,105.0
+2550,52,DCM,0.8 to 5,179,1.66e-07,dsyb,Indian Ocean,166.0
+2551,52,DCM,0.8 to 5,44,1.1e-06,dsyb,Indian Ocean,1100.0
+2552,52,DCM,0.8 to 5,166,4.46e-07,dsyb,Indian Ocean,446.0
+2553,52,DCM,0.8 to 5,36,5.4e-08,dsyb,Indian Ocean,54.0
+2554,145,SRF,20 to 180,59,8.5e-08,dsyb,North Atlantic Ocean,85.0
+2555,145,SRF,20 to 180,12,0.0,dsyb,North Atlantic Ocean,0.0
+2556,111,SRF,20 to 180,46,0.0,dsyb,South Pacific Ocean,0.0
+2557,111,SRF,20 to 180,44,2.25e-08,dsyb,South Pacific Ocean,22.5
+2558,111,SRF,20 to 180,12,0.0,dsyb,South Pacific Ocean,0.0
+2559,148,SRF,180 to 2000,38,1.06e-07,dsyb,North Atlantic Ocean,106.0
+2560,148,SRF,180 to 2000,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2561,145,SRF,5 to 20,2493,0.0,dsyb,North Atlantic Ocean,0.0
+2562,145,SRF,5 to 20,1255,4.66e-07,dsyb,North Atlantic Ocean,466.0
+2563,145,SRF,5 to 20,58,0.0,dsyb,North Atlantic Ocean,0.0
+2564,78,DCM,20 to 180,46,0.0,dsyb,South Atlantic Ocean,0.0
+2565,78,DCM,20 to 180,178,0.0,dsyb,South Atlantic Ocean,0.0
+2566,78,DCM,20 to 180,12,0.0,dsyb,South Atlantic Ocean,0.0
+2567,100,DCM,0.8 to 5,66,1.48e-07,dsyb,South Pacific Ocean,148.0
+2568,100,DCM,0.8 to 5,58,3.76e-08,dsyb,South Pacific Ocean,37.6
+2569,100,DCM,0.8 to 5,2743,2.57e-08,dsyb,South Pacific Ocean,25.7
+2570,100,DCM,0.8 to 5,332,5.660000000000001e-07,dsyb,South Pacific Ocean,566.0000000000001
+2571,100,DCM,0.8 to 5,225,4.85e-08,dsyb,South Pacific Ocean,48.5
+2572,100,DCM,0.8 to 5,44,1.78e-06,dsyb,South Pacific Ocean,1780.0
+2573,100,DCM,0.8 to 5,36,0.0,dsyb,South Pacific Ocean,0.0
+2574,39,SRF,5 to 20,179,2.23e-07,dsyb,Indian Ocean,223.0
+2575,39,SRF,5 to 20,166,5.64e-07,dsyb,Indian Ocean,564.0
+2576,109,SRF,180 to 2000,44,8.81e-08,dsyb,North Pacific Ocean,88.1
+2577,109,SRF,180 to 2000,166,6.38e-08,dsyb,North Pacific Ocean,63.800000000000004
+2578,109,SRF,180 to 2000,38,2.71e-08,dsyb,North Pacific Ocean,27.1
+2579,109,SRF,180 to 2000,179,2.8199999999999998e-08,dsyb,North Pacific Ocean,28.2
+2580,98,DCM,180 to 2000,2493,0.0,dsyb,South Pacific Ocean,0.0
+2581,98,DCM,180 to 2000,12,0.0,dsyb,South Pacific Ocean,0.0
+2582,98,DCM,180 to 2000,36,7.65e-08,dsyb,South Pacific Ocean,76.5
+2583,51,SRF,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
+2584,85,SRF,180 to 2000,13,1.1400000000000001e-05,dsyb,Southern Ocean (S of 40S),11400.000000000002
+2585,85,SRF,180 to 2000,74,2.04e-06,dsyb,Southern Ocean (S of 40S),2040.0
+2586,85,SRF,180 to 2000,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2587,85,SRF,180 to 2000,67,7.540000000000001e-07,dsyb,Southern Ocean (S of 40S),754.0000000000001
+2588,85,SRF,180 to 2000,30,3.97e-06,dsyb,Southern Ocean (S of 40S),3970.0
+2589,85,SRF,180 to 2000,4,8.62e-06,dsyb,Southern Ocean (S of 40S),8620.0
+2590,85,SRF,20 to 180,13,3.03e-06,dsyb,Southern Ocean (S of 40S),3030.0
+2591,85,SRF,20 to 180,74,3.13e-07,dsyb,Southern Ocean (S of 40S),313.0
+2592,85,SRF,20 to 180,112,0.0,dsyb,Southern Ocean (S of 40S),0.0
+2593,85,SRF,20 to 180,67,2.6e-07,dsyb,Southern Ocean (S of 40S),260.0
+2594,85,SRF,20 to 180,30,6.13e-06,dsyb,Southern Ocean (S of 40S),6130.0
+2595,85,SRF,20 to 180,4,1.04e-05,dsyb,Southern Ocean (S of 40S),10400.0
+2596,128,DCM,0.8 to 5,178,0.0,dsyb,North Pacific Ocean,0.0
+2597,128,DCM,0.8 to 5,44,1.0300000000000001e-05,dsyb,North Pacific Ocean,10300.000000000002
+2598,128,DCM,0.8 to 5,179,1.43e-07,dsyb,North Pacific Ocean,143.0
+2599,128,DCM,0.8 to 5,2743,4.4900000000000005e-08,dsyb,North Pacific Ocean,44.900000000000006
+2600,128,DCM,0.8 to 5,66,1.43e-07,dsyb,North Pacific Ocean,143.0
+2601,128,DCM,0.8 to 5,36,7.23e-08,dsyb,North Pacific Ocean,72.30000000000001
+2602,128,DCM,0.8 to 5,166,3.9899999999999996e-07,dsyb,North Pacific Ocean,398.99999999999994
+2603,128,DCM,0.8 to 5,225,2.4199999999999998e-08,dsyb,North Pacific Ocean,24.2
+2604,128,DCM,0.8 to 5,1255,3.24e-08,dsyb,North Pacific Ocean,32.4
+2605,128,DCM,0.8 to 5,58,2.8300000000000002e-08,dsyb,North Pacific Ocean,28.3
+2606,109,SRF,0.8 to 5,66,1.83e-07,dsyb,North Pacific Ocean,183.0
+2607,109,SRF,0.8 to 5,58,3.25e-08,dsyb,North Pacific Ocean,32.5
+2608,109,SRF,0.8 to 5,179,8.38e-07,dsyb,North Pacific Ocean,838.0
+2609,109,SRF,0.8 to 5,44,2.7600000000000003e-05,dsyb,North Pacific Ocean,27600.000000000004
+2610,109,SRF,0.8 to 5,36,9.400000000000001e-08,dsyb,North Pacific Ocean,94.00000000000001
+2611,109,SRF,0.8 to 5,166,2.09e-06,dsyb,North Pacific Ocean,2090.0
+2612,128,SRF,5 to 20,1255,8.52e-08,dsyb,North Pacific Ocean,85.19999999999999
+2613,128,SRF,5 to 20,332,3.25e-08,dsyb,North Pacific Ocean,32.5
+2614,128,SRF,5 to 20,179,8.890000000000001e-08,dsyb,North Pacific Ocean,88.9
+2615,128,SRF,5 to 20,44,3.89e-07,dsyb,North Pacific Ocean,389.0
+2616,128,SRF,5 to 20,166,1.6399999999999999e-07,dsyb,North Pacific Ocean,164.0
+2617,52,SRF,20 to 180,2493,0.0,dsyb,Indian Ocean,0.0
+2618,52,SRF,20 to 180,44,9.48e-08,dsyb,Indian Ocean,94.8
+2619,52,SRF,20 to 180,13,2.9100000000000002e-08,dsyb,Indian Ocean,29.1
+2620,52,SRF,20 to 180,58,2.62e-08,dsyb,Indian Ocean,26.2
+2621,52,SRF,20 to 180,46,0.0,dsyb,Indian Ocean,0.0
