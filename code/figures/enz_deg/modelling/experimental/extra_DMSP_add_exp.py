@@ -203,5 +203,4 @@ ax.legend(bbox_to_anchor=(1.05, -0.3), title="[DMSP] ($\mu$M)", ncol=3)
 # %%
 #Save figure
 fig.savefig(f'{homedir}/figures/enz_deg/experiments/Alma1_enz_deg_further_DMSP.pdf', bbox_inches='tight')
-
 # %%
