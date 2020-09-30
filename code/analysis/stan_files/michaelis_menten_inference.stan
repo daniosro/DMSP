@@ -1,14 +1,16 @@
 functions {
     // Define Michaelis-Menten model
-    vector enzyme_kinetics(
+    real[] enzyme_kinetics(
         real t,  // time
-        vector s,  // substrate concentration
-        real[] theta // parameters (V_max, K_M)
+        real[] s,  // substrate concentration
+        real[] theta, // parameters (V_max, K_M)
+        data real[] x_r,
+        data int[] x_i
     ) {
         // Initialize dS/dt
-        vector[1] ds_dt;
+        real ds_dt[1];
         // Compute dynamics
-        ds_dt = - theta[1] * s / (theta[2] + s[1]);
+        ds_dt[1] = - theta[1] * s[1] / (theta[2] + s[1]);
           
     return ds_dt;
     }
@@ -19,7 +21,7 @@ data {
     int<lower=1> n_sample;  // number of time samples
     real t_sample[n_sample];  // time points observed
     real s_[n_sample];  // data, substrate concentration
-    vector[1] s0;  // Initial substrate concentration
+    real s0[1];  // Initial substrate concentration
     real t0;  // Initial time
 
     //  Simulation information
@@ -33,7 +35,8 @@ data {
 }
 
 transformed data {
-
+    real x_r[0];
+    int x_i[0];
 }
 
 parameters {
@@ -50,8 +53,8 @@ transformed parameters{
     theta[2] = km_;
 
     // Numerically integrate the SIR ODEs
-    vector[1] s_hat[n_sample];   // solution from the ODE solver
-    s_hat = ode_rk45(enzyme_kinetics, s0, t0, t_sample, theta);
+    real s_hat[n_sample, 3];   // solution from the ODE solver
+    s_hat = integrate_ode_rk45(enzyme_kinetics, s0, t0, t_sample, theta, x_r, x_i);
 }
 
 model {
@@ -64,19 +67,19 @@ model {
     // Unpack predictions into array
     real s_int[n_sample];
     for (i in 1:n_sample){
-        s_int[i] = s_hat[i][1];
+        s_int[i] = s_hat[i, 1];
     }
     s_ ~ normal(s_int, sigma_);
 }
 
 generated quantities {
     // Run numerical integration with a finer grid 
-    vector[1] s_sim[n_sim];
-    s_sim = ode_rk45(enzyme_kinetics, s0, t0, t_sim, theta);
+    real s_sim[n_sim, 1];
+    s_sim = integrate_ode_rk45(enzyme_kinetics, s0, t0, t_sim, theta, x_r, x_i);
     
     // Simulate observational model
     real s_tilde[n_sim];
     for (i in 1:n_sim) {
-        s_tilde[i] = normal_rng(s_sim[i][1], sigma_);
+        s_tilde[i] = normal_rng(s_sim[i, 1], sigma_);
     }
 }
