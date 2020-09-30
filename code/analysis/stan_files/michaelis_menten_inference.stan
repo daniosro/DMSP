@@ -53,7 +53,7 @@ transformed parameters{
     theta[2] = km_;
 
     // Numerically integrate the SIR ODEs
-    real s_hat[n_sample, 3];   // solution from the ODE solver
+    real s_hat[n_sample, 1];   // solution from the ODE solver
     s_hat = integrate_ode_rk45(enzyme_kinetics, s0, t0, t_sample, theta, x_r, x_i);
 }
 
