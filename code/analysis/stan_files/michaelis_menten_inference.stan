@@ -79,12 +79,7 @@ model {
             x_r, x_i
         );
 
-        // Unpack predictions into array
-        real s_int[n_sample];
-        for (i in 1:n_sample) {
-            s_int[i] = s_hat[i, 1];
-        }
-        s_[j,:] ~ normal(s_int, sigma_);
+        s_[j,:] ~ normal(s_hat[:, 1], sigma_);
     }
 }
 
