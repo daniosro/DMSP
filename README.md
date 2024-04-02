@@ -1,6 +1,6 @@
 # Sulfur isotope fractionations constrain the biological cycling of dimethylsulfoniopropionate (DMSP) in the Upper Ocean
 
-Welcome to the GitHub repository that includes the code and data for this project.
+Welcome to the GitHub repository that includes the code and data for this project, published as: Osorio‐Rodriguez, D., Razo‐Mejia, M., Dalleska, N. F., Sessions, A. L., Orphan, V. J., & Adkins, J. F. (2021). Sulfur isotope fractionations constrain the biological cycling of dimethylsulfoniopropionate in the upper ocean. Limnology and Oceanography, 66(10), 3607-3618.
 
 ## Repository Architecture
 
